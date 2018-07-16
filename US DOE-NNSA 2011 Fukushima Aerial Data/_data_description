@@ -1,3 +1,5 @@
+enhanced version of the data contains also exposure rate in nanoSieverts per hour (nSv/h)
+
 1) CSV
 - structure is following:
 
