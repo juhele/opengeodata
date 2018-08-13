@@ -14,4 +14,4 @@ Public: This dataset is intended for public access and use.
 License: Creative Commons Attribution
 https://opendefinition.org/licenses/cc-by/
 
-the original data is in KML format which is not 
+the original data is in KML format which is not so good usable outside Google software tools so I created enhanced version of the data which contains also exposure rate in nanoSieverts per hour (nSv/h). The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example.
