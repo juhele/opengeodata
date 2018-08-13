@@ -16,5 +16,5 @@ https://opendefinition.org/licenses/cc-by/
 
 the original data is in KML format which is not so good usable outside Google software tools so I created enhanced version of the data which contains also exposure rate in nanoSieverts per hour (nSv/h). The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example.
 
-![Alt text](/DOE_AMS_C12_Cs134_Bq_20110630_points_v3_GeoPackage_preview.jpg?raw=true "Data set preview in QGIS")
+![Alt text](/data_preview.jpg?raw=true "Data set preview in QGIS")
 
