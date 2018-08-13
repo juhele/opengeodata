@@ -10,8 +10,11 @@ description provided by authors:
 The enclosed package represents radiation data collected with the fixed-wing aircraft (C-12) from 2 April 2011 to 9 May 2011. The data were collected with an array of large thallium activated sodium iodide (NaI(T)) crystals and associated readout electronics to produce time and location referenced measurements. These results represent raw data that have been calibrated to physical units and validated. They do not include any further evaluation.
 
 Access & Use Information
+
 Public: This dataset is intended for public access and use.
+
 License: Creative Commons Attribution
+
 https://opendefinition.org/licenses/cc-by/
 
 the original data is in KML format which is not so good usable outside Google software tools so I created enhanced version of the data which contains also exposure rate in nanoSieverts per hour (nSv/h). The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example.
