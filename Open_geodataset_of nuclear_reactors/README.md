@@ -13,3 +13,4 @@ World nuclear power reactors files available for download
 ![Alt text](World_nuclear_power_reactors_preview.jpg?raw=true "World nuclear power reactors in QGIS")
 Background map © OpenStreetMap contributors
 
+The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example.
