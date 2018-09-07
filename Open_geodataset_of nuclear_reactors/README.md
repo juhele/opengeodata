@@ -5,3 +5,8 @@ http://juhele.blogspot.com/2018/01/open-dataset-and-map-of-nuclear.html
 
 I am still working on it but I hope I will add some preliminary version here
 
+2018-09-07 update:
+
+![Alt text](World_nuclear_power_reactors_preview.jpg?raw=true "World nuclear power reactors in QGIS")
+Background map © OpenStreetMap contributors
+
