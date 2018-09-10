@@ -14,3 +14,16 @@ World nuclear power reactors files available for download
 Background map © OpenStreetMap contributors
 
 The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example.
+
+Data sources
+
+I also started with the Power Reactor Information System (PRIS)(1), developed and maintained by the IAEA. All the data used in my dataset were obtained from publicly available PRIS website.
+
+For the positions I used Wikipedia (2) to get approximate NPP positions and then adjusted them in Google Maps using Google Satellite map layer so the points are placed on each reactorblock if there is information about the block numbering (photos, internet news articles etc.). In other cases the point is placed in the middle of the reactor blocks or in a similar way. OpenStreetMap (OSM) (3) helped me much as it often contains more information then Google Maps so many thanks to all OSM contributors. Another useful source was Wikimapia.org (4).
+
+I also want to enrich (like uranium :-) ) the dataset with reactors not present in the PRIS database but mentioned on the Wikipedia “List of nuclear reactors” page. Some are already in the map like the infamous Windscale Piles etc.
+
+(1) https://pris.iaea.org/PRIS/home.aspx
+(2) https://en.wikipedia.org/wiki/List_of_nuclear_reactors
+(3) https://www.openstreetmap.org
+(4) http://wikimapia.org
