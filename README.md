@@ -7,3 +7,11 @@ Datasets currently available (see subfolders above):
 - uranium mines and deposits
 
 - world nuclear power reactors
+
+- US DOE/NNSA Response to 2011 Fukushima Incident: Raw Aerial Data and Extracted Ground Exposure Rates and Cesium Deposition
+
+Todo:
+
+- world nuclear research and other reactors
+
+- update "uranium mines and deposits" with data from other countries
