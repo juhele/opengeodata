@@ -2,8 +2,8 @@
 
 This repository will contain open geographic data of various sort I created for me or some of my projects.
 
-Currently available (see subfolders above):
+Datasets currently available (see subfolders above):
 
-- open dataset of uranium mines and deposits
+- uranium mines and deposits
 
-- 
+- world nuclear power reactors
