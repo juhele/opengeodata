@@ -24,6 +24,8 @@ For the positions I used Wikipedia (2) to get approximate NPP positions and then
 I also want to enrich (like uranium :-) ) the dataset with reactors not present in the PRIS database but mentioned on the Wikipedia “List of nuclear reactors” page. Some are already in the map like the infamous Windscale Piles etc.
 
 
+References:
+
 (1) https://pris.iaea.org/PRIS/home.aspx
 
 (2) https://en.wikipedia.org/wiki/List_of_nuclear_reactors
