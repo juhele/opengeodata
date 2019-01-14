@@ -15,6 +15,13 @@ https://inis.iaea.org/collection/NCLCollectionStore/_Public/41/030/41030200.pdf
 
 About the data:
 - real data, but changed location, date and time information
+- for more information check the data packages
+
+Data source for citation etc.:
+National Radiation Protection Institute (SURO)
+Prague, Czech Republic
+www.suro.cz
+
 - made almost manually using QGIS (1), LibreOffice (2) and Notepad++ (3)
 
 ![Alt text](package_1A_ERS1.0_demo_data_ITALY_preview2_detail.jpg?raw=true "Italy dataset preview")
