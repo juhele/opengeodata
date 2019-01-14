@@ -1,6 +1,7 @@
-#ERS (European Radiometric and Spectrometry format) data for software development and testing
-- ERS version 1.0
-- for more information about the format see this document:
+# ERS (European Radiometric and Spectrometry format) data for software development and testing
+
+# ERS version 1.0
+- data built following the official documentation:
 
 Bucher B, Guillot L, Strobl C, Butterweck G, Gutierrez S, Thomas M, Hohmann C, Krol I, Rybach L, Schwarz G. International intercomparison exercise of airborne gammaspectrometric systems of Germany, France and Switzerland in the framework of the Swiss Exercise ARM07. Villigen, Switzerland: Paul Scherrer Institut PSI; 2009. 130p. PSI Bericht Nr. 09-07.
 
