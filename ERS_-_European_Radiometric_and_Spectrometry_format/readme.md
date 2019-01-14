@@ -1,4 +1,4 @@
-ERS (European Radiometric and Spectrometry format) data for software development and testing
+#ERS (European Radiometric and Spectrometry format) data for software development and testing
 - ERS version 1.0
 - for more information about the format see this document:
 
