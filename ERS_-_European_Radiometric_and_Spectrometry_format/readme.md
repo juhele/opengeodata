@@ -18,9 +18,13 @@ About the data:
 - for more information check the data packages
 
 Data source for citation etc.:
+
 National Radiation Protection Institute (SURO)
+
 Prague, Czech Republic
+
 www.suro.cz
+
 
 - made almost manually using QGIS (1), LibreOffice (2) and Notepad++ (3)
 
