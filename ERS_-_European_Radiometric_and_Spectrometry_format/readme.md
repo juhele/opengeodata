@@ -4,15 +4,15 @@
 
 Description from the documentation (link to "PSI Bericht Nr. 09-07" below)
 
-*DESCRIPTION OF THE ERS FORMAT
+*DESCRIPTION OF THE ERS FORMAT*
 
-*A major goal of the European ECCOMAGS-project was the creation of a common data format for uncomplicated transfer between the participating measurement teams.
+*A major goal of the European ECCOMAGS-project was the creation of a common data format for uncomplicated transfer between the participating measurement teams.*
 
-*General principles
+*General principles*
 
-*The ERS-format (European Radiometric and Spectrometry format) is primarily designed for mobile measurements but can also be applied to In-situ measurements, to measurements on soil samples, to laboratory gamma spectrometry, to fixed measurement stations and so on. The objective is to have a general format, enough flexible to fit with the needs of various measurement techniques. In agreement with the format syntax, each community of users would recommend some rules to standardize the use of this format.
+*The ERS-format (European Radiometric and Spectrometry format) is primarily designed for mobile measurements but can also be applied to In-situ measurements, to measurements on soil samples, to laboratory gamma spectrometry, to fixed measurement stations and so on. The objective is to have a general format, enough flexible to fit with the needs of various measurement techniques. In agreement with the format syntax, each community of users would recommend some rules to standardize the use of this format.*
 
-*The ERS-format uses ASCII characters to provide easy access and easy use. There is no need to have reading and writing routines just to see the data. An ASCII format is also more flexible. It would make it easier to compose files with various contents. Some files would content spectral data, processed data or both. The syntax should be simple and easily readable. A format based on entities consisting of identifiers-value pairs describing the quantities and measured values was introduced in the PRD (Paired Radiation Data)-format defined by R.Finck (SSI) in 2002. The ERS-format uses the same syntax. It allows flexibility in the file content while providing good readability. A list of identifiers is defined and would be upgraded when needed. To maintain backward compatibility of the upgraded versions with the lower versions, all identifiers defined in the lower versions should be kept unchanged.
+*The ERS-format uses ASCII characters to provide easy access and easy use. There is no need to have reading and writing routines just to see the data. An ASCII format is also more flexible. It would make it easier to compose files with various contents. Some files would content spectral data, processed data or both. The syntax should be simple and easily readable. A format based on entities consisting of identifiers-value pairs describing the quantities and measured values was introduced in the PRD (Paired Radiation Data)-format defined by R.Finck (SSI) in 2002. The ERS-format uses the same syntax. It allows flexibility in the file content while providing good readability. A list of identifiers is defined and would be upgraded when needed. To maintain backward compatibility of the upgraded versions with the lower versions, all identifiers defined in the lower versions should be kept unchanged.*
 
 # ERS version 1.0
 - data built following the official documentation:
