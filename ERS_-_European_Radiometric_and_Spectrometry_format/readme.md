@@ -45,8 +45,10 @@ www.suro.cz
 Data previews:
 
 ![Alt text](package_1A_ERS1.0_demo_data_ITALY_preview2_detail.jpg?raw=true "Italy dataset preview")
+background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
 
 ![Alt text](package_2A_ERS1.0_demo_data_PERU_preview.jpg?raw=true "Peru dataset preview")
+background map: Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH
 
 Software links:
 
