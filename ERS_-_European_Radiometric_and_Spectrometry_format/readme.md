@@ -19,3 +19,9 @@ About the data:
 ![Alt text](package_1A_ERS1.0_demo_data_ITALY_preview2_detail.jpg?raw=true "Italy dataset preview")
 
 ![Alt text](package_2A_ERS1.0_demo_data_PERU_preview.jpg?raw=true "Peru dataset preview")
+
+Software links:
+
+(1) https://qgis.org
+(2) https://www.libreoffice.org
+(3) https://notepad-plus-plus.org
