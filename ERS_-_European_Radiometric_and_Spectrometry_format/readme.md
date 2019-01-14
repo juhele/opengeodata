@@ -3,9 +3,11 @@
 Description from the documentation (link below)
 
 "DESCRIPTION OF THE ERS FORMAT
+
 A major goal of the European ECCOMAGS-project was the creation of a common data format for uncomplicated transfer between the participating measurement teams.
 
 General principles
+
 The ERS-format (European Radiometric and Spectrometry format) is primarily designed for mobile measurements but can also be applied to In-situ measurements, to measurements on soil samples, to laboratory gamma spectrometry, to fixed measurement stations and so on. The objective is to have a general format, enough flexible to fit with the needs of various measurement techniques. In agree-
 ment with the format syntax, each community of users would recommend some rules to standardize the use of this format.
 
