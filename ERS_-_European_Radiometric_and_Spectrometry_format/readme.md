@@ -1,5 +1,7 @@
 # ERS (European Radiometric and Spectrometry format) data for software development and testing
 
+NOTE: implementation of the new version ERS 2.0 is currently in progress. I would like to also add specification and sample data of ERS version 2.0 later.
+
 Description from the documentation (link to "PSI Bericht Nr. 09-07" below)
 
 "DESCRIPTION OF THE ERS FORMAT
