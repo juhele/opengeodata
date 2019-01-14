@@ -1,6 +1,6 @@
 # ERS (European Radiometric and Spectrometry format) data for software development and testing
 
-Description from the documentation (link below)
+Description from the documentation (link to "PSI Bericht Nr. 09-07" below)
 
 "DESCRIPTION OF THE ERS FORMAT
 
