@@ -5,8 +5,11 @@ ERS (European Radiometric and Spectrometry format) data for software development
 Bucher B, Guillot L, Strobl C, Butterweck G, Gutierrez S, Thomas M, Hohmann C, Krol I, Rybach L, Schwarz G. International intercomparison exercise of airborne gammaspectrometric systems of Germany, France and Switzerland in the framework of the Swiss Exercise ARM07. Villigen, Switzerland: Paul Scherrer Institut PSI; 2009. 130p. PSI Bericht Nr. 09-07.
 
 available here:
+
 http://www.lib4ri.ch/archive/nebis/PSI_Berichte_000478272/PSI-Bericht_09-07_2D.pdf
+
 or:
+
 https://inis.iaea.org/collection/NCLCollectionStore/_Public/41/030/41030200.pdf
 
 About the data:
