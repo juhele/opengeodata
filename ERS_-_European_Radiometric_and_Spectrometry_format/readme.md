@@ -1,24 +1,16 @@
-this dataset contains following data:
+ERS (European Radiometric and Spectrometry format) data for software development and testing
+- ERS version 1.0
+- for more information about the format see this document:
 
-US DOE/NNSA Response to 2011 Fukushima Incident: Raw Aerial Data and Extracted Ground Exposure Rates and Cesium Deposition
-published here:
+Bucher B, Guillot L, Strobl C, Butterweck G, Gutierrez S, Thomas M, Hohmann C, Krol I, Rybach L, Schwarz G. International intercomparison exercise of airborne gammaspectrometric systems of Germany, France and Switzerland in the framework of the Swiss Exercise ARM07. Villigen, Switzerland: Paul Scherrer Institut PSI; 2009. 130p. PSI Bericht Nr. 09-07.
 
-https://catalog.data.gov/dataset/us-doe-nnsa-response-to-2011-fukushima-incident-raw-aerial-data-and-extracted-ground-expos-20e73
+available here:
+http://www.lib4ri.ch/archive/nebis/PSI_Berichte_000478272/PSI-Bericht_09-07_2D.pdf
+or:
+https://inis.iaea.org/collection/NCLCollectionStore/_Public/41/030/41030200.pdf
 
-description provided by authors:
-
-The enclosed package represents radiation data collected with the fixed-wing aircraft (C-12) from 2 April 2011 to 9 May 2011. The data were collected with an array of large thallium activated sodium iodide (NaI(T)) crystals and associated readout electronics to produce time and location referenced measurements. These results represent raw data that have been calibrated to physical units and validated. They do not include any further evaluation.
-
-Access & Use Information
-
-Public: This dataset is intended for public access and use.
-
-License: Creative Commons Attribution
-
-https://opendefinition.org/licenses/cc-by/
-
-Changes:
-
-the original data is in KML format which is not so good usable outside Google software tools so I created enhanced version of the data in more universal formats which contains also exposure rate in nanoSieverts per hour (nSv/h). The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example.
+About the data:
+- real data, but changed location, date and time information
+- made almost manually using QGIS (1), LibreOffice (2) and Notepad++ (3)
 
 ![Alt text](package_1A_ERS1.0_demo_data_ITALY_preview2_detail.jpg?raw=true "Italy dataset preview")
