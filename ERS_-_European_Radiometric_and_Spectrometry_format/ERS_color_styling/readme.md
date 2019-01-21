@@ -1,4 +1,4 @@
-the PSI Bericht Nr. 18-04 (1) defines following color scale:
+the PSI Bericht Nr. 18-04 (1) defines this color scale:
 
 ![Alt text](tab26.png?raw=true "Color scale - PSI Bericht Nr. 18-04, p65, Table 26")
 
