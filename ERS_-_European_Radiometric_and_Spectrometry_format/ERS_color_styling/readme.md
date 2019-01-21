@@ -1,6 +1,10 @@
 the PSI Bericht Nr. 18-04 (1) defines following color scale:
 
 ERS color scale in color codes:
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 | **percentage  | RGB color values  | HTML code |
 | ≤0  | 5:5:255  | #0505FF |
