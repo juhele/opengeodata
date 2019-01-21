@@ -1,6 +1,6 @@
 the PSI Bericht Nr. 18-04 (1) defines following color scale:
 
-![Alt text](color_scale_PSI-Report No. 18-04.png?raw=true "Color scale - PSI Bericht Nr. 18-04, p65, Table 26")
+![Alt text](opengeodata/ERS_-_European_Radiometric_and_Spectrometry_format/ERS_color_styling/color_scale_PSI-Report No. 18-04.png?raw=true "Color scale - PSI Bericht Nr. 18-04, p65, Table 26")
 
 ![Alt text](package_1A_ERS1.0_demo_data_ITALY_preview2_detail.jpg?raw=true "Italy dataset preview")
 background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
