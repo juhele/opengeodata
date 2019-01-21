@@ -3,9 +3,8 @@ the PSI Bericht Nr. 18-04 (1) defines following color scale:
 ERS color scale in color codes:
 
 percentage; RGB color values; HTML code
-
-≤0; 5:5:255; #0505FF
-10; 51:85:255; #3355FF
+* ≤0; 5:5:255; #0505FF
+* 10; 51:85:255; #3355FF
 20; 59:154:255; #3B9AFF
 30; 36:229:255; #24E5FF
 40; 112:255:210; #70FFD2
