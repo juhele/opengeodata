@@ -1,5 +1,7 @@
 the PSI Bericht Nr. 18-04 (1) defines following color scale:
 
+(color_scale_PSI-Report No. 18-04.png?raw=true "Color scale - PSI Bericht Nr. 18-04, p65, Table 26")
+
 ERS color scale in color codes:
 ```
 percentage; RGB color values; HTML code
