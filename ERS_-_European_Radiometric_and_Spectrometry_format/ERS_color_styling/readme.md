@@ -2,7 +2,7 @@ the PSI Bericht Nr. 18-04 (1) defines following color scale:
 
 ![Alt text](tab26.png?raw=true "Color scale - PSI Bericht Nr. 18-04, p65, Table 26")
 
-ERS color scale in color codes:
+and particular color codes derived from the image are following:
 ```
 percentage; RGB color values; HTML code
 ≤0; 5:5:255; #0505FF
