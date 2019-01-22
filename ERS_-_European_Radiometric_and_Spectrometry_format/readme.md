@@ -4,7 +4,7 @@
 
 **What is currently available?**
 
-2 demo datasets
+2 demo datasets (Italy and Peru)
 
 - "source" data in CSV and OGC GeoPackage formats
 - ERS 1.0 data - 2 files in each package, first is ERS 1.0 without spectra, second also includes 256 channel raw spectra
