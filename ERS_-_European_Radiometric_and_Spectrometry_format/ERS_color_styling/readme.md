@@ -25,7 +25,8 @@ provided files:
 
 **QGIS_layer_color_style_example_ERS_DHSR_uSvph.qml**
 - QGIS layer style file in native QML format
-- this example derived from "Italy" demo data
+- QML file is defined for particular layer, contains information about used data column, value ranges and attached colors
+- this example is derived from "Italy" demo data, but can be changed in QGIS and used for another layer and data column (requires changes and re-classification of the data in QGIS)
 
 preconfigured color ramps in QGIS XML format for easy import
 QGIS layer style file (QML) example derived from "Italy" demo data
