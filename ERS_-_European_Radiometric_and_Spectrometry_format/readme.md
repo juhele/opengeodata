@@ -2,6 +2,19 @@
 
 *NOTE: implementation of the new version ERS 2.0 is currently in progress. I would like to also add specification and sample data of ERS version 2.0 later.*
 
+**What is currently available?**
+
+2 demo datasets
+
+- "source" data in CSV and OGC GeoPackage formats
+- ERS 1.0 data - 2 files in each package, first is ERS 1.0 without spectra, second also includes 256 channel raw spectra
+
+Color styling information
+
+- preconfigured color ramps in QGIS XML format for easy import
+- QGIS layer style file (QML) example derived from "Italy" demo data
+- text information including RGB and HTML color codes for creating own style 
+
 **Description from the documentation (link to "PSI Bericht Nr. 09-07" below)**
 
 *DESCRIPTION OF THE ERS FORMAT*
