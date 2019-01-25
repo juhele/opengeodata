@@ -1,35 +1,34 @@
-attribute,meaning,format/unit,group/comment,available_in_demo_data,alias
-CD,date,YYYY-MM-DD,,1,date_UTC
-CT,time,hh:mm:ss,,1,time_UTC
-CDT,date and time,YYYY-MM-DD hh:mm:ss,,1,datetime_UTC
-AP,activity of a point source,Bq,A(sysid) – Activity, sysid - system identification is optional,0,AP_Bq
-AL,activity per unit length of a source distributed along a line,Bq/m,A(sysid) – Activity, sysid - system identification is optional,0,AL_Bq/m
-AA,activity per unit area of a source distributed over an area,Bq/m2,A(sysid) – Activity, sysid - system identification is optional,0,AA_Bq/m2
-AV,activity per unit volume of a source distributed in a volume,Bq/m3,A(sysid) – Activity, sysid - system identification is optional,0,AV_Bq/m3
-AD,activity per unit dry weight of a source distributed in a volume,Bq/kg,A(sysid) – Activity, sysid - system identification is optional,0,AD_Bq/kg
-AW,activity per unit wet weight of a source distributed in a volume,Bq/kg,A(sysid) – Activity, sysid - system identification is optional,0,AW_Bq/kg
-DHS,Ambient dose equivalent H*(10),μSv,D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins,0,DHS_μSv
-DHSR,Ambient dose equivalent rate dH*(10)/dt,μSv/h,D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins,1,DHSR_μSv/h
-DHI,Directional dose equivalent H',μSv,D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins,0,DHI_μSv
-DHIR,Directional dose equivalent rate dH'/dt,μSv/h,D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins,0,DHIR_μSv/h
-DHP,Personal dose equivalent Hp(10),μSv,D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins,0,DHP_μSv
-DHPR,Personal dose equivalent rate dHp(10)/dt,μSv/h,D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins,0,DHPR_μSv/h
-F,Fluence,1/m2,F(sysid) – Fluence. Sysid - system identification is optional,0,F_1/m2
-FR,Fluence rate,1/m2s,F(sysid) – Fluence. Sysid - system identification is optional,0,FR_1/m2s
-TL,Acquisition live time,ms,T(sysid) - Acquisition time. Sysid - system identification is optional,0,
-TR,Acquisition real time,ms,T(sysid) - Acquisition time. Sysid - system identification is optional,0,
-PA,Name or code for the measurement or sample point,Text or Numeric,P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point,1,point ID
-PB,Additional description of the measurement or sample point,Text,P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point,0,
-PN(coordid),Measurement or sample point coordinate N-S (latitude) Negative values are allowed, when appropriate,Numeric,P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point,1,Y_latitude
-PE(coordid),Measurement or sample point coordinate E-W (longitude) Negative values are allowed, when appropriate,Numeric,P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point,1,X_longitude
-PZ(coordid),Measurement or sample point, altitude above sea level,m,P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point,0,altitude_m
-PH,Measurement or sample point, ground clearance,m,P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point,1,height_m
-PP,Position precision,Numeric,P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point,0,
-PRA,Relative position of measurement or sample point, horizontal distance to centre of source,m,Relative location related to the source,0,
-PRH,Relative position of measurement or sample point, height above the centre of a source, negative values allowed,m,Relative location related to the source,0,
-PRB,Direction (bearing) of the measurement or sample point relative to the North direction (0-360 degrees) Example: A measurement point North of the source is 0 degrees
-A measurement point East of the source is 90 degrees,degree,Relative location related to the source,0,
-#C_winname,Counts in window or ROI winname,Numeric,Raw data,0,
-#R_winname,Count rate in window or ROI winname,1/s,Raw data,0,
-#S,Full Raw spectrum. Values separated by spaces. The number of channels is given by ISC.,Numeric,Raw data,1,
-#SC,Checksum of the spectral data Equals the total counts in the spectrum,Numeric,Raw data,1,
+attribute;meaning;format/unit;group/comment;available_in_demo_data;alias
+CD;date;YYYY-MM-DD;;1;date_UTC
+CT;time;hh:mm:ss;;1;time_UTC
+CDT;date and time;YYYY-MM-DD hh:mm:ss;;1;datetime_UTC
+AP;activity of a point source;Bq;A(sysid) – Activity, sysid - system identification is optional;0;AP_Bq
+AL;activity per unit length of a source distributed along a line;Bq/m;A(sysid) – Activity, sysid - system identification is optional;0;AL_Bq/m
+AA;activity per unit area of a source distributed over an area;Bq/m2;A(sysid) – Activity, sysid - system identification is optional;0;AA_Bq/m2
+AV;activity per unit volume of a source distributed in a volume;Bq/m3;A(sysid) – Activity, sysid - system identification is optional;0;AV_Bq/m3
+AD;activity per unit dry weight of a source distributed in a volume;Bq/kg;A(sysid) – Activity, sysid - system identification is optional;0;AD_Bq/kg
+AW;activity per unit wet weight of a source distributed in a volume;Bq/kg;A(sysid) – Activity, sysid - system identification is optional;0;AW_Bq/kg
+DHS;Ambient dose equivalent H*(10);μSv;D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins;0;DHS_μSv
+DHSR;Ambient dose equivalent rate dH*(10)/dt;μSv/h;D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins;1;DHSR_μSv/h
+DHI;Directional dose equivalent H';μSv;D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins;0;DHI_μSv
+DHIR;Directional dose equivalent rate dH'/dt;μSv/h;D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins;0;DHIR_μSv/h
+DHP;Personal dose equivalent Hp(10);μSv;D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins;0;DHP_μSv
+DHPR;Personal dose equivalent rate dHp(10)/dt;μSv/h;D(sysid) – Dose and dose rate. Sysid - system identification is optional Calculated for a height of 1 m above ground. Without identifier tail type 2 referring to the total dose or dose rate including contributions from photons, charged particles and neutrons of all origins;0;DHPR_μSv/h
+F;Fluence;1/m2;F(sysid) – Fluence. Sysid - system identification is optional;0;F_1/m2
+FR;Fluence rate;1/m2s;F(sysid) – Fluence. Sysid - system identification is optional;0;FR_1/m2s
+TL;Acquisition live time;ms;T(sysid) - Acquisition time. Sysid - system identification is optional;0;
+TR;Acquisition real time;ms;T(sysid) - Acquisition time. Sysid - system identification is optional;0;
+PA;Name or code for the measurement or sample point;Text or Numeric;P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point;1;point ID
+PB;Additional description of the measurement or sample point;Text;P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point;0;
+PN(coordid);Measurement or sample point coordinate N-S (latitude) Negative values are allowed, when appropriate;Numeric;P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point;1;Y_latitude
+PE(coordid);Measurement or sample point coordinate E-W (longitude) Negative values are allowed, when appropriate;Numeric;P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point;1;X_longitude
+PZ(coordid);Measurement or sample point, altitude above sea level;m;P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point;0;altitude_m
+PH;Measurement or sample point, ground clearance;m;P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point;1;height_m
+PP;Position precision;Numeric;P - Position and identification. The coordinate system (map datum) is defined by the IPC identifier that should be given before measured dataThe PA identifier should be placed at the beginning of the record for each measurement or sample point;0;
+PRA;Relative position of measurement or sample point, horizontal distance to centre of source;m;Relative location related to the source;0;
+PRH;Relative position of measurement or sample point, height above the centre of a source, negative values allowed;m;Relative location related to the source;0;
+PRB;Direction (bearing) of the measurement or sample point relative to the North direction (0-360 degrees) Example: A measurement point North of the source is 0 degrees. A measurement point East of the source is 90 degrees;degree;Relative location related to the source;0;
+#C_winname;Counts in window or ROI winname;Numeric;Raw data;0;
+#R_winname;Count rate in window or ROI winname;1/s;Raw data;0;
+#S;Full Raw spectrum. Values separated by spaces. The number of channels is given by ISC.;Numeric;Raw data;1;
+#SC;Checksum of the spectral data Equals the total counts in the spectrum;Numeric;Raw data;1;
