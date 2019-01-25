@@ -6,9 +6,9 @@ available here:
 
 https://www.researchgate.net/publication/330482739_International_Intercomparison_Exercise_of_Airborne_Gamma-Spectrometric_Systems_of_the_Czech_Republic_France_Germany_and_Switzerland_in_the_Framework_of_the_Swiss_Exercise_ARM17
 
-Header data:
+## Header data:
 
-General header information
+### General header information
 
 Header identifier H:
 
@@ -31,7 +31,7 @@ HSURVEY - Survey information: should include information about survey name, aime
 HTZ - Time zone. Specifies the difference of the time used to UTC - h
 
 
-Header identifier IA:
+### Header identifier IA:
 
 IA(sysid) - Instrumentation, apparatus 
 
