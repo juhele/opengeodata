@@ -71,3 +71,21 @@ IAQ - Gamma - solid state detector, Ge(Li) or HPGe - Text
 IAR - Gamma - other - Text
 
 IAZ - Other - Text
+
+
+### Header identifier IC:
+
+IC(sysid)
+Instrumentation, carrier or platform
+sysid - system identification is optional Value should describe the carrier
+
+ICA - Airborne (Type and registration number of the aircraft)
+
+ICG - Ground vehicle (Type and registration number of the vehicle)
+
+ICI - In situ
+
+ICP - Portable
+
+
+### Header identifier IC:
