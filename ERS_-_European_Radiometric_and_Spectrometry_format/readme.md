@@ -7,7 +7,7 @@
 2 demo datasets (Italy and Peru)
 
 - "source" data in CSV and OGC GeoPackage formats
-- ERS 1.0 data - 2 files in each package, first is ERS 1.0 without spectra, second also includes 256 channel raw spectra
+- ERS 1.0 data - 2 files in each package, first is ERS 1.0 without spectra, second also includes 256 channel raw gamma spectra measured with high volume NaI(Tl) scintillation detector carried in a helicopter
 
 Color styling information
 
