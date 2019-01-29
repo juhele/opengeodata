@@ -2,7 +2,7 @@
 
 For easier use for software developmnent and format implementation the description was moved in separate CSV file.
 
-**"ERS2.0_data_attributes.csv"**
+**"ERS2.0_data_attributes_1.csv"**
 
 source of the ERS2.0 format definitions:
 
