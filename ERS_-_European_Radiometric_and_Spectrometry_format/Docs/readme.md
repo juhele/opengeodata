@@ -13,6 +13,7 @@ The attributes and identifier tails are sometimes combined so the software imple
 Few examples of combining the field names (attributes) and the identifier tails are described below.
 In the testing packages you have data with following attributes:
 
+```
 PA
 CD
 CT
@@ -24,6 +25,7 @@ AD_U-238
 AD_Th-232
 AA_Cs-137
 DHSR
+```
 
 as you see, these:
 
