@@ -4,6 +4,10 @@ For easier use for software developmnent and format implementation the descripti
 
 **"ERS2.0_data_attributes_1.csv"**
 
+and
+
+**"ERS2.0_data_attributes_2_identifier_tails.csv"**
+
 source of the ERS2.0 format definitions:
 
 Butterweck, G., Bucher, B., Gryc, L., Debayle, C., Strobl, C.,  Maillard, S., Thomas, M., Helbig, A., Krol, I., Chuzel, S., Couvez, C., Ohera, M., Rybach, L., Poretti, C.,  Hofstetter-Boillat, B., Mayer, S., Scharding, G.: International Intercomparison Exercise of Airborne Gamma-Spectrometric Systems of the Czech Republic, France, Germany and Switzerland in the Framework of the Swiss Exercise ARM17. PSI-Report No. 18-04, ISSN 1019-0643, Paul Scherrer Institut, Villigen, Switzerland, 2018.
