@@ -1,0 +1,28 @@
+attribute;meaning;format/unit;group/comment;available_in_demo_data;alias
+_LC;Decision limitExample: Decision limit for activity per unit area AA_LC;As identifier;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 2;0;
+_LD;Detection limit;As identifier;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 3;0;
+_LQ;Determination limit;As identifier;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 4;0;
+_UR;Random uncertainty;As identifier;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 5;0;
+_US;Systematic uncertainty;As identifier;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 6;0;
+_UT;Combined total uncertainty;As identifier;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 7;0;
+_URP;Relative random uncertainty;0/;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 8;0;
+_USP;Relative systematic uncertainty;0/;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 9;0;
+_UTP;Relative combined total uncertainty;0/;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 10;0;
+_DXX;Identification of detectorFor the case that data of more than one detector are stored for a measurement or sample point Examples: #S_D01, DHSR_D02;Numeric;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 11;0;
+_+;Continuation character (e.g. #S_+, #S_D03_+ );;Identifier tail Type 1 – Detection limit, uncertainty, apparent and estimated values. Can be used for activity, dose, dose rate,fluence and fluence rate. Should be written before identifier tail Type 12;0;
+_Xx-000m;Radionuclide, all radionuclides allowed. Examples: _Cs-137, _Tc-99m. Decision limit for Cs-137 per unit area AA_LC_Cs-137;As identifier;Identifier tail Type 2 – Radionuclide, energy Can be used for activity, dose, dose rate, fluence, fluence rate, source descriptions and source coordinates;1;
+_TOT;Total for all origins (_COS + _GND);As identifier;Identifier tail Type 2 – Radionuclide, energy Can be used for activity, dose, dose rate, fluence, fluence rate, source descriptions and source coordinates;0;
+NAT;Natural radionuclides;As identifier;Identifier tail Type 2 – Radionuclide, energy Can be used for activity, dose, dose rate, fluence, fluence rate, source descriptions and source coordinates;0;
+_ANT;Antropogenic radionuclides;As identifier;Identifier tail Type 2 – Radionuclide, energy Can be used for activity, dose, dose rate, fluence, fluence rate, source descriptions and source coordinates;0;
+_GND;Contribution of ground (_ANT + _NAT);As identifier;Identifier tail Type 2 – Radionuclide, energy Can be used for activity, dose, dose rate, fluence, fluence rate, source descriptions and source coordinates;0;
+_COS;Cosmic contribution. Example: DHSR_COS includes contributions of photons, neutrons and charged particles produced by cosmic radiation;As identifier;Identifier tail Type 2 – Radionuclide, energy Can be used for activity, dose, dose rate, fluence, fluence rate, source descriptions and source coordinates;0;
+_Eenergy;Energy (given in keV). Example: _E662;As identifier;Identifier tail Type 2 – Radionuclide, energy Can be used for activity, dose, dose rate, fluence, fluence rate, source descriptions and source coordinates;0;
+_RE;Reference date and/or time;As identifier;Identifier tail Type 3Specification of date and time;0;
+_SA;Sampling date and/or time;As identifier;Identifier tail Type 3Specification of date and time;0;
+_S;Start of measurement or sampling interval Can be combined with _SAExample: CDT_SA_S Start date and time of sampling interval;As identifier;Identifier tail Type 3Specification of date and time;0;
+_M;Middle of measurement or sampling interval Can be combined with _SA;As identifier;Identifier tail Type 3Specification of date and time;0;
+_P;Stop of measurement or sampling interval Can be combined with _SA;As identifier;Identifier tail Type 3Specification of date and time;0;
+MR_winname1 _winname2;Ratio of counts in window or ROI winnamel to counts in window or ROI winname2;Numeric;M – Miscellaneous identifiers;0;
+MTC;Topographic correction applied Allowed values are Y or N;Text;M – Miscellaneous identifiers;0;
+MRC;Radon correction applied Allowed values are Y or N;Text;M – Miscellaneous identifiers;0;
+MND;Value indicating no data available Example: -999;Numeric;M – Miscellaneous identifiers;0;
