@@ -4,6 +4,8 @@ This repository will contain open geographic data of various sort I created for 
 
 Datasets currently available (see subfolders above):
 
+- ERS (European Radiometric and Spectrometry format) - demo data for software development and testing
+
 - uranium mines and deposits
 
 - world nuclear power reactors
