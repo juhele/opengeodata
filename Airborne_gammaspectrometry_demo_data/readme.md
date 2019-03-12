@@ -19,11 +19,11 @@ The data were measured using IRIS airborne gamma-ray spectrometric system develo
 - This package contains data for flight project (including separate files with survey- and tie-lines definitions) in 
 Pico Envirotec defined format. Can be loaded using [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/) or AGIS software. Tthe files themselves are formatted text files which can be opened using an advanced text editor like [Notepad++](https://notepad-plus-plus.org)
 
-AUS_Uluru_IRIS_demo_project_2017-04-01_final.xyz
+AUS_Uluru_IRIS_demo_project_2017-04-01_final.xyz - main file (incl. flight polygon definition etc.)
 
-AUS_Uluru_IRIS_demo_project_2017-04-01_final_sl.xyz
+AUS_Uluru_IRIS_demo_project_2017-04-01_final_sl.xyz - survey lines data
 
-AUS_Uluru_IRIS_demo_project_2017-04-01_final_tl.xyz
+AUS_Uluru_IRIS_demo_project_2017-04-01_final_tl.xyz - tie lines data
 
 *2) 
 
