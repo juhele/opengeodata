@@ -38,7 +38,13 @@ Data in a simple text or CSV format. Plus data from PEI header as a reference.
 
 ### 4) package_3_Australia_demo_airborne_gammaspectrometry_data_GIS ###
 
-This package contains fully usable GIS project for [QGIS](https://qgis.org/en/site/), including background map using Copernicus Sentinel data [2019] processed by [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) 
+This package contains fully usable GIS project for [QGIS](https://qgis.org/en/site/), including background map using Copernicus Sentinel data [2019] processed by [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/). To run the project in QGIS (you need to have QGIS installed on your PC) just unpack the 7z file and run "_Australia_Uluru_airborne_demo_project_v01.qgs".
+
+The data layers are in [OGC GeoPackage](https://www.geopackage.org) standard format:
+
+*A GeoPackage (GPKG) is an open, non-proprietary, platform-independent and standards-based data format for geographic information system implemented as a SQLite database container. Defined by the Open Geospatial Consortium (OGC) with the backing of the US military and published in 2014, GeoPackage has seen wide widespread support from various government, commercial, and open source organizations.
+(source: [Wikipedia](https://en.wikipedia.org/wiki/GeoPackage))*
+
 
 Note: Preparation in progress.
 
