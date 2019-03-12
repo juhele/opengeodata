@@ -11,7 +11,7 @@ The data were measured using IRIS airborne gamma-ray spectrometric system develo
 - height values calculated to match the new location
 - for more information check the data packages
 
-Data source for citation etc.:
+**Data source for citation etc.:**
 
 National Radiation Protection Institute (SURO)
 
@@ -21,7 +21,7 @@ www.suro.cz
 
 - made almost manually using QGIS (1), LibreOffice (2) and Notepad++ (3)
 
-Data previews:
+**Data previews:**
 
 ![Alt text](img/QGIS_preview_DosG.jpg?raw=true "Uluru DEMO data - dose rate values preview")
 background map: Contains modified Copernicus Sentinel data [2019] processed by Sentinel Hub
