@@ -48,7 +48,7 @@ The data layers are in [OGC GeoPackage](https://www.geopackage.org) standard for
 
 The main benefit here is that GeoPackage (GPKG) is one file able to store data, color style, coordinate system data and other information so you just drag and drop the *.gpkg file in empty QGIS window and the layer is loaded with color style applied and without any additional settings required. 
 
-The package is too big (GitHub has 25MB limit) so get the dataset from [MediaFire](http://www.mediafire.com/file/hyihaqhwsduzdkd/package_3_Australia_demo_airborne_gammaspectrometry_data_GIS.7z/file) - it has about 33MB.
+The package is too big (GitHub has 25MB limit) so [get the dataset from MediaFire](http://www.mediafire.com/file/hyihaqhwsduzdkd/package_3_Australia_demo_airborne_gammaspectrometry_data_GIS.7z/file) - it has about 33MB.
 
 ## Data source for citation etc.: ##
 
