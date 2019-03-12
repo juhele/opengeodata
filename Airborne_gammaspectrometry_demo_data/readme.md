@@ -23,10 +23,10 @@ www.suro.cz
 
 Data previews:
 
-![Alt text](package_1A_ERS1.0_demo_data_ITALY_preview2_detail.jpg?raw=true "Italy dataset preview")
+![Alt text](img/QGIS_preview_DosG.jpg?raw=true "Uluru DEMO data - dose rate values preview")
 background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
 
-![Alt text](package_2A_ERS1.0_demo_data_PERU_preview.jpg?raw=true "Peru dataset preview")
+![Alt text](img/QGIS_preview_UsedAlt.jpg?raw=true "Uluru DEMO data - heights above ground values preview")
 background map: Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH
 
 Software links:
