@@ -38,7 +38,7 @@ Data in a simple text or CSV format. Plus data from PEI header as a reference.
 
 ### 4) package_3_Australia_demo_airborne_gammaspectrometry_data_GIS ###
 
-This package contains fully usable GIS project for [QGIS](https://qgis.org/en/site/), including background map using Copernicus Sentinel data [2019] processed by [Sentinel Hub](https://apps.sentinel-hub.com/eo-browser/) 
+This package contains fully usable GIS project for [QGIS](https://qgis.org/en/site/), including background map using Copernicus Sentinel data [2019] processed by [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) 
 
 Note: Preparation in progress.
 
