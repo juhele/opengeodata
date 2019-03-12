@@ -1,10 +1,10 @@
 # DEMO Airborne gammaspectrometric data "Uluru"
 
-## Measuring device##
+## Measuring device ##
 
 The data were measured using IRIS airborne gamma-ray spectrometric system developed by Pico Envirotec Inc. Company in Toronto, Canada. Two boxes (Master and Slave), each box with 2 NaI(Tl) crystals with dimensions 10x10x40 cm were used.
 
-**About the data**
+## About the data ##
 
 - real data - all the radiation data incl. dose rate values, raw 512 channel spectra etc.
 - changed location (to well known Uluru/Ayers Rock, Australia)
@@ -12,9 +12,9 @@ The data were measured using IRIS airborne gamma-ray spectrometric system develo
 - height values calculated to match the new location
 - for more information check the data packages
 
-**Data packages:**
+## Data packages: ##
 
-*1) package_0_Australia_demo_airborne_gammaspectrometry_data_PEI_project_data*
+**1) package_0_Australia_demo_airborne_gammaspectrometry_data_PEI_project_data**
 
 - This package contains data for flight project (including separate files with survey- and tie-lines definitions) in 
 Pico Envirotec defined format. Can be opened using PEIConvert (http://picoenvirotec.com/enviro/peiconvert/) or AGIS software.
@@ -25,7 +25,7 @@ AUS_Uluru_IRIS_demo_project_2017-04-01_final_tl.xyz
 
 *2) 
 
-**Data source for citation etc.:**
+## Data source for citation etc.: ##
 
 National Radiation Protection Institute (SURO)
 
@@ -35,7 +35,7 @@ www.suro.cz
 
 - made almost manually using QGIS (1), LibreOffice (2) and Notepad++ (3)
 
-**Data previews:**
+## Data previews: ##
 
 Dose rate values in nGy/h (DosG_nGyph) recalculated to height 1 meter above ground:
 ![Alt text](img/QGIS_preview_DosG.jpg?raw=true "Uluru DEMO data - dose rate values preview")
