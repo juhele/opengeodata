@@ -20,7 +20,9 @@ The data were measured using IRIS airborne gamma-ray spectrometric system develo
 Pico Envirotec defined format. Can be opened using PEIConvert (http://picoenvirotec.com/enviro/peiconvert/) or AGIS software.
 
 AUS_Uluru_IRIS_demo_project_2017-04-01_final.xyz
+
 AUS_Uluru_IRIS_demo_project_2017-04-01_final_sl.xyz
+
 AUS_Uluru_IRIS_demo_project_2017-04-01_final_tl.xyz
 
 *2) 
