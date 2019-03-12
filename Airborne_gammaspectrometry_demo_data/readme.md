@@ -7,7 +7,7 @@ The data were measured using IRIS airborne gamma-ray spectrometric system develo
 ## About the data ##
 
 - real data - all the radiation data incl. dose rate values, raw 512 channel spectra etc.
-- changed location (to well known Uluru/Ayers Rock, Australia)
+- changed location (to well known [Uluru/Ayers Rock, Australia](https://en.wikipedia.org/wiki/Uluru))
 - changed date and time information (date is now 01.04.2017 - e.g. 1st April :-) and starting time 11:11:11)
 - height values calculated to match the new location
 - for more information check the data packages
