@@ -32,6 +32,13 @@ Data file in Pico Envirotec PEI binary format - can be loaded using [PEIView](ht
 
 Note: Preparation in progress.
 
+### 3) package_2_Australia_demo_airborne_gammaspectrometry_data_CSV_measurement_data ###
+
+Data in a simple text or CSV format.
+
+Note: Preparation in progress.
+
+
 ## Data source for citation etc.: ##
 
 National Radiation Protection Institute (SURO)
