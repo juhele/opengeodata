@@ -45,6 +45,8 @@ The data layers are in [OGC GeoPackage](https://www.geopackage.org) standard for
 *A GeoPackage (GPKG) is an open, non-proprietary, platform-independent and standards-based data format for geographic information system implemented as a SQLite database container. Defined by the Open Geospatial Consortium (OGC) with the backing of the US military and published in 2014, GeoPackage has seen wide widespread support from various government, commercial, and open source organizations.
 (source: [Wikipedia](https://en.wikipedia.org/wiki/GeoPackage))*
 
+The main benefit here is that GeoPackage (GPKG) is one file able to store data, color style, coordinate system data and other information so you just drag and drop the *.gpkg file in
+
 
 Note: Preparation in progress.
 
