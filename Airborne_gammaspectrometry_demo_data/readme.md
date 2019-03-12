@@ -1,6 +1,6 @@
 # DEMO Airborne gammaspectrometric data "Uluru"
 
-**Measuring device**
+## Measuring device##
 
 The data were measured using IRIS airborne gamma-ray spectrometric system developed by Pico Envirotec Inc. Company in Toronto, Canada. Two boxes (Master and Slave), each box with 2 NaI(Tl) crystals with dimensions 10x10x40 cm were used.
 
