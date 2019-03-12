@@ -24,10 +24,10 @@ www.suro.cz
 Data previews:
 
 ![Alt text](img/QGIS_preview_DosG.jpg?raw=true "Uluru DEMO data - dose rate values preview")
-background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
+background map: Contains modified Copernicus Sentinel data [2019] processed by Sentinel Hub
 
 ![Alt text](img/QGIS_preview_UsedAlt.jpg?raw=true "Uluru DEMO data - heights above ground values preview")
-background map: Sentinel-2 cloudless - https://s2maps.eu by EOX IT Services GmbH
+background map: Contains modified Copernicus Sentinel data [2019] processed by Sentinel Hub
 
 Software links:
 
