@@ -34,9 +34,7 @@ Note: Preparation in progress.
 
 ### 3) package_2_Australia_demo_airborne_gammaspectrometry_data_CSV_measurement_data ###
 
-Data in a simple text or CSV format.
-
-Note: Preparation in progress.
+Data in a simple text or CSV format. Plus data from PEI header as a reference.
 
 
 ## Data source for citation etc.: ##
