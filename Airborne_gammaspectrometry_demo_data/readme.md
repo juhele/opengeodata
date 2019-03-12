@@ -54,12 +54,12 @@ www.suro.cz
 **Dose rate values in nGy/h (DosG_nGyph) recalculated to height 1 meter above ground:**
 
 ![Alt text](img/QGIS_preview_DosG.jpg?raw=true "Uluru DEMO data - dose rate values preview")
-*background map: Contains modified Copernicus Sentinel data [2019] processed by Sentinel Hub
+*background map: Contains modified Copernicus Sentinel data [2019] processed by Sentinel Hub*
 
 **Height above ground (UsedAlt_m) values:**
 
 ![Alt text](img/QGIS_preview_UsedAlt.jpg?raw=true "Uluru DEMO data - heights above ground values preview")
-*background map: Contains modified Copernicus Sentinel data [2019] processed by Sentinel Hub
+*background map: Contains modified Copernicus Sentinel data [2019] processed by Sentinel Hub*
 
 Software links:
 
