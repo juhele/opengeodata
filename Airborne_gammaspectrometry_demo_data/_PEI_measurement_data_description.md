@@ -1,8 +1,12 @@
 PEI airborne gammaspectrometric data description (in the same order as in the provided demo data):
 
+
 LineNo - Locked line number
+
 Line - Locked line number (ASCII)
+
 RECS - fiducial-records
+
 DTsc_sec - elapsed time (sec)
 SyncTime_ms - Synchronization time msec of the day (ms)
 RecTime_ms - Recording time msec of the day (ms)
@@ -12,7 +16,7 @@ RecDev - GPS=1 Mag=2 GRS10=3 AGRS=4 AGRSC=5 GPS2=6 SpecRSI=7 Dosemeter=8 Timer=2
 MarkTm - mark time
 UsedAlt_m - Used altitude (m) (e.g. height above ground)
 XTE_m - Cross Track Error (m)
-InOut - Inside/Outside of the area: I – inside; i – outside
+InOut - Inside/Outside of the area: I â€“ inside; i â€“ outside
 GHead_deg - GPS heading (deg)
 GSpeed_km/hr - GPS speed (km/h)
 Galt_m - GPS Altitude (m)
@@ -27,7 +31,7 @@ Stl - Number of Used Satellites
 Epoch_sec - Epoch - number of sec since 12:00AM 1-Jan-1970 
 TickGPS - Tick GGA string
 SpecTick - Spec data tick
-ISPS - Spectrometer tuning status. Possible values: T - Thorium, U - Uranium, K - Potassium, A – Almanac, N - not tuned, 0 –not connected, n – invalid data received from detector. 
+ISPS - Spectrometer tuning status. Possible values: T - Thorium, U - Uranium, K - Potassium, A â€“ Almanac, N - not tuned, 0 â€“not connected, n â€“ invalid data received from detector. 
 Th_cps - Thorium window Down (cps)
 U_cps - Uranium window Down (cps)
 K_cps - Potassium window Down (cps)
@@ -37,8 +41,8 @@ Uu_cps - Uranium window Up (cps)
 Cos_cps - Cosmic channel (cps)
 TC_cps - Total count Down (cps)
 TCu_cps - Total count Up (cps)
-LSp_cps - Low spectrum (110 – 1200 keV) window Down (cps)
-LSpu_cps - Low spectrum (110 – 1200 keV) window  Up (cps)
+LSp_cps - Low spectrum (110 â€“ 1200 keV) window Down (cps)
+LSpu_cps - Low spectrum (110 â€“ 1200 keV) window  Up (cps)
 I_cps - Iodine window Down (AGRS IRIS only)(cps)
 Ru_cps - Ruthenium window Down (AGRS IRIS only)(cps)
 DosL_nGyph - Local dose rate (nGyph)
@@ -62,14 +66,14 @@ G130014_ratio - ratio,gain
 G130015_ratio - ratio,gain
 G130032_ratio - ratio,gain
 G130030_ratio - ratio,gain
-TA130014_µs - TAcq (µs)
-TA130015_µs - TAcq (µs)
-TA130032_µs - TAcq (µs)
-TA130030_µs - TAcq (µs)
-TL130014_µs - TLive (µs)
-TL130015_µs - TLive (µs)
-TL130032_µs - TLive (µs)
-TL130030_µs - TLive (µs)
+TA130014_Âµs - TAcq (Âµs)
+TA130015_Âµs - TAcq (Âµs)
+TA130032_Âµs - TAcq (Âµs)
+TA130030_Âµs - TAcq (Âµs)
+TL130014_Âµs - TLive (Âµs)
+TL130015_Âµs - TLive (Âµs)
+TL130032_Âµs - TLive (Âµs)
+TL130030_Âµs - TLive (Âµs)
 ReV130014_mV - ADC_Ref_V (mV)
 ReV130015_mV - ADC_Ref_V (mV)
 ReV130032_mV - ADC_Ref_V (mV)
