@@ -167,10 +167,10 @@ ISPD,512,wd*,1.000000,0.000000,cps,
 
 ISPU,512,wd*,1.000000,0.000000,cps,
 
-this file was created for:
-https://github.com/juhele/opengeodata/tree/master/Airborne_gammaspectrometry_demo_data
-
-
 References:
 1) PEI binary file header
 2) AGIS/IRIS Airborne Geophysical Information System Operation Manual, Revised Oct l 2004, Version 2.3.2, Pico Envirotc Inc., publicly available from: http://intranet.geoecomar.ro/rchm/wp-content/uploads/downloads/2013/05/Agis-OM_VER2_2.3.2_.pdf
+
+this file was created for:
+
+https://github.com/juhele/opengeodata/tree/master/Airborne_gammaspectrometry_demo_data
