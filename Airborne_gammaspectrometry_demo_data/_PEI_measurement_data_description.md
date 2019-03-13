@@ -8,23 +8,41 @@ Line - Locked line number (ASCII)
 RECS - fiducial-records
 
 DTsc_sec - elapsed time (sec)
+
 SyncTime_ms - Synchronization time msec of the day (ms)
+
 RecTime_ms - Recording time msec of the day (ms)
+
 Sync - Synchronization tick
+
 RecTick - Recording Tick
+
 RecDev - GPS=1 Mag=2 GRS10=3 AGRS=4 AGRSC=5 GPS2=6 SpecRSI=7 Dosemeter=8 Timer=20 Force=+10
+
 MarkTm - mark time
+
 UsedAlt_m - Used altitude (m) (e.g. height above ground)
+
 XTE_m - Cross Track Error (m)
+
 InOut - Inside/Outside of the area: I – inside; i – outside
+
 GHead_deg - GPS heading (deg)
+
 GSpeed_km/hr - GPS speed (km/h)
+
 Galt_m - GPS Altitude (m)
+
 XCo_m - X coordinate (m), for "Uluru" demo data is it UTM coordinate - exactly WGS84 UTM Zone 52S - EPSG:32752
+
 YCo_m - Y coordinate (m), for "Uluru" demo data is it UTM coordinate - exactly WGS84 UTM Zone 52S - EPSG:32752
+
 Lat_deg - latitude coordinate in decimal degrees (WGS84 - EPSG:4326)
+
 Lon_deg - longitude coordinate in decimal degrees (WGS84 - EPSG:4326)
+
 Geos_m  - Geoidal separation (m)
+
 Gtm_sec - GPS Time - UTC / GMT - (sec)
 GPSFix - GPS Fix
 Stl - Number of Used Satellites
