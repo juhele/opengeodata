@@ -17,7 +17,7 @@ The data were measured using IRIS airborne gamma-ray spectrometric system develo
 ### 1) package_0_Australia_demo_airborne_gammaspectrometry_data_PEI_project_data ###
 
 - This package contains data for flight project (including separate files with survey- and tie-lines definitions) in 
-Pico Envirotec defined format. Can be loaded using [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/) or AGIS software. Tthe files themselves are formatted text files which can be opened using an advanced text editor like [Notepad++](https://notepad-plus-plus.org)
+Pico Envirotec defined format. Can be loaded using [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/) or AGIS software. The files themselves are formatted text files which can be opened using an advanced text editor like [Notepad++](https://notepad-plus-plus.org)
 
 AUS_Uluru_IRIS_demo_project_2017-04-01_final.xyz - main file (incl. flight polygon definition etc.)
 
