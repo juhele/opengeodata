@@ -30,7 +30,7 @@ AUS_Uluru_IRIS_demo_project_2017-04-01_final_tl.xyz - tie lines data
 
 Data file in Pico Envirotec PEI format - can be loaded using [PEIView](http://picoenvirotec.com/enviro/peiview/)
 
-Ready to download.
+Ready to download - [get the dataset from MediaFire](http://www.mediafire.com/file/tsn5886x633hxd8/package_1_Australia_demo_airborne_gammaspectrometry_data_PEI_measurement_data.7z/file)
 
 ### 3) package_2_Australia_demo_airborne_gammaspectrometry_data_CSV_measurement_data ###
 
