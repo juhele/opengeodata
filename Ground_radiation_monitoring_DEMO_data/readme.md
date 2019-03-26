@@ -43,8 +43,13 @@ Also contains "details" folder with exported PEI header and data in CSV and QGIS
 ## data previews (FastDose, microSv/h) ##
 
 ![Alt text](img/MobDose_CZ_demo.jpg?raw=true "demo 1 - Czech Republic")
+background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
 
+![Alt text](img/MobDose_NZ_demo.jpg?raw=true "demo 2 - New Zealand")
+background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
 
+![Alt text](img/MobDose_CZ_demo.jpg?raw=true "demo 3 - Hawaii, USA")
+background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
 
 - data source for citation etc.:
 
