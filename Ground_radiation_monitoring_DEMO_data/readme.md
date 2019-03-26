@@ -34,25 +34,14 @@ The data were measured using the Mob-DOSE (also called PDOSE-3) portable device,
 
 ## package contents ##
 
-Each package contains data from fictional measurement in particular area using the Mob-DOSE (1)(also called PDOSE-3) portable device, in PEI format defined by Pico Envirotec. Can be opened using PEI software like PEIView (2) or PEIConvert (3).
+Each package contains data from fictional measurement in particular area using the Mob-DOSE portable device, in PEI format.
 
-The radiation data are real but the location and time/date parameters were changed.
-
-Also contains "details" folder with exported PEI header and data in CSV and QGIS... folder with full project for QGIS (4) including styled point layer in OGC GeoPackage standard format.
+Also contains "details" folder with exported PEI header and data in CSV and QGIS... folder with full project for [QGIS](https://qgis.org)  including styled point layer in [OGC GeoPackage standard formatQ](https://www.geopackage.org).
 
 - data source for citation etc.:
+
 National Radiation Protection Institute (SURO)
+
 Prague, Czech Republic
+
 www.suro.cz
-
-Contact:
-Jan Helebrant
-jan.helebrant@suro.cz
-
-Software links:
-
-(1) http://picoenvirotec.com/enviro/pdose-3/
-(2) http://picoenvirotec.com/enviro/peiview/
-(3) http://picoenvirotec.com/enviro/peiconvert/
-(4) https://qgis.org
-(5) https://www.geopackage.org
