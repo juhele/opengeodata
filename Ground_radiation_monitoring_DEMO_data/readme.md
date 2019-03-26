@@ -36,7 +36,7 @@ The data were measured using the Mob-DOSE (also called PDOSE-3) portable device,
 
 Each package contains data from fictional measurement in particular area using the Mob-DOSE portable device, in PEI format.
 
-Also contains "details" folder with exported PEI header and data in CSV and QGIS... folder with full project for [QGIS](https://qgis.org)  including styled point layer in [OGC GeoPackage standard formatQ](https://www.geopackage.org).
+Also contains "details" folder with exported PEI header and data in CSV and QGIS... folder with full project for [QGIS](https://qgis.org)  including styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org).
 
 - data source for citation etc.:
 
