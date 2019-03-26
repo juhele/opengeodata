@@ -51,7 +51,7 @@ background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
 ![Alt text](img/MobDose_CZ_demo.jpg?raw=true "demo 3 - Hawaii, USA")
 background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
 
-- data source for citation etc.:
+## data source for citation etc.: ##
 
 National Radiation Protection Institute (SURO)
 
