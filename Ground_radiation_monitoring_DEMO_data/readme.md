@@ -40,6 +40,12 @@ Each package contains data from fictional measurement in particular area using t
 
 Also contains "details" folder with exported PEI header and data in CSV and QGIS... folder with full project for [QGIS](https://qgis.org)  including styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org).
 
+## data previews (FastDose, microSv/h) ##
+
+![Alt text](img/MobDose_CZ_demo.jpg?raw=true "demo 1 - Czech Republic")
+
+
+
 - data source for citation etc.:
 
 National Radiation Protection Institute (SURO)
