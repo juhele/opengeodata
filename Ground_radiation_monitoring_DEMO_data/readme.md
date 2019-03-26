@@ -1,4 +1,4 @@
-# DEMO Airborne gammaspectrometric data "Uluru"
+# DEMO ground radiation monitoring data from Mob-DOSE detector
 
 ## Measuring device ##
 
