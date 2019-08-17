@@ -4,6 +4,8 @@ This repository will contain open geographic data of various sort I created for 
 
 Datasets currently available (see subfolders above):
 
+- DEMO Airborne gammaspectrometric data "Uluru" - using using IRIS airborne gamma-ray spectrometric system developed by Pico Envirotec Inc. Company in Toronto, Canada - real data - all the radiation data incl. dose rate values, raw 512 channel spectra etc., changed location (to well known Uluru/Ayers Rock, Australia)
+
 - ERS (European Radiometric and Spectrometry format) - demo data for software development and testing
 
 - uranium mines and deposits
