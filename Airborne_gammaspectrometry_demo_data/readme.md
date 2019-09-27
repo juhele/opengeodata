@@ -1,7 +1,7 @@
 # DEMO Airborne gammaspectrometric data "Uluru"
 
 ![Alt text](img/Uluru_airborne_measurements_web.jpg?raw=true "Uluru DEMO data - photo")
-*this way could it look like if the measurement was real :-)*
+*this way could it look like if the measurement was real :-) (made with the GIMP, source photos by Jan Helebrant and Pixabay.com*
 
 ## Measuring device ##
 
