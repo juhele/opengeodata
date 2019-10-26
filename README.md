@@ -6,6 +6,8 @@ Datasets currently available (see subfolders above):
 
 - DEMO Airborne gammaspectrometric data "Uluru" - using using IRIS airborne gamma-ray spectrometric system developed by Pico Envirotec Inc. Company in Toronto, Canada - real data - all the radiation data incl. dose rate values, raw 512 channel spectra etc., changed location (to well known Uluru/Ayers Rock, Australia)
 
+- DRONES-G demo UAV measurement data - data from UAV gammaspectrometric system DRONES-G - real data - all the radiation data incl. dose rate values, raw 1024 channel spectra etc., changed location
+
 - ERS (European Radiometric and Spectrometry format) - demo data for software development and testing
 
 - DEMO ground radiation monitoring data from Mob-DOSE detector - data were measured using the Mob-DOSE (also called PDOSE-3) portable device, with native output in PEI format defined by Pico Envirotec, the radiation data are real but the location and time/date parameters were changed
