@@ -1,8 +1,8 @@
-# DEMO ground radiation monitoring data from Mob-DOSE detector
+# DEMO ground radiation monitoring data from DRONES-G detector
 
 ## Measuring device ##
 
-The data were measured using the Mob-DOSE (also called PDOSE-3) portable device, with native output in PEI format defined by Pico Envirotec. Can be opened (and was also tested) using PEI software like [PEIView](http://picoenvirotec.com/enviro/peiview/) or [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/).
+The data were measured using the DRONES-G device for UAVs, with native output in PEI format defined by Pico Envirotec. Can be opened (and was also tested) using PEI software like [PEIView](http://picoenvirotec.com/enviro/peiview/) or [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/).
 
 ![Alt text](img/mobdose.jpg?raw=true "Mob-DOSE device")
 
