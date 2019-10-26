@@ -25,7 +25,7 @@ The internal battery allows independent operation of the modular system for up t
 
 - fictional measurement position [here](https://en.mapy.cz/s/pazezolepo)
 - fictional measurement date and start time: 1.4.2019 1:14:19 GMT/UTC
-- fictional measurement dose rate (DosL_NAI2_uGy/h) range (microSv/h): 0 - 0,0724 (in flight height, not recalculated to ground)
+- fictional measurement dose rate (DosL_NAI2_uGy/h) range (microGy/h): 0 - 0,0724 (in flight height, not recalculated to ground)
 
 ## package contents ##
 
