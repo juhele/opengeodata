@@ -1,4 +1,4 @@
-# DEMO ground radiation monitoring data from DRONES-G detector
+# DEMO UAV radiation monitoring data from DRONES-G detector
 
 ## Measuring device ##
 
