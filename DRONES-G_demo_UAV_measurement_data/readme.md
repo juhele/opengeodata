@@ -29,9 +29,9 @@ The internal battery allows independent operation of the modular system for up t
 
 ## package contents ##
 
-Each package contains data from fictional measurement in particular area using the Mob-DOSE portable device, in PEI format.
+Each package contains data from fictional measurement in particular area using the DRONES-G portable device, in PEI format.
 
-Also contains "details" folder with exported PEI header and data in CSV and QGIS... folder with full project for [QGIS](https://qgis.org)  including styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org).
+Also contains "raw" folder with exported PEI header and GIS folder with data for GIS like [QGIS](https://qgis.org)  including styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org) and also simple CSV file.
 
 ## data previews (DosL_NAI2, microGy/h) ##
 
