@@ -35,7 +35,7 @@ Also contains "details" folder with exported PEI header and data in CSV and QGIS
 
 ## data previews (DosL_NAI2, microGy/h) ##
 
-![Alt text](img/MobDose_CZ_demo.jpg?raw=true "demo 1 - Czech Republic")
+![Alt text](img/1_DRONES-G_lednice.jpg?raw=true "demo 1 - Lednice, Czech Republic")
 background map: Microsoft® BingTM Maps via QGIS OpenLayers plugin
 
 ## data source for citation etc.: ##
