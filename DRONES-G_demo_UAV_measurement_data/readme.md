@@ -6,7 +6,14 @@ The data were measured using the Mob-DOSE (also called PDOSE-3) portable device,
 
 ![Alt text](img/mobdose.jpg?raw=true "Mob-DOSE device")
 
-"Equipped with two energy compensated Geiger Tubes, the device covers a wide range of measurements from 50nSv/h up to 400 mSv/h of GDER (Gamma-Dose Equivalent Rate)." (equipment description source -  [NUVIA Dynamics website](http://picoenvirotec.com/enviro/pdose-3/))
+"DRONES-G is a modular detection system for the radiation situation monitoring using unmanned aerial system. This system is completely independent of the carrier itself and allows the application of various detection modules depending on the task being performed.
+
+Modules for gamma spectrometry and radionuclide identification, neutron detection module, plastic scintillation module for high sensitivity dose metering, GM for higher gamma radiation levels, air sampling module, and other options are available. The system is complemented with modules for RF communication and GPS reception.
+
+All measured data is synchronized with GPS position and time and it is transmitted via RF Data Link 433MHz to a ground station with DRONIC SW. This software allows a set up of a system and the real-time data visualization. The data is also stored in the base on a SD card.
+
+The internal battery allows independent operation of the modular system for up to 4 hours." 
+(equipment description source -  [NUVIA Czech website](https://nuvia.cz/en/aktuality/437-drones-g---new-product-of-nuvia-cz))
 
 ## About the data ##
 
