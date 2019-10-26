@@ -17,9 +17,9 @@ The internal battery allows independent operation of the modular system for up t
 
 ## About the data ##
 
-- real data - all the radiation data incl. dose rate values, raw pulses from both GM tubes etc.
+- real data - all the radiation data incl. dose rate values, raw pulses, spectra etc.
+- contains raw 1024 channel NaITl spectra
 - the radiation data are real but the location and time/date parameters were changed
-- the device number (PDOSE666-9999) is fictional
 
 ## package 1 - Chateau Lednice park, Lednice, Czech Republic ##
 
