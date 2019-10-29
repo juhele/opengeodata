@@ -23,6 +23,8 @@ The internal battery allows independent operation of the modular system for up t
 
 ## package 1 - Chateau Lednice park, Lednice, Czech Republic ##
 
+![Alt text](img/Drones-G_montaz_lednice.jpg?raw=true "Fictional UAV measurement in Chateau Lednice park")
+
 - fictional measurement position [here](https://en.mapy.cz/s/pazezolepo)
 - fictional measurement date and start time: 1.4.2019 1:14:19 GMT/UTC
 - fictional measurement dose rate (DosL_NAI2_uGy/h) range (microGy/h): 0 - 0,0724 (in flight height, not recalculated to ground)
