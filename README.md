@@ -4,9 +4,9 @@ This repository will contain open geographic data of various sort I created for 
 
 Datasets currently available (see subfolders above):
 
-- DEMO Airborne gammaspectrometric data "Uluru" - using using IRIS airborne gamma-ray spectrometric system developed by Pico Envirotec Inc. Company in Toronto, Canada - real data - all the radiation data incl. dose rate values, raw 512 channel spectra etc., changed location (to well known Uluru/Ayers Rock, Australia)
+- DEMO Airborne gammaspectrometric data "Uluru" - using IRIS airborne gamma-ray spectrometric system developed by Pico Envirotec Inc. Company in Toronto, Canada - real data - all the radiation data incl. dose rate values, raw 512 channel spectra etc., changed location (to well known Uluru/Ayers Rock, Australia)
 
-- DEMO Airborne gammaspectrometric data 2 "Tongariro" - using using IRIS airborne gamma-ray spectrometric system developed by Pico Envirotec Inc. Company in Toronto, Canada - real data - all the radiation data incl. dose rate values, raw 512 channel spectra etc., changed location (to Tongariro National Park, New Zealand)
+- DEMO Airborne gammaspectrometric data 2 "Tongariro" - using IRIS airborne gamma-ray spectrometric system developed by Pico Envirotec Inc. Company in Toronto, Canada - real data - all the radiation data incl. dose rate values, raw 512 channel spectra etc., changed location (to Tongariro National Park, New Zealand)
 
 - DRONES-G demo UAV measurement data - data from UAV gammaspectrometric system DRONES-G - real data - all the radiation data incl. dose rate values, raw 1024 channel spectra etc., changed location
 
