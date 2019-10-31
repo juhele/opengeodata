@@ -4,7 +4,7 @@
 
 The data were measured using the DRONES-G device for UAVs, with native output in PEI format defined by Pico Envirotec. Can be opened (and was also tested) using PEI software like [PEIView](http://picoenvirotec.com/enviro/peiview/) or [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/).
 
-![Alt text](img/mobdose.jpg?raw=true "Mob-DOSE device")
+![Alt text](img/drones-g.jpg?raw=true "DRONES-G device")
 
 "DRONES-G is a modular detection system for the radiation situation monitoring using unmanned aerial system. This system is completely independent of the carrier itself and allows the application of various detection modules depending on the task being performed.
 
