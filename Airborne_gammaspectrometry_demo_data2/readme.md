@@ -1,7 +1,7 @@
 # DEMO Airborne gammaspectrometric data "Tongariro"
 
 ![Alt text](img/Ngauruhoe_Mi17_heli_photo_1920px.jpg?raw=true "Uluru DEMO data - photo")
-*photomontage of MI-17 helicopter above Mount Ngauruhoe (also known as Mount Doom / Orodruin from the Lord of the Rings film trilogy.*
+*photomontage of MI-17 helicopter above Mount Ngauruhoe (also known as Mount Doom / Orodruin from the Lord of the Rings film trilogy).*
 
 ## Measuring device ##
 
