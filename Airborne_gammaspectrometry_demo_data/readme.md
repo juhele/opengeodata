@@ -53,6 +53,10 @@ The main benefit here is that GeoPackage (GPKG) is one file able to store data, 
 
 The package is too big (GitHub has 25MB limit) so [get the dataset from MediaFire](http://www.mediafire.com/file/wdbcm4ombw46o7h/package_3_Australia_demo_airborne_gammaspectrometry_data_GIS.7z/file) - it has about 33MB.
 
+### 5) package_5_Australia_demo_airborne_gammaspectrometry_data_flight_route ###
+
+Contains data and detailed description how to turn "AUS_Uluru_IRIS_demo_project_2017-04-01_final_sl_LatLon.xyz" file from PEIConvert planning tool to standard GPX file for use in various GPS navigation apps.
+
 ## Data source for citation etc.: ##
 
 National Radiation Protection Institute (SURO)
