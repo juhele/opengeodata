@@ -14,3 +14,30 @@ The data were measured using IRIS airborne gamma-ray spectrometric system develo
 - changed date and time information (date is now 01.04.2019 - e.g. 1st April :-) and starting time 11:11:11)
 - height values calculated to match the new location
 - for more information check the data packages
+
+## Data packages: ##
+
+### 1) package_0_New_Zealand_demo_airborne_gammaspectrometry_data_PEI_project_data ###
+
+- This package contains data for flight project (including separate files with survey- and tie-lines definitions) in 
+Pico Envirotec defined format. Can be loaded using [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/) or AGIS software. The files themselves are formatted text files which can be opened using an advanced text editor like [Notepad++](https://notepad-plus-plus.org)
+
+NZ_Tongariro_demo_project_2019-04-01_final.xyz - main file (incl. flight polygon definition etc.)
+
+NZ_Tongariro_demo_project_2019-04-01_final_sl.xyz - survey lines data
+
+NZ_Tongariro_demo_project_2019-04-01_final_sl_LatLon.xyz - survey lines data (LatLon)
+
+NZ_Tongariro_demo_project_2019-04-01_final_tl.xyz - tie lines data
+
+NZ_Tongariro_demo_project_2019-04-01_final_tl_LatLon.xyz - tie lines data (LatLon)
+
+NZ_Tongariro_demo_project_2019-04-01_final_crs.xyz - survey and tie line crossings
+
+### 2) package_1_New_Zealand_demo_airborne_gammaspectrometry_data_PEI_measurement_data ###
+
+Data file in Pico Envirotec PEI format - can be loaded using [PEIView](http://picoenvirotec.com/enviro/peiview/)
+
+Ready to download - [get the dataset from MediaFire](http://www.mediafire.com/file/)
+
+
