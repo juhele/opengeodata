@@ -40,4 +40,36 @@ Data file in Pico Envirotec PEI format - can be loaded using [PEIView](http://pi
 
 Ready to download - [get the dataset from MediaFire](http://www.mediafire.com/file/)
 
+### 5) package_5_Australia_demo_airborne_gammaspectrometry_data_flight_route ###
+
+Contains data and detailed description how to turn "AUS_Uluru_IRIS_demo_project_2017-04-01_final_sl_LatLon.xyz" file from PEIConvert planning tool to standard GPX file for use in various GPS navigation apps.
+
+## Data source for citation etc.: ##
+
+National Radiation Protection Institute (SURO)
+
+Prague, Czech Republic
+
+www.suro.cz
+
+- made almost manually using QGIS (1), LibreOffice (2) and Notepad++ (3)
+
+## Data previews: ##
+
+**Dose rate values in nGy/h (DosG_nGyph) recalculated to height 1 meter above ground:**
+
+![Alt text](img/QGIS_preview_DosG.jpg?raw=true "Tongariro DEMO data - dose rate values preview")
+*background map: Contains modified Copernicus Sentinel data [2019] processed by Sentinel Hub*
+
+**Height above ground (UsedAlt_m) values:**
+
+![Alt text](img/QGIS_preview_UsedAlt.jpg?raw=true "Uluru DEMO data - heights above ground values preview")
+*background map: Contains modified Copernicus Sentinel data [2019] processed by Sentinel Hub*
+
+Software links:
+
+(1) https://qgis.org
+(2) https://www.libreoffice.org
+(3) https://notepad-plus-plus.org
+
 
