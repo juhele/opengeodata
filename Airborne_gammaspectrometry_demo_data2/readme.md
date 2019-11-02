@@ -40,7 +40,7 @@ Data file in Pico Envirotec PEI format - can be loaded using [PEIView](http://pi
 
 Ready to download - [get the dataset from MediaFire](http://www.mediafire.com/file/)
 
-### 5) package_5_Australia_demo_airborne_gammaspectrometry_data_flight_route ###
+### 5) package_5_New_Zealand_demo_airborne_gammaspectrometry_data_flight_route ###
 
 Contains data and detailed description how to turn "AUS_Uluru_IRIS_demo_project_2017-04-01_final_sl_LatLon.xyz" file from PEIConvert planning tool to standard GPX file for use in various GPS navigation apps.
 
