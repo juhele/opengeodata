@@ -11,7 +11,7 @@ The data were measured using IRIS airborne gamma-ray spectrometric system develo
 
 - real data - all the radiation data incl. dose rate values, raw 512 channel spectra etc.
 - changed location (to well known [Tongariro National Park, New Zealand](https://en.wikipedia.org/wiki/Tongariro_National_Park))
-- changed date and time information (date is now 01.04.2019 - e.g. 1st April :-) and starting time 11:11:11)
+- changed date and time information (date is now 01.04.2019 - e.g. 1st April :-) and starting time 1:14:19 UTC/GMT)
 - height values calculated to match the new location
 - for more information check the data packages
 
