@@ -42,7 +42,7 @@ Ready to download - [get the dataset from MediaFire](http://www.mediafire.com/fi
 
 ### 5) package_5_New_Zealand_demo_airborne_gammaspectrometry_data_flight_route ###
 
-Contains data and detailed description how to turn "AUS_Uluru_IRIS_demo_project_2017-04-01_final_sl_LatLon.xyz" file from PEIConvert planning tool to standard GPX file for use in various GPS navigation apps.
+Contains data and detailed description how to turn "01_NZ_Tongariro_demo_project_2019-04-01_final_sl_LatLon.xyz" file from PEIConvert planning tool to standard GPX file for use in various GPS navigation apps.
 
 ## Data source for citation etc.: ##
 
