@@ -22,6 +22,10 @@ The data were measured using IRIS airborne gamma-ray spectrometric system develo
 - This package contains data for flight project (including separate files with survey- and tie-lines definitions) in 
 Pico Envirotec defined format. Can be loaded using [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/) or AGIS software. The files themselves are formatted text files which can be opened using an advanced text editor like [Notepad++](https://notepad-plus-plus.org)
 
+![Alt text](img/NZ_Tongariro_project_01_PeiConvert.png?raw=true "PeiConvert project export")
+
+![Alt text](img/NZ_Tongariro_project_02_PeiConvert.png?raw=true "PeiConvert project export")
+
 NZ_Tongariro_demo_project_2019-04-01_final.xyz - main file (incl. flight polygon definition etc.)
 
 NZ_Tongariro_demo_project_2019-04-01_final_sl.xyz - survey lines data
