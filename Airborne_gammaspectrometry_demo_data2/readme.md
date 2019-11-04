@@ -46,7 +46,8 @@ NZ_Tongariro_demo_project_2019-04-01_final_crs.xyz - survey and tie line crossin
 
 Data file in Pico Envirotec PEI format - can be loaded using [PEIView](http://picoenvirotec.com/enviro/peiview/)
 
-Ready to download - [get the dataset from MediaFire](http://www.mediafire.com/file/)
+PLEASE BE PATIENT - data preparation in progress, will need some time as this is more advanced dataset than "Uluru"
+
 
 ### 5) package_5_New_Zealand_demo_airborne_gammaspectrometry_data_flight_route ###
 
