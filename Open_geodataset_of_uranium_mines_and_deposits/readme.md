@@ -3,6 +3,7 @@ Contains following data:
 
 - more information:
 
+
 Czech Republic - data from Czech Geological Survey
 
 ČGS - Důlní díla a poddolování
