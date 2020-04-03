@@ -4,19 +4,30 @@ Contains following data:
 - more information:
 
 Czech Republic - data from Czech Geological Survey
+
 ČGS - Důlní díla a poddolování
+
 https://mapy.geology.cz/dulni_dila_poddolovani/
 
+
 Finland - sites from Geological Survey of Finland document:
+
 http://tupa.gtk.fi/raportti/arkisto/m60_2000_1.pdf
 
+
 France
+
 position source: mimausabdd.irsn.fr
+
 details: IAEA-TECDOC-1843
 
+
 North America, South America and some other parts of the world
+
 USGS Mineral Resource Data System (MRDS)
+
 https://mrdata.usgs.gov/mrds/
+
 
 previews:
 
