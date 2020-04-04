@@ -1,4 +1,8 @@
-This is initial commit of the open dataset of uranium mines and deposits. 
+open dataset of uranium mines and deposits
+
+- news:
+2020-03-04 added Africa, Asia and the rest of the world data derived from USGS MRDS
+2020-03-05 some newly added sites in Italy and Switzerland using IAEA UDEPO + Mindat.org + a lot of googling and manual work
 
 
 The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example.
