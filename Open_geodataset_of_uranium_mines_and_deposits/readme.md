@@ -28,12 +28,12 @@ position source: mimausabdd.irsn.fr
 details: IAEA-TECDOC-1843
 
 
-North America, South America and some other parts of the world
-
-USGS Mineral Resource Data System (MRDS)
+North America, South America, Africa, Asia etc. - USGS Mineral Resource Data System (MRDS)
 
 https://mrdata.usgs.gov/mrds/
 
+- these data taken as a base for countries where no better spatial data are available
+- to be updated later if possible
 
 previews:
 
