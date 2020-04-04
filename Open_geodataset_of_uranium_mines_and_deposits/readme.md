@@ -5,7 +5,7 @@ open dataset of uranium mines and deposits
 2020-03-05 some newly added sites in Italy and Switzerland using IAEA UDEPO + Mindat.org + a lot of googling and manual work
 
 
-The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example.
+The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example. All datasets have standard GPS coordinates - e.g. EPSG:4326 Geodetic coordinate system for World - https://epsg.io/4326
 
 
 Contains following data:
