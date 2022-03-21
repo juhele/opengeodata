@@ -15,7 +15,8 @@ Terrain data and aerial imagery was obtained from [Geoportál hl. m. Prahy](http
 - source data - triangular mesh in ESRI Shapefile format, in [ESRI:102067 S-JTSK Krovak East North](https://epsg.io/102067) coordinate system was converted to 
 [EPSG:32633  WGS 84 / UTM zone 33N](https://epsg.io/32633) and converted to points in [QGIS](https://www.qgis.org/en/site/)
 - postprocessing using [SAGA-GIS](https://saga-gis.sourceforge.io/en/index.html) - applied smoothing
-
+- 
+![DTM processing](img/DTM_processing.jpg?raw=true "DTM processing")
 
 ### Simulated airborne monitoring "Stromovka" ###
 
@@ -30,7 +31,7 @@ The data do not contain any values above normal radiation background
 
 The data structure and format was created in order to be compatible with real data files obtained with the Mob-DOSE (also called PDOSE-3) portable device, with native output in PEI format defined by Pico Envirotec. Can be opened (and was also tested) using PEI software like [PEIView](http://picoenvirotec.com/enviro/peiview/) or [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/).
 
-![Alt text](img/mobdose.jpg?raw=true "Mob-DOSE device")
+![Mob-DOSE device](img/mobdose.jpg?raw=true "Mob-DOSE device")
 
 "Equipped with two energy compensated Geiger Tubes, the device covers a wide range of measurements from 50nSv/h up to 400 mSv/h of GDER (Gamma-Dose Equivalent Rate)." (equipment description source -  [NUVIA Dynamics website](http://picoenvirotec.com/enviro/pdose-3/))
 
