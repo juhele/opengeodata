@@ -9,7 +9,7 @@ Currently only dose rate measurements are available, spectrometry data will hope
 The fictional measurements were placed in [Stromovka park](https://en.wikipedia.org/wiki/Uluru) (Royal Game Reserve). The terrain data was generated using open-source programs [SAGA-GIS](https://saga-gis.sourceforge.io/en/index.html) and [QGIS](https://www.qgis.org/en/site/).
 
 Terrain data and aerial imagery was obtained from [Geoportál hl. m. Prahy](https://www.geoportalpraha.cz/en) operated by
-The Prague Institute of Planning and Development (IPR Prague) (Czech: Institut plánování a rozvoje hlavního města Prahy (IPR) )
+**The Prague Institute of Planning and Development (IPR Prague)** (Czech: Institut plánování a rozvoje hlavního města Prahy (IPR) ):
 
 ### [Digital terrain model](https://www.geoportalpraha.cz/en/data/opendata/6F72EDDF-CAA4-4243-8776-7006CB0B2521) ###
 - source data - triangular mesh in ESRI Shapefile format was converted to points in [QGIS](https://www.qgis.org/en/site/)
