@@ -6,7 +6,11 @@ Currently only dose rate measurements are available, spectrometry data will hope
 
 ## "Stromovka" simulated data ##
 
-The fictional measurements were placed in [Stromovka park](https://en.wikipedia.org/wiki/Uluru) (Royal Game Reserve). The terrain data was generated using opensource programs [SAGA-GIS](https://saga-gis.sourceforge.io/en/index.html) and [QGIS](https://www.qgis.org/en/site/)
+The fictional measurements were placed in [Stromovka park](https://en.wikipedia.org/wiki/Uluru) (Royal Game Reserve). The terrain data was generated using open-source programs [SAGA-GIS](https://saga-gis.sourceforge.io/en/index.html) and [QGIS](https://www.qgis.org/en/site/).
+
+Terrain data and aerial imagery was obtained from [Geoportál hl. m. Prahy](https://www.geoportalpraha.cz/en) operated by
+The Prague Institute of Planning and Development (IPR Prague) (Czech: Institut plánování a rozvoje hlavního města Prahy (IPR) )
+
 
 ### Simulated airborne monitoring "Stromovka" ###
 
