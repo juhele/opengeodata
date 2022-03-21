@@ -12,7 +12,7 @@ Terrain data and aerial imagery was obtained from [Geoportál hl. m. Prahy](http
 **The Prague Institute of Planning and Development (IPR Prague)** (Czech: Institut plánování a rozvoje hlavního města Prahy (IPR) ):
 
 ### [Digital terrain model](https://www.geoportalpraha.cz/en/data/opendata/6F72EDDF-CAA4-4243-8776-7006CB0B2521) ###
-- source data - triangular mesh in ESRI Shapefile format, in [ESRI:102067 S-JTSK Krovak East North](https://epsg.io/102067) coordinate system was converted to 
+- source data (packages TER_Prah60_polygonZ.zip and TER_Prah70_polygonZ.zip) - triangular mesh in ESRI Shapefile format, in [ESRI:102067 S-JTSK Krovak East North](https://epsg.io/102067) coordinate system was converted to 
 [EPSG:32633  WGS 84 / UTM zone 33N](https://epsg.io/32633) and converted to points in [QGIS](https://www.qgis.org/en/site/)
 - postprocessing using [SAGA-GIS](https://saga-gis.sourceforge.io/en/index.html) - applied smoothing
 - 
