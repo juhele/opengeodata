@@ -6,7 +6,7 @@ Currently only dose rate measurements are available, spectrometry data will hope
 
 ## "Stromovka" simulated data ##
 
-The fictional measurements were placed in [Stromovka park](https://en.wikipedia.org/wiki/Uluru)(Royal Game Reserve)
+The fictional measurements were placed in [Stromovka park](https://en.wikipedia.org/wiki/Uluru) (Royal Game Reserve)
 
 ### Simulated airborne monitoring "Stromovka" ###
 
