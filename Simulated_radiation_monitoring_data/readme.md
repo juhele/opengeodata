@@ -39,7 +39,7 @@ The data do not contain any values above normal radiation background - the range
 
 ### Simulated walk monitoring "Stromovka" ###
 
-The data do not contain any values above normal radiation background
+The data do not contain any values above normal radiation background - the range is 0.101 - 0.174 microGy/h
 
 
 ## Device compatibility (walking / carborne) ##
