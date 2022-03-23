@@ -23,9 +23,9 @@ Terrain data and aerial imagery was obtained from [Geoportál hl. m. Prahy](http
 
 The simulated datasets (both walking and airborne) are based on simulated data for natural K, U, Th radionuclides using ranges of "usual" values for the Czech Republic according to Manová, Matolín (1995) (1). Data were generated using [fractal Brownian noise (FBN)](https://saga-gis.sourceforge.io/saga_tool_doc/7.9.0/grid_calculus_17.html) algorithm and therefore do not correspond in any way to the real geological bedrock at the measuring point. The contribution of cosmic rays is calculated from real altitude using the DTM data mentioned above.
 
-The resulting dose rate levels are values within the normal radiation background levels.
+The resulting dose rate levels are values within the normal radiation background levels. Additionally, some "noise" - measurement error +/-30% generated with the FBN algorithm was applied to each dataset so points of the two walking measurements in the same location should not have the exactly same dose rate value.
 
-The Mob-DOSE device measures about 15% higher dose rate values than the IRIS airborne instrument (comparing data for 1 m height above ground in both cases) - this difference was also implemented in the datasets.
+The Mob-DOSE device also measures about 15% higher dose rate values than the IRIS airborne instrument (comparing data for 1 m height above ground in both cases) - this difference was also implemented in the datasets.
 
 References:
 
