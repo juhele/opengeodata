@@ -25,6 +25,8 @@ The simulated datasets (both walking and airborne) are based on simulated data f
 
 The resulting dose rate levels are values within the normal radiation background levels.
 
+The Mob-DOSE device measures about 15% higher dose rate values than the IRIS airborne instrument (comparing data for 1 m height above ground in both cases) - this difference was also implemented in the datasets.
+
 References:
 
 (1) Atlas map České republiky GEOČR 500: geologická mapa : radiometrická mapa : mapa radonového rizika : geomagnetická mapa : metalogenetická mapa : mapa minerálních vod : gravimetrická mapa : digitální výškopisdružicová mapa : mapa krajinného pokryvu : topografická mapa. c1998. Praha: Český geologický ústav. (CD-ROM)
