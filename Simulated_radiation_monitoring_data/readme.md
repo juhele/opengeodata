@@ -19,6 +19,16 @@ Terrain data and aerial imagery was obtained from [Geoportál hl. m. Prahy](http
 
 ![DTM processing](img/DTM_processing.jpg?raw=true "DTM processing")
 
+### Radiation data
+
+The simulated datasets (both walking and airborne) are based on simulated data for natural K, U, Th radionuclides using ranges of "usual" values for the Czech Republic according to Manová, Matolín (1995) (1). Data were generated using [fractal Brownian noise (FBN)](https://saga-gis.sourceforge.io/saga_tool_doc/7.9.0/grid_calculus_17.html) algorithm and therefore do not correspond in any way to the real geological bedrock at the measuring point.
+
+References:
+
+(1) Atlas map České republiky GEOČR 500: geologická mapa : radiometrická mapa : mapa radonového rizika : geomagnetická mapa : metalogenetická mapa : mapa minerálních vod : gravimetrická mapa : digitální výškopisdružicová mapa : mapa krajinného pokryvu : topografická mapa. c1998. Praha: Český geologický ústav. (CD-ROM)
+
+
+
 ### Simulated airborne monitoring "Stromovka" ###
 
 The data do not contain any values above normal radiation background
