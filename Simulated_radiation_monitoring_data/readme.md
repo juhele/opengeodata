@@ -25,8 +25,6 @@ The simulated datasets (both walking and airborne) are based on simulated data f
 
 ![Simulated K-U-Th data](img/nuclides_K-U-Th_simulated.jpg?raw=true "Simulated K-U-Th data")
 
-Simulated K-U-Th data
-
 The resulting dose rate levels are values within the normal radiation background levels. Additionally, some "noise" - measurement error +/-30% generated with the FBN algorithm was applied to each dataset so points of the two walking measurements in the same location should not have the exactly same dose rate value.
 
 The Mob-DOSE device also measures about 15% higher dose rate values than the IRIS airborne instrument (comparing data for 1 m height above ground in both cases) - this difference was also implemented in the datasets.
