@@ -35,7 +35,7 @@ References:
 
 ### Simulated airborne monitoring "Stromovka" ###
 
-The data do not contain any values above normal radiation background
+The data do not contain any values above normal radiation background - the range is 55 - 115 nGy/h = 0.05 - 0.115 microGy/h
 
 ### Simulated walk monitoring "Stromovka" ###
 
