@@ -31,7 +31,7 @@ The Mob-DOSE device also measures about 15% higher dose rate values than the IRI
 
 References:
 
-(1) Atlas map České republiky GEOČR 500: geologická mapa : radiometrická mapa : mapa radonového rizika : geomagnetická mapa : metalogenetická mapa : mapa minerálních vod : gravimetrická mapa : digitální výškopisdružicová mapa : mapa krajinného pokryvu : topografická mapa. c1998. Praha: Český geologický ústav. (CD-ROM)
+(1) Atlas map České republiky GEOČR 500: geologická mapa : radiometrická mapa : mapa radonového rizika : geomagnetická mapa : metalogenetická mapa : mapa minerálních vod : gravimetrická mapa : digitální výškopis : družicová mapa : mapa krajinného pokryvu : topografická mapa. c1998. Praha: Český geologický ústav. (CD-ROM)
 
 
 
