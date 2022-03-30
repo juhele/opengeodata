@@ -50,6 +50,11 @@ The data will be available in native IRIS instrument binary format - PEI file, b
 
 The data do not contain any values above normal radiation background - the range of the fictional measurement data is 0.101-0.174 microGy/h
 
+![Stromovka simulated walk 1 data](img/Stromovka_walk1.jpg?raw=true "Stromovka simulated walk 1 data")
+*(background map © OpenStreetMap contributors)*
+
+![Stromovka simulated walk 2 data](img/Stromovka_walk2.jpg?raw=true "Stromovka simulated walk 2 data")
+*(background map © OpenStreetMap contributors)*
 
 The data will be available in native Mob-DOSE instrument binary format - PEI file, but also in common CSV file and styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org) which can be easily loaded in programs like [QGIS](https://qgis.org).
 
