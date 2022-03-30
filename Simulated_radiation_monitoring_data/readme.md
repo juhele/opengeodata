@@ -56,7 +56,7 @@ The data do not contain any values above normal radiation background - the range
 ![Stromovka simulated walk 2 data](img/Stromovka_walk2.jpg?raw=true "Stromovka simulated walk 2 data")
 *(background map © OpenStreetMap contributors)*
 
-The data will be available in native Mob-DOSE instrument binary format - PEI file, but also in common CSV file and styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org) which can be easily loaded in programs like [QGIS](https://qgis.org).
+The data is available to download here - [walk measurement no. 1](https://github.com/juhele/opengeodata/blob/master/Simulated_radiation_monitoring_data/package_simulated_walk1_Mob-DOSE_B_PDOSE777-8888_2021_04_01_11_04_11.zip) and [walk measurement no. 2](https://github.com/juhele/opengeodata/blob/master/Simulated_radiation_monitoring_data/package_simulated_walk2_Mob-DOSE_B_PDOSE777-9999_2021_04_01_11_14_11.zip) in native Mob-DOSE instrument binary format - PEI file, but also in common CSV file and styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org) which can be easily loaded in programs like [QGIS](https://qgis.org).
 
 ## Device compatibility (walking / carborne) ##
 
