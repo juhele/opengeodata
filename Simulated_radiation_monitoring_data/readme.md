@@ -7,9 +7,9 @@ Currently only dose rate measurements are available, spectrometry data will hope
 ## "Stromovka" simulated data ##
 
 The fictional measurements were placed in [Stromovka park](https://en.wikipedia.org/wiki/Uluru) (Royal Game Reserve) in Prague. Prague was chosen due to the availability of open data of a detailed digital terrain model and aerial orthophoto imagery free of charge from the [Geoportál hl. m. Prahy](https://www.geoportalpraha.cz/en) website. Stromovka Park was chosen because it is a free green area with a large number of walking paths crossing it so both airborne and walking measurements can be simulated there. In addition, when using an aerial orthophoto background, it makes working with data visually attractive.
-The terrain data was processed using open-source programs [SAGA-GIS](https://saga-gis.sourceforge.io/en/index.html) and [QGIS](https://www.qgis.org/en/site/).
+All the fictional measurements have date set to 2021-04-01 (April Fools' Day) to rule out the possibility that someone will consider the files as real measurements. That's why measurements also start at obvious "weird" times - 11:04:11, 11:14:11 and 14:20:21. 
 
-Terrain data and aerial imagery was obtained from [Geoportál hl. m. Prahy](https://www.geoportalpraha.cz/en) operated by
+The terrain data was processed using open-source programs [SAGA-GIS](https://saga-gis.sourceforge.io/en/index.html) and [QGIS](https://www.qgis.org/en/site/). Terrain data and aerial imagery was obtained from [Geoportál hl. m. Prahy](https://www.geoportalpraha.cz/en) operated by
 **The Prague Institute of Planning and Development (IPR Prague)** (Czech: Institut plánování a rozvoje hlavního města Prahy (IPR) ):
 
 ### [Digital terrain model](https://www.geoportalpraha.cz/en/data/opendata/6F72EDDF-CAA4-4243-8776-7006CB0B2521) ###
