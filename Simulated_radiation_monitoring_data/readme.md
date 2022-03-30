@@ -43,6 +43,8 @@ The data do not contain any values above normal radiation background - the range
 
 ![Stromovka simulated airborne data](img/Stromovka_airborne.jpg?raw=true "Stromovka simulated airborne data")
 
+The data will be available in native IRIS instrument binary format - PEI file, but also in common CSV file and styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org) which can be easily loaded in programs like [QGIS](https://qgis.org).
+
 ### Simulated walk monitoring "Stromovka" ###
 
 The data do not contain any values above normal radiation background - the range of the fictional measurement data is 0.101-0.174 microGy/h
