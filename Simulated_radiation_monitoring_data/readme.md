@@ -39,7 +39,9 @@ References:
 
 ### Simulated airborne monitoring "Stromovka" ###
 
-The data do not contain any values above normal radiation background - the range of the fictional measurement data is 55-115 nGy/h = 0.05-0.115 microGy/h
+The data do not contain any values above normal radiation background - the range of the fictional measurement data is 55-115 nGy/h = 0.05-0.115 microGy/h.
+
+![Stromovka simulated airborne data](img/Stromovka_airborne.jpg?raw=true "Stromovka simulated airborne data")
 
 ### Simulated walk monitoring "Stromovka" ###
 
