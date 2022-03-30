@@ -42,7 +42,7 @@ References:
 The data do not contain any values above normal radiation background - the range of the fictional measurement data is 55-115 nGy/h = 0.05-0.115 microGy/h.
 
 ![Stromovka simulated airborne data](img/Stromovka_airborne.jpg?raw=true "Stromovka simulated airborne data")
-(background map © OpenStreetMap contributors)
+*(background map © OpenStreetMap contributors)*
 
 The data will be available in native IRIS instrument binary format - PEI file, but also in common CSV file and styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org) which can be easily loaded in programs like [QGIS](https://qgis.org).
 
