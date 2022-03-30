@@ -48,7 +48,7 @@ The data will be available in native IRIS instrument binary format - PEI file, b
 
 ### Simulated walk monitoring "Stromovka" ###
 
-The data do not contain any values above normal radiation background - the range of the fictional measurement data is 0.101-0.174 microGy/h
+The data do not contain any values above normal radiation background - the range of the fictional measurement data is 0.101-0.174 microGy/h. Both simulated walks were created by combining [Mapy.cz](https://mapy.cz/) route planning tool and further postprocessing the exported GPX using [GPS Track Editor](http://www.gpstrackeditor.com/) and [RouteConverter](https://www.routeconverter.com/home/en)
 
 ![Stromovka simulated walk 1 data](img/Stromovka_walk1.jpg?raw=true "Stromovka simulated walk 1 data")
 *(background map © OpenStreetMap contributors)*
