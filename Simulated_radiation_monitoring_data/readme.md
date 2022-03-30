@@ -50,6 +50,8 @@ The data will be available in native IRIS instrument binary format - PEI file, b
 The data do not contain any values above normal radiation background - the range of the fictional measurement data is 0.101-0.174 microGy/h
 
 
+The data will be available in native Mob-DOSE instrument binary format - PEI file, but also in common CSV file and styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org) which can be easily loaded in programs like [QGIS](https://qgis.org).
+
 ## Device compatibility (walking / carborne) ##
 
 The data structure and format was created in order to be compatible with real data files obtained with the Mob-DOSE (also called PDOSE-3) portable device, with native output in PEI format defined by Pico Envirotec. Can be opened (and was also tested) using PEI software like [PEIView](http://picoenvirotec.com/enviro/peiview/) or [PEIConvert](http://picoenvirotec.com/enviro/peiconvert/).
