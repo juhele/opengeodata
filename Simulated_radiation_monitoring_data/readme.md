@@ -44,7 +44,7 @@ The data do not contain any values above normal radiation background - the range
 ![Stromovka simulated airborne data](img/Stromovka_airborne.jpg?raw=true "Stromovka simulated airborne data")
 *(background map © OpenStreetMap contributors)*
 
-The data will be available in native IRIS instrument binary format - PEI file, but also in common CSV file and styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org) which can be easily loaded in programs like [QGIS](https://qgis.org).
+The data [is available to download here](https://github.com/juhele/opengeodata/blob/master/Simulated_radiation_monitoring_data/package_simulated_airborne_IRIS_B2021_04_01_14_20_DEMO_Stromovka_without_spectra.zip) in native IRIS instrument binary format - PEI file, but also in common CSV file and styled point layer in [OGC GeoPackage standard format](https://www.geopackage.org) which can be easily loaded in programs like [QGIS](https://qgis.org).
 
 ### Simulated walk monitoring "Stromovka" ###
 
