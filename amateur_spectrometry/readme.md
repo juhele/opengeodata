@@ -1,4 +1,4 @@
-<img src="Images/logo_SURO_EN.png" alt="SURO.cz logo" width="800"/>
+<img src="Images/logo_SURO_EN.png" alt="SURO.cz logo" width="600"/>
 
 **Tyto stránky byly vytvořené v rámci řešení výzkumného tématu institucionální podpory poskytované Ministerstvem vnitra ČR**
 
