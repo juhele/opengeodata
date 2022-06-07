@@ -9,5 +9,9 @@ V rámci úkolu bude provedeno otestování komerčního, cenově dostupného ka
 
 *As part of the task, a commercial produced, affordable pocket spectrometer RadiaCode-101 based on a Csl (Tl) detector will be tested, focusing on the support of so-called citizen measurements and possible quick orientation measurements for the needs of radiation situation assessment by SÚRO employees.*
 
+Na tomto webu budou k dispozici naměřená gamaspektrometrická data různých radioaktivních materiálů - od přírodních (minerály, horniny) přes materiály přírodního původu (NORM) po různé radionuklidové zdroje, které má SÚRO k dispozici. Tyto stránky také umožní zveřejnění dat dalším dobrovolníkům v rámci uživatelské komunity.
+
+*Measured gamma spectrometric data of various radioactive materials will be available on this website - from natural (minerals, rocks) through materials of natural origin (NORM) to various radionuclide sources available to SÚRO emploees. This site will also allow data to be published to other volunteers within the user community.*
+
 
 
