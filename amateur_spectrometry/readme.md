@@ -6,7 +6,7 @@
 
 # Amatérská gamaspektrometrie s kapesním spektrometrem RadiaCode-101
 
-# *Amateur gamma spectrometry with pocket spectrometer RadiaCode-101
+# Amateur gamma spectrometry with pocket spectrometer RadiaCode-101
 
 V rámci úkolu bude provedeno otestování komerčního, cenově dostupného kapesního spektrometru RadiaCode-101 na bázi detektoru Csl(Tl) se zaměřením na podporu tzv. občanských měření a na případné rychlé orientační měření pro potřeby hodnocení radiační situace pracovníky SÚRO.
 
