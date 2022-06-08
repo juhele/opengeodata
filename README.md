@@ -20,6 +20,8 @@ Datasets currently available (see subfolders above):
 
 - US DOE/NNSA Response to 2011 Fukushima Incident: Raw Aerial Data and Extracted Ground Exposure Rates and Cesium Deposition
 
+- amateur gamma spectrometry with pocket spectrometer RadiaCode-101 - will contain publicly available spectrometric data (both naturan and man-made, various radionuclide sources, minerals, NORM materials) measured with this pocket device
+
 Todo:
 
 - world nuclear research and other reactors
