@@ -20,7 +20,8 @@ Na tomto webu budou k dispozici naměřená gamaspektrometrická data různých 
 
 **About the device**
 
-RadiaCode-101 is a pocket scintillation radiation detector + gamma spectrometer manufactured by Scan-Electronics, Russia). It uses 10×10×10 mm CsI (Caesium iodide) scintillation crystal coupled with silicon photomultiplier (SiPM). The device can be used independently, but most of its possibilities can be used when connected to a smartphone and the RadiaCode application. The device can be used for gamma dose rater mapping (GPS data is used from a connected smartphone) or for gamma spectrometry. Gamma spectrometry was the reason why SÚRO bought two of these instruments in the second half of 2021.
+RadiaCode-101 is a pocket scintillation radiation detector + gamma spectrometer manufactured by Scan-Electronics, Russia). It uses 10×10×10 mm CsI (Caesium iodide) scintillation crystal coupled with silicon photomultiplier (SiPM). The device can be used independently, but most of its possibilities can be used when connected to a smartphone and the RadiaCode application. The device can be used for gamma dose rater mapping (GPS data is used from a connected smartphone) or for gamma spectrometry. Gamma spectrometry was the reason why SÚRO bought two of these instruments in the second half of 2021. 
 
 <img src="Images/Radiacode_101_inside.jpg" alt="exploded view of RadiaCode 101" width="800"/>
 exploded view of the device (© Scan-Electronics)
+More details about the device:	[Scan-Electronics]([https://www.mvcr.cz/mvcren/](https://scan-electronics.com/en/dosimeters/radiacode-101)) 
