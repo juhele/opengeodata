@@ -24,4 +24,4 @@ RadiaCode-101 is a pocket scintillation radiation detector + gamma spectrometer 
 
 <img src="Images/Radiacode_101_inside.jpg" alt="exploded view of RadiaCode 101" width="800"/>
 exploded view of the device (© Scan-Electronics)
-More details about the device:	[Scan-Electronics]([https://www.mvcr.cz/mvcren/](https://scan-electronics.com/en/dosimeters/radiacode-101)) 
+More details about the device:	[Scan-Electronics]([[https://www.mvcr.cz/mvcren/](https://scan-electronics.com/en/dosimeters/radiacode-101)]
