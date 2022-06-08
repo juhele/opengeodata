@@ -16,8 +16,10 @@ Na tomto webu budou k dispozici naměřená gamaspektrometrická data různých 
 
 *Measured gamma spectrometric data of various radioactive materials will be available on this website - from natural (minerals, rocks) through materials of natural origin (NORM) to various radionuclide sources available to SÚRO emploees. This site will also allow data to be published to other volunteers within the user community.*
 
-O přístroji
+**O přístroji**
 
-About the device
+**About the device**
+
+
 
 <img src="Images/Radiacode_101_inside.jpg" alt="SURO and MVČR logo" width="800"/>
