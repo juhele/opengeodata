@@ -62,7 +62,7 @@
 - data acquisition time: background: ~ 1 hour; field measurements: ~3-12 min
 - download: [06_spectra_Jachymov_Retizkarna.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/06_spectra_Jachymov_Retizkarna.zip)
 
-*Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ...*
+*Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
 
