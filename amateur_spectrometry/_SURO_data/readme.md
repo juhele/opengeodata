@@ -6,7 +6,7 @@
 - data acquisition time: "office": ~ 20 min, ~ 1 hour; "outside": ~40 min, ~50 min
 - download: [01_spectra_natural_background.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/01_spectra_natural_background.zip)
 
-Please be patient. First batch of spectra is being prepared to upload.
+Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ...
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
 
