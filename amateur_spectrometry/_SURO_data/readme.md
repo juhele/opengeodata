@@ -43,6 +43,25 @@
 - data acquisition time: background: ~ 1 hour; uraninite: ~10 min
 - download: [05_spectra_uraninite-pitchblende.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/05_spectra_uraninite-pitchblende.zip)
 
+
+## 05_spectra_uraninite-pitchblende
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- sample of uraninite UO2 (also known as smolinec, Pechblende, pitchblende)
+- uranium mineral, most important uranium ore, this sample is from Příbrami or Jáchymov
+- data acquisition time: background: ~ 1 hour; uraninite: ~10 min
+- download: [05_spectra_uraninite-pitchblende.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/05_spectra_uraninite-pitchblende.zip)
+
+
+## 06_spectra_uraninite-pitchblende
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- the other spectra were measured in [Jáchymov](https://en.mapy.cz/s/recavuramo), in the area of former uranium mine and labor camp Rovnost (English "Equality"), some [photos herel (CC BY-SA 4.0) license](https://flic.kr/s/aHBqjzPg5g) 
+- the name comes from Czech "Řetízkárna" - nickname for the building of the former chain locker room
+- some spectra are from the building, one from the road in front of it, another from the Hotel Berghof garden
+- data acquisition time: background: ~ 1 hour; field measurements: ~3-12 min
+- download: [06_spectra_Jachymov_Retizkarna.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/06_spectra_Jachymov_Retizkarna.zip)
+
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ...*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
