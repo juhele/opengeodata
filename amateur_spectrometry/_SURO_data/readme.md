@@ -62,6 +62,17 @@
 - data acquisition time: background: ~ 1 hour; field measurements: ~3-12 min
 - download: [06_spectra_Jachymov_Retizkarna.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/06_spectra_Jachymov_Retizkarna.zip)
 
+
+## 07_spectra_tritium_keychain
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- commercially avalable tritium keychain "nite GlowRing" - transparent plastic case contains sealed borosilicate glass vial with internal surface coated with a phosphor-containing material and filled with tritium gas, the beta particles from the tritium decay interact with the coating and produce visible glow 
+- it is called GTLS ("gaseous tritium light source")
+- the beta radiation is not able to pass through the glass wall, but GTLS devices do emit low levels of X-rays due to bremsstrahlung:
+["Gaseous tritium light sources (GTLSs) and gaseous tritium light devices (GTLDs)" (PDF). Radiation Safety Handbook. Ministry of Defence (United Kingdom). May 2009. JSP 392](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/946070/JSP_392_Chapter_19_-_GTLS_-GTLD__Alt_Text_.pdf)
+- data acquisition time: background: ~ 1 hour; tritium: ~1 hour, ~4 hours
+- download: [07_spectra_tritium_keychain.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/07_spectra_tritium_keychain.zip)
+
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
