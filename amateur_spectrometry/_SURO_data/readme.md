@@ -1,5 +1,7 @@
 # Data measured by SÚRO employees 
 
+The data files are licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)
+
 ## 01_spectra_natural_background
 
 - common natural background, spectra "office" - measured in SÚRO office, 2nd floor; spectra "outside" - detector (in plastic bag) laid on the lawn in the garden
@@ -77,4 +79,4 @@
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
 
-The data files are licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)
+
