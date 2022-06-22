@@ -12,7 +12,7 @@ We are not aware of any free database of gamma spectra, so this research project
 
 **Recommendation**
 
-An excellent companion application to RadiaCode is the Isotope Browser mobile application from the International Atomic Energy Agency (IAEA). The application is free and available both for [Android](https://play.google.com/store/apps/details?id=iaea.nds.nuclides) and [iOs](https://apps.apple.com/at/app/isotope-browser/id943890538).
+An excellent companion application to RadiaCode is the **Isotope Browser mobile application from the International Atomic Energy Agency (IAEA)**. The application is free and available both for [Android](https://play.google.com/store/apps/details?id=iaea.nds.nuclides) and [iOs](https://apps.apple.com/at/app/isotope-browser/id943890538).
 
 **About the device**
 
