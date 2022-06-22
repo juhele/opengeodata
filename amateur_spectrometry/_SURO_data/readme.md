@@ -4,10 +4,10 @@
 
 - common natural background, spectra "office" - measured in SÚRO office, 2nd floor; spectra "outside" - detector (in plastic bag) laid on the lawn in the garden
 - data acquisition time: "office": ~ 20 min, ~ 1 hour; "outside": ~40 min, ~50 min
-- download: More details about the device: [Scan-Electronics website in English](https://scan-electronics.com/en/dosimeters/radiacode-101)
+- download:[01_spectra_natural_background.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/01_spectra_natural_background.zip)
 
 Please be patient. First batch of spectra is being prepared to upload.
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
 
-The data files are licensed under [01_spectra_natural_background.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/01_spectra_natural_background.zip)
+The data files are licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)
