@@ -4,7 +4,7 @@
 
 - common natural background, spectra "office" - measured in SÚRO office, 2nd floor; spectra "outside" - detector (in plastic bag) laid on the lawn in the garden
 - data acquisition time: "office": ~ 20 min, ~ 1 hour; "outside": ~40 min, ~50 min
-- download:[01_spectra_natural_background.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/01_spectra_natural_background.zip)
+- download: [01_spectra_natural_background.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/01_spectra_natural_background.zip)
 
 Please be patient. First batch of spectra is being prepared to upload.
 
