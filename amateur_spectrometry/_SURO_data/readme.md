@@ -26,6 +26,15 @@
 - download: [03_spectra_potassium_fertilizer.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/03_spectra_potassium_fertilizer.zip)
 
 
+## 04_spectra_uranium_glass
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- an object made of currently produced uranium glass (also nicknamed "Vaseline glass")
+- according to the information from the State Office for Nuclear Safety (SÚJB) currently produced uranium glass in the Czech Republic should not contain more than 1% uranium:
+[Problematika uranem barveného skla](https://www.sujb.cz/radiacni-ochrana/oznameni-a-informace/problematika-uranem-barveneho-skla)
+- data acquisition time: background: ~ 1 hour; uranium glass: ~10 min
+- download: [04_spectra_uranium_glass.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/04_spectra_uranium_glass.zip)
+
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ...*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
