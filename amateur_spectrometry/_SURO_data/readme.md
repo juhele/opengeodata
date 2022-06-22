@@ -56,7 +56,7 @@
 ## 06_spectra_Jachymov_Retizkarna
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
-- the other spectra were measured in [Jáchymov](https://en.mapy.cz/s/recavuramo), in the area of former uranium mine and labor camp Rovnost (English "Equality"), some [photos herel (CC BY-SA 4.0) license](https://flic.kr/s/aHBqjzPg5g) 
+- the other spectra were measured in [Jáchymov](https://en.mapy.cz/s/recavuramo), in the area of former uranium mine and labor camp Rovnost (English "Equality"), some [photos herel](https://flic.kr/s/aHBqjzPg5g) 
 - the name comes from Czech "Řetízkárna" - nickname for the building of the former chain locker room
 - some spectra are from the building, one from the road in front of it, another from the Hotel Berghof garden
 - data acquisition time: background: ~ 1 hour; field measurements: ~3-12 min
