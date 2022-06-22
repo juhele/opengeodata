@@ -15,6 +15,17 @@
 - download: [02_spectra_radon_bottle.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/02_spectra_radon_bottle.zip)
 
 
+## 03_spectra_potassium_fertilizer
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- commercial potassium fertilizer from garden centre
+- approximately 0.01% of potassium is radioactive potassium isotope K-40
+- depending on the type, the activity of K-40 in the fertilizer is approximately in the range of 2.5 - 7.7 kBq / kg
+- check K-40 peak at 1460.8 keV
+- data acquisition time: background: ~ 1 hour; potassium fertilizer: ~12 min
+- download: [03_spectra_potassium_fertilizer.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/03_spectra_potassium_fertilizer.zip)
+
+
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ...*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
