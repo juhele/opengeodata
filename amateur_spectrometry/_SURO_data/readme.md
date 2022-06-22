@@ -66,7 +66,7 @@
 ## 07_spectra_tritium_keychain
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
-- commercially avalable tritium keychain "nite GlowRing" - [photo here]([https://en.mapy.cz/s/recavuramo](https://flic.kr/p/2kkHGoj)) - transparent plastic case contains sealed borosilicate glass vial with internal surface coated with a phosphor-containing material and filled with tritium gas, the beta particles from the tritium decay interact with the coating and produce visible glow 
+- commercially avalable tritium keychain "nite GlowRing" - [photo here](https://flic.kr/p/2kkHGoj) - transparent plastic case contains sealed borosilicate glass vial with internal surface coated with a phosphor-containing material and filled with tritium gas, the beta particles from the tritium decay interact with the coating and produce visible glow 
 - it is called GTLS ("gaseous tritium light source")
 - the beta radiation is not able to pass through the glass wall, but GTLS devices do emit low levels of X-rays due to bremsstrahlung:
 ["Gaseous tritium light sources (GTLSs) and gaseous tritium light devices (GTLDs)" (PDF). Radiation Safety Handbook. Ministry of Defence (United Kingdom). May 2009. JSP 392](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/946070/JSP_392_Chapter_19_-_GTLS_-GTLD__Alt_Text_.pdf)
