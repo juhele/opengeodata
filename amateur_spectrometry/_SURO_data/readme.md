@@ -53,7 +53,7 @@
 - download: [05_spectra_uraninite-pitchblende.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/05_spectra_uraninite-pitchblende.zip)
 
 
-## 06_spectra_uraninite-pitchblende
+## 06_spectra_Jachymov_Retizkarna
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
 - the other spectra were measured in [Jáchymov](https://en.mapy.cz/s/recavuramo), in the area of former uranium mine and labor camp Rovnost (English "Equality"), some [photos herel (CC BY-SA 4.0) license](https://flic.kr/s/aHBqjzPg5g) 
