@@ -87,6 +87,17 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 <img src="Images/etalon_typ_EG1-EG3_CMI_ENG.jpg" alt="EG X type radionuclide source" width="500"/>
 *Illustrative image and diagram of EG X type radionuclide source (image source: ČMI, translated)*
 
+# 09_spectra_EG_3X_source_Co-60
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- Co-60 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
+- Co-60, type: EG 3X, activity: 807.7 kBq, reference date: 1.7. 2015
+- data acquisition time: background: ~ 1 hour; Co-60: ~10 min, ~1 hour
+- download: [08_spectra_EG_3X_source_Cs-137.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/08_spectra_EG_3X_source_Cs-137.zip)
+
+<img src="Images/etalon_typ_EG1-EG3_CMI_ENG.jpg" alt="EG X type radionuclide source" width="500"/>
+*Illustrative image and diagram of EG X type radionuclide source (image source: ČMI, translated)*
+
 
 
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
