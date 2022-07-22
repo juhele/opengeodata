@@ -84,7 +84,8 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: background: ~ 1 hour; Cs-137: ~10 min, ~1 hour
 - download: [08_spectra_EG_3X_source_Cs-137.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/08_spectra_EG_3X_source_Cs-137.zip)
 
-
+<img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
+*illustrative image and diagram of EG X type radionuclide source (image source: ČMI, translated)*
 
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
