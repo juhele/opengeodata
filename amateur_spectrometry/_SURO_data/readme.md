@@ -4,7 +4,6 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 
 # Table of contents
 
-- [Data measured by SÚRO employees](#data-measured-by-sro-employees)
   - [01_spectra_natural_background](#01_spectra_natural_background)
   - [02_spectra_radon_bottle](#02_spectra_radon_bottle)
   - [03_spectra_potassium_fertilizer](#03_spectra_potassium_fertilizer)
