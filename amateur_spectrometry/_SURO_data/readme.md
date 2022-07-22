@@ -87,6 +87,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 <img src="Images/etalon_typ_EG1-EG3_CMI_ENG.jpg" alt="EG X type radionuclide source" width="500"/>
 *illustrative image and diagram of EG X type radionuclide source (image source: ČMI, translated)*
 
+
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
