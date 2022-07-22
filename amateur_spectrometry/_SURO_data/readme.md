@@ -2,6 +2,21 @@
 
 The data files are licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)
 
+# Table of contents
+
+- [Data measured by SÚRO employees](#data-measured-by-sro-employees)
+  - [01_spectra_natural_background](#01_spectra_natural_background)
+  - [02_spectra_radon_bottle](#02_spectra_radon_bottle)
+  - [03_spectra_potassium_fertilizer](#03_spectra_potassium_fertilizer)
+  - [04_spectra_uranium_glass](#04_spectra_uranium_glass)
+  - [05_spectra_uraninite-pitchblende](#05_spectra_uraninite-pitchblende)
+  - [05_spectra_uraninite-pitchblende](#05_spectra_uraninite-pitchblende)
+  - [06_spectra_Jachymov_Retizkarna](#06_spectra_jachymov_retizkarna)
+  - [07_spectra_tritium_keychain](#07_spectra_tritium_keychain)
+  - [08_spectra_EG_3X_source_Cs-137](#08_spectra_eg_3x_source_cs-137)
+  - [09_spectra_EG_3X_source_Co-60](#09_spectra_eg_3x_source_co-60)
+
+
 ## 01_spectra_natural_background
 
 - common natural background, spectra "office" - measured in SÚRO office, 2nd floor; spectra "outside" - detector (in plastic bag) laid on the lawn in the garden
