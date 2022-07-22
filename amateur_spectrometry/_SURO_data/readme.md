@@ -75,6 +75,18 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: background: ~ 1 hour; tritium: ~1 hour, ~4 hours
 - download: [07_spectra_tritium_keychain.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/07_spectra_tritium_keychain.zip)
 
+
+## 08_spectra_EG_3X_source_Cs-137
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- Cs-137 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI), in 10 cm distance from the detector
+- [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)
+- Cs-137, type: EG 3X, activity: 858.9 kBq, reference date: 1.7. 2015
+- data acquisition time: background: ~ 1 hour; Cs-137: ~10 min, ~1 hour
+- download: [08_spectra_EG_3X_source_Cs-137.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/08_spectra_EG_3X_source_Cs-137.zip)
+
+
+
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
