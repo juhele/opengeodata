@@ -16,6 +16,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
   - [09_spectra_EG_3X_source_Co-60](#09_spectra_eg_3x_source_co-60)
   - [10_spectra_EG_3X_sources_Co-60_and_Cs-137](#10_spectra_EG_3X_sources_Co-60_and_Cs-137)
   - [11_spectra_EG_3X_source_Am-241](#11_spectra_EG_3X_source_Am-241)
+  - [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90](#12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90)
 
 
 ## 01_spectra_natural_background
@@ -110,7 +111,6 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - Co-60, type: EG 3X, activity: 807.7 kBq, reference date: 1.7. 2015
 - data acquisition time: background: ~ 1 hour; Co-60: ~10 min, ~1 hour
 - download: [09_spectra_EG_3X_source_Co-60.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/09_spectra_EG_3X_source_Co-60.zip)
-
 
 # 10_spectra_EG_3X_sources_Co-60_and_Cs-137
 
