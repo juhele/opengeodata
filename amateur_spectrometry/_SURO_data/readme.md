@@ -120,6 +120,13 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: background: ~ 1 hour; Co-60 and Cs-137: ~10 min, ~1 hour
 - download: [10_spectra_EG_3X_sources_Co-60_and_Cs-137.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/10_spectra_EG_3X_sources_Co-60_and_Cs-137.zip)
 
+# 11_spectra_EG_3X_source_Am-241
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- Am-241 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
+- Am-241, type: EG 3X, activity: 864.5 kBq, reference date: 1.7. 2015
+- data acquisition time: background: ~ 1 hour; Am-241: ~10 min, ~15 min, ~30 min, ~1 hour
+- download: [11_spectra_EG_3X_source_Am-241.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/11_spectra_EG_3X_source_Am-241.zip)
 
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
