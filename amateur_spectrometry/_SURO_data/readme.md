@@ -132,12 +132,10 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 # 12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
-- - RIO-3 (РИО-3) type ice detector with radioactive material (Strontium 90) used in aviation (for example for Mi-8/Mi-17 helicopters), measured in 10 cm distance from the detector
+- RIO-3 (РИО-3) type ice detector with radioactive material (Strontium 90) used in aviation (for example for Mi-8/Mi-17 helicopters), measured in 10 cm distance from the detector
 - information in Russian (Wikipedia) - [Сигнализатор обледенения](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80_%D0%BE%D0%B1%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F)
-- Am-241 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
-- Am-241, type: EG 3X, activity: 864.5 kBq, reference date: 1.7. 2015
-- data acquisition time: background: ~ 1 hour; Am-241: ~10 min, ~15 min, ~30 min, ~1 hour
-- download: [11_spectra_EG_3X_source_Am-241.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/11_spectra_EG_3X_source_Am-241.zip)
+- data acquisition time: background: ~ 1 hour; RIO-3: ~10 min, ~20 min
+- download: [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip)
 
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
