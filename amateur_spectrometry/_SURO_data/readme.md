@@ -15,6 +15,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
   - [08_spectra_EG_3X_source_Cs-137](#08_spectra_eg_3x_source_cs-137)
   - [09_spectra_EG_3X_source_Co-60](#09_spectra_eg_3x_source_co-60)
   - [10_spectra_EG_3X_sources_Co-60_and_Cs-137](#10_spectra_EG_3X_sources_Co-60_and_Cs-137)
+  - [11_spectra_EG_3X_source_Am-241](#11_spectra_EG_3X_source_Am-241)
 
 
 ## 01_spectra_natural_background
