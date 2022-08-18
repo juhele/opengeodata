@@ -17,6 +17,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
   - [10_spectra_EG_3X_sources_Co-60_and_Cs-137](#10_spectra_EG_3X_sources_Co-60_and_Cs-137)
   - [11_spectra_EG_3X_source_Am-241](#11_spectra_EG_3X_source_Am-241)
   - [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90](#12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90)
+  - [13_spectra_granodiorite_rock](#13_spectra_granodiorite_rock)
 
 
 ## 01_spectra_natural_background
