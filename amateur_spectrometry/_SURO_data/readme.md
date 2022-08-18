@@ -137,6 +137,14 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: background: ~ 1 hour; RIO-3: ~10 min, ~20 min
 - download: [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip)
 
+# 13_spectra_granodiorite_rock
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- granodiorite rock - coarse-grained intrusive igneous rock similar to granite, known for containing higher amounts of natural radionuclides (K, U, Th) and thus having radioactivity above common natural background
+- RadiaCode in a plastic bag placed directly on the stone, measured in the [Sporilov Geopark](https://www.ig.cas.cz/en/outreach/geopark-prague/)
+- data acquisition time: background: ~ 1 hour; granodiorite: ~10 min
+- download: [13_spectra_granodiorite_rock.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/13_spectra_granodiorite_rock.zip)
+
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
