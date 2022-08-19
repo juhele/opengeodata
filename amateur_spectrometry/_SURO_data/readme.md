@@ -160,7 +160,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 References:
 
 [Measurement of 238U and 232Th radionuclides in ilmenite and synthetic rutile
-M I Idris et al 2018 IOP Conf. Ser.: Mater. Sci. Eng. 298 012010]([link](https://iopscience.iop.org/article/10.1088/1757-899X/298/1/012010/pdf))
+M I Idris et al 2018 IOP Conf. Ser.: Mater. Sci. Eng. 298 012010](https://iopscience.iop.org/article/10.1088/1757-899X/298/1/012010/pdf)
 
 [Haridasan PP, Pillai PM, Tripathi RM, Puranik VD. Thorium in ilmenite and its radiological implications in the production of titanium dioxide. Radiat Prot Dosimetry. 2008;129(4):381-5. doi: 10.1093/rpd/ncm446. Epub 2007 Oct 19. PMID: 17951239.](https://pubmed.ncbi.nlm.nih.gov/17951239/)
 
