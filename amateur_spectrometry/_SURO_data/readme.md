@@ -18,6 +18,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
   - [11_spectra_EG_3X_source_Am-241](#11_spectra_EG_3X_source_Am-241)
   - [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90](#12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90)
   - [13_spectra_granodiorite_rock](#13_spectra_granodiorite_rock)
+  - [14_spectra_thorium-rich_material](#14_spectra_thorium-rich_material)
 
 
 ## 01_spectra_natural_background
@@ -146,11 +147,10 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: background: ~ 1 hour; granodiorite: ~10 min
 - download: [13_spectra_granodiorite_rock.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/13_spectra_granodiorite_rock.zip)
 
-
 # 14_spectra_thorium-rich_material
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
-- thorium rich material - by-product of titanium dioxide [nazev](link) (also known as "titanium white") production using [ilmenite](https://en.wikipedia.org/wiki/Ilmenite) mineral (FeTiO3) and [sulfate process]([link](https://en.wikipedia.org/wiki/Titanium_dioxide))
+- thorium rich material - by-product of [titanium dioxide](https://en.wikipedia.org/wiki/Titanium_dioxide) (also known as "titanium white") production using [ilmenite](https://en.wikipedia.org/wiki/Ilmenite) mineral (FeTiO3) and [sulfate process]([link](https://en.wikipedia.org/wiki/Titanium_dioxide))
 - this material could be defined as Naturally occurring radioactive material [(NORM)](https://en.wikipedia.org/wiki/Naturally_occurring_radioactive_material) or technologically enhanced naturally occurring radioactive material (TENORM)
 - ilmenite is known to also contain natural radionuclides like Uranium-238 and Thorium-232
 - sample in 10 cm distance from the detector
