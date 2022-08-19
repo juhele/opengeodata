@@ -146,6 +146,25 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: background: ~ 1 hour; granodiorite: ~10 min
 - download: [13_spectra_granodiorite_rock.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/13_spectra_granodiorite_rock.zip)
 
+
+# 14_spectra_thorium-rich_material
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- thorium rich material - by-product of titanium dioxide [nazev](link) (also known as "titanium white") production using [ilmenite](https://en.wikipedia.org/wiki/Ilmenite) mineral (FeTiO3) and [sulfate process]([link](https://en.wikipedia.org/wiki/Titanium_dioxide))
+- this material could be defined as Naturally occurring radioactive material [(NORM)](https://en.wikipedia.org/wiki/Naturally_occurring_radioactive_material) or technologically enhanced naturally occurring radioactive material (TENORM)
+- ilmenite is known to also contain natural radionuclides like Uranium-238 and Thorium-232
+- sample in 10 cm distance from the detector
+- data acquisition time: background: ~ 1 hour; thorium material: ~10 min, ~1 hour, ~2 hours
+- download: [14_spectra_thorium-rich_material.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/14_spectra_thorium-rich_material.zip)
+
+References:
+
+[Measurement of 238U and 232Th radionuclides in ilmenite and synthetic rutile
+M I Idris et al 2018 IOP Conf. Ser.: Mater. Sci. Eng. 298 012010]([link](https://iopscience.iop.org/article/10.1088/1757-899X/298/1/012010/pdf))
+
+[Haridasan PP, Pillai PM, Tripathi RM, Puranik VD. Thorium in ilmenite and its radiological implications in the production of titanium dioxide. Radiat Prot Dosimetry. 2008;129(4):381-5. doi: 10.1093/rpd/ncm446. Epub 2007 Oct 19. PMID: 17951239.](
+https://pubmed.ncbi.nlm.nih.gov/17951239/)
+
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
