@@ -2,9 +2,6 @@
 
 **These pages were created within the research topic of institutional support provided by the Ministry of the Interior of the Czech Republic**
 
-# For visitors interested in spectrometry data
-
-
 # Amateur gamma spectrometry with pocket spectrometer RadiaCode-101
 
 As part of the task, a commercial produced, affordable pocket spectrometer RadiaCode-101 based on a Csl (Tl) detector will be tested, focusing on the support of citizen measurements and possible quick orientation measurements in the field for the needs of radiation situation assessment by SÚRO employees.
@@ -12,6 +9,8 @@ As part of the task, a commercial produced, affordable pocket spectrometer Radia
 Measured gamma spectrometric data of various radioactive materials will be available on this website - from natural (minerals, rocks) through materials of natural origin (NORM) to various radionuclide sources available to SÚRO emploees. This site will also allow data to be published to other volunteers within the user community.
 
 We are not aware of any free database of gamma spectra, so this research project will provide such a database for the possible development of citizen science, possible development of various software tools etc.
+
+## For visitors interested in spectrometry data
 
 **Recommendation**
 
