@@ -18,7 +18,7 @@ We are not aware of any free database of gamma spectra, so this research project
 
 [Community_data](https://github.com/juhele/opengeodata/tree/master/amateur_spectrometry/Community_data)
 
-*These spectrometry measurements were shared by community members using the RadiaCode-101 device. This data has been shared in good faith, use at your own risk. SÚRO was not involved in the creation of these data and is not responsible for their quality / accuracy.
+*These spectrometry measurements were shared by community members using the RadiaCode-101 device. This data has been shared in good faith, use at your own risk. SÚRO was not involved in the creation of these data and is not responsible for their quality / accuracy.*
 
 ## Project information
 
