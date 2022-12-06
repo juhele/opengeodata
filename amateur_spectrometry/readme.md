@@ -10,7 +10,9 @@ Measured gamma spectrometric data of various radioactive materials will be avail
 
 We are not aware of any free database of gamma spectra, so this research project will provide such a database for the possible development of citizen science, possible development of various software tools etc.
 
-## For visitors interested in spectrometry data
+## Quick links for visitors interested in spectrometry data
+
+## Project information
 
 **Recommendation**
 
