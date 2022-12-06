@@ -2,6 +2,9 @@
 
 **These pages were created within the research topic of institutional support provided by the Ministry of the Interior of the Czech Republic**
 
+# For visitors interested in spectrometry data
+
+
 # Amateur gamma spectrometry with pocket spectrometer RadiaCode-101
 
 As part of the task, a commercial produced, affordable pocket spectrometer RadiaCode-101 based on a Csl (Tl) detector will be tested, focusing on the support of citizen measurements and possible quick orientation measurements in the field for the needs of radiation situation assessment by SÚRO employees.
