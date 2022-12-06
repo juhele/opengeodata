@@ -16,7 +16,9 @@ We are not aware of any free database of gamma spectra, so this research project
 
 *These spectrometry measurements were performed in the National Radiation Protection Institute (SÚRO) in Prague using various radionuclide sources (natural / NORM materials, instrument check sources etc.). The data files are licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license](https://creativecommons.org/licenses/by-sa/4.0/)*
 
-[Android](https://play.google.com/store/apps/details?id=iaea.nds.nuclides)
+[Community_data](https://github.com/juhele/opengeodata/tree/master/amateur_spectrometry/Community_data)
+
+*These spectrometry measurements were shared by community members using the RadiaCode-101 device. This data has been shared in good faith, use at your own risk. SÚRO was not involved in the creation of these data and is not responsible for their quality / accuracy.
 
 ## Project information
 
