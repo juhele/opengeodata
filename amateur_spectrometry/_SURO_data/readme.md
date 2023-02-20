@@ -139,6 +139,9 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: background: ~ 1 hour; RIO-3: ~10 min, ~20 min
 - download: [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip)
 
+<img src="Images/RIO3_JH.jpg" alt="RIO-3 (РИО-3) type ice detector" width="500"/>
+*RIO-3 (РИО-3) type ice detector - Photo: Jan Helebrant, license CC-BY-SA*
+
 # 13_spectra_granodiorite_rock
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
