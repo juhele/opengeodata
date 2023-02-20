@@ -19,6 +19,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
   - [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90](#12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90)
   - [13_spectra_granodiorite_rock](#13_spectra_granodiorite_rock)
   - [14_spectra_thorium-rich_material](#14_spectra_thorium-rich_material)
+  - [15_spectra_EG_3_source_Ba-133](#15_spectra_EG_3_source_Ba-133)
 
 
 ## 01_spectra_natural_background
@@ -166,6 +167,17 @@ References:
 M I Idris et al 2018 IOP Conf. Ser.: Mater. Sci. Eng. 298 012010](https://iopscience.iop.org/article/10.1088/1757-899X/298/1/012010/pdf)
 
 [Haridasan PP, Pillai PM, Tripathi RM, Puranik VD. Thorium in ilmenite and its radiological implications in the production of titanium dioxide. Radiat Prot Dosimetry. 2008;129(4):381-5. doi: 10.1093/rpd/ncm446. Epub 2007 Oct 19. PMID: 17951239.](https://pubmed.ncbi.nlm.nih.gov/17951239/)
+
+
+
+# 15_spectra_EG_3_source_Ba-133
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- Ba-133 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
+- Ba-133, type: EG 3, activity: 82.36 kBq, reference date: 30.12. 2017
+- data acquisition time: background: ~ 1 hour; Ba-133: ~10 min, ~1 hour
+- download: [15_spectra_EG_3_source_Ba-133.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/15_spectra_EG_3_source_Ba-133.zip)
+
 
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
