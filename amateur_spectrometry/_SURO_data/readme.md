@@ -135,7 +135,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
 - RIO-3 (РИО-3) type ice detector with radioactive material (Strontium 90) used in aviation (for example for Mi-8/Mi-17 helicopters), measured in 10 cm distance from the detector
-- information in Russian (Wikipedia) - [Сигнализатор обледенения](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80_%D0%BE%D0%B1%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F), full resolution photos - [Flickr - RIO-3]([https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80_%D0%BE%D0%B1%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F](https://www.flickr.com/search/?user_id=96541566%40N06&sort=date-taken-desc&text=Rio-3&view_all=1))
+- information in Russian (Wikipedia) - [Сигнализатор обледенения](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80_%D0%BE%D0%B1%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F), full resolution photos - [Flickr - RIO-3](https://www.flickr.com/search/?user_id=96541566%40N06&sort=date-taken-desc&text=Rio-3&view_all=1)
 - data acquisition time: background: ~ 1 hour; RIO-3: ~10 min, ~20 min
 - download: [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip)
 
