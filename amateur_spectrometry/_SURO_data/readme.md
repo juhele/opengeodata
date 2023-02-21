@@ -20,6 +20,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
   - [13_spectra_granodiorite_rock](#13_spectra_granodiorite_rock)
   - [14_spectra_thorium-rich_material](#14_spectra_thorium-rich_material)
   - [15_spectra_EG_3_source_Ba-133](#15_spectra_EG_3_source_Ba-133)
+  - [16_spectra_EG_3X_source_Co-57](#16_spectra_EG_3X_source_Co-57)
 
 
 ## 01_spectra_natural_background
@@ -178,6 +179,13 @@ M I Idris et al 2018 IOP Conf. Ser.: Mater. Sci. Eng. 298 012010](https://iopsci
 - data acquisition time: background: ~ 1 hour; Ba-133: ~10 min, ~1 hour
 - download: [15_spectra_EG_3_source_Ba-133.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/15_spectra_EG_3_source_Ba-133.zip)
 
+# 16_spectra_EG_3X_source_Co-57
+
+- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
+- Co-57 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
+- Co-57, type: EG 3X, activity: 495.2 kBq, reference date: 30.12. 2017
+- data acquisition time: background: ~ 1 hour; Co-57: ~10 min, ~1 hour, ~3 hours
+- download: [16_spectra_EG_3X_source_Co-57.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/16_spectra_EG_3X_source_Co-57.zip)
 
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
