@@ -196,7 +196,7 @@ M I Idris et al 2018 IOP Conf. Ser.: Mater. Sci. Eng. 298 012010](https://iopsci
 - data acquisition time: background: ~ 1 hour; Eu-152: ~10 min, ~1 hour
 - download: [17_spectra_EG_3_source_Eu-152](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/17_spectra_EG_3_source_Eu-152.zip)
 
-*Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
+*Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... There are also some more samples to be measured in future :-)*
 
 <img src="Images/under-construction.png" alt="Under Construction sign" width="128"/>
 
