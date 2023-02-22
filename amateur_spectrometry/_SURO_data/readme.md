@@ -194,7 +194,7 @@ M I Idris et al 2018 IOP Conf. Ser.: Mater. Sci. Eng. 298 012010](https://iopsci
 - Eu-152 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
 - Eu-152, type: EG 3, activity: 441.8 kBq, reference date: 30.12. 2017
 - data acquisition time: background: ~ 1 hour; Eu-152: ~10 min, ~1 hour
-- download: [16_spectra_EG_3X_source_Co-57.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/17_spectra_EG_3_source_Eu-152.zip)
+- download: [17_spectra_EG_3_source_Eu-152](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/17_spectra_EG_3_source_Eu-152.zip)
 
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
