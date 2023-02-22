@@ -27,7 +27,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 
 - common natural background, spectra "office" - measured in SÚRO office, 2nd floor; spectra "outside" - detector (in plastic bag) laid on the lawn in the garden
 - data acquisition time: "office": ~ 20 min, ~ 1 hour; "outside": ~40 min, ~50 min
-- download: [01_spectra_natural_background.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/01_spectra_natural_background.zip)
+- download: [01_spectra_natural_background.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/01_spectra_natural_background.zip)
 
 ## 02_spectra_radon_bottle
 
@@ -35,7 +35,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - radon in common plastic bottle
 - radon itself is a source of alpha radiation, but in the spectrum we detect its decay products ("radon daughters") - radioactive isotopes of Bi, Po, Pb
 - data acquisition times: background: ~ 1 hour; radon bottle: ~10 min, ~20 min, ~1 hour
-- download: [02_spectra_radon_bottle.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/02_spectra_radon_bottle.zip)
+- download: [02_spectra_radon_bottle.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/02_spectra_radon_bottle.zip)
 
 
 ## 03_spectra_potassium_fertilizer
@@ -46,7 +46,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - depending on the type, the activity of K-40 in the fertilizer is approximately in the range of 2.5 - 7.7 kBq / kg
 - check K-40 peak at 1460.8 keV
 - data acquisition time: background: ~ 1 hour; potassium fertilizer: ~12 min
-- download: [03_spectra_potassium_fertilizer.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/03_spectra_potassium_fertilizer.zip)
+- download: [03_spectra_potassium_fertilizer.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/03_spectra_potassium_fertilizer.zip)
 
 
 ## 04_spectra_uranium_glass
@@ -55,7 +55,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - an object made of currently produced uranium glass (also nicknamed "Vaseline glass")
 - according to the information from the State Office for Nuclear Safety (SÚJB) currently produced uranium glass in the Czech Republic should not contain more than 1% uranium (article in Czech): [Problematika uranem barveného skla](https://www.sujb.cz/radiacni-ochrana/oznameni-a-informace/problematika-uranem-barveneho-skla)
 - data acquisition time: background: ~ 1 hour; uranium glass: ~10 min
-- download: [04_spectra_uranium_glass.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/04_spectra_uranium_glass.zip)
+- download: [04_spectra_uranium_glass.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/04_spectra_uranium_glass.zip)
 
 
 ## 05_spectra_uraninite-pitchblende
@@ -64,7 +64,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - sample of uraninite UO2 (also known as smolinec, Pechblende, pitchblende)
 - uranium mineral, most important uranium ore, this sample is from Příbrami or Jáchymov
 - data acquisition time: background: ~ 1 hour; uraninite: ~10 min
-- download: [05_spectra_uraninite-pitchblende.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/05_spectra_uraninite-pitchblende.zip)
+- download: [05_spectra_uraninite-pitchblende.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/05_spectra_uraninite-pitchblende.zip)
 
 
 ## 05_spectra_uraninite-pitchblende
@@ -73,7 +73,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - sample of uraninite UO2 (also known as smolinec, Pechblende, pitchblende)
 - uranium mineral, most important uranium ore, this sample is from Příbrami or Jáchymov
 - data acquisition time: background: ~ 1 hour; uraninite: ~10 min
-- download: [05_spectra_uraninite-pitchblende.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/05_spectra_uraninite-pitchblende.zip)
+- download: [05_spectra_uraninite-pitchblende.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/05_spectra_uraninite-pitchblende.zip)
 
 
 ## 06_spectra_Jachymov_Retizkarna
@@ -83,7 +83,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - the name comes from Czech "Řetízkárna" - nickname for the building of the former chain locker room
 - some spectra are from the building, one from the road in front of it, another from the Hotel Berghof garden
 - data acquisition time: background: ~ 1 hour; field measurements: ~3-12 min
-- download: [06_spectra_Jachymov_Retizkarna.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/06_spectra_Jachymov_Retizkarna.zip)
+- download: [06_spectra_Jachymov_Retizkarna.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/06_spectra_Jachymov_Retizkarna.zip)
 
 
 ## 07_spectra_tritium_keychain
@@ -94,7 +94,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - the beta radiation is not able to pass through the glass wall, but GTLS devices do emit low levels of X-rays due to bremsstrahlung:
 ["Gaseous tritium light sources (GTLSs) and gaseous tritium light devices (GTLDs)" (PDF). Radiation Safety Handbook. Ministry of Defence (United Kingdom). May 2009. JSP 392](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/946070/JSP_392_Chapter_19_-_GTLS_-GTLD__Alt_Text_.pdf)
 - data acquisition time: background: ~ 1 hour; tritium: ~1 hour, ~4 hours
-- download: [07_spectra_tritium_keychain.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/07_spectra_tritium_keychain.zip)
+- download: [07_spectra_tritium_keychain.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/07_spectra_tritium_keychain.zip)
 
 
 ## 08_spectra_EG_3X_source_Cs-137
@@ -103,7 +103,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - Cs-137 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
 - Cs-137, type: EG 3X, activity: 858.9 kBq, reference date: 1.7. 2015
 - data acquisition time: background: ~ 1 hour; Cs-137: ~10 min, ~1 hour
-- download: [08_spectra_EG_3X_source_Cs-137.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/08_spectra_EG_3X_source_Cs-137.zip)
+- download: [08_spectra_EG_3X_source_Cs-137.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/08_spectra_EG_3X_source_Cs-137.zip)
 
 <img src="Images/etalon_typ_EG1-EG3_CMI_ENG.jpg" alt="EG X type radionuclide source" width="500"/>
 *Illustrative image and diagram of EG X type radionuclide source (image source: ČMI, translated)*
@@ -114,7 +114,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - Co-60 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
 - Co-60, type: EG 3X, activity: 807.7 kBq, reference date: 1.7. 2015
 - data acquisition time: background: ~ 1 hour; Co-60: ~10 min, ~1 hour
-- download: [09_spectra_EG_3X_source_Co-60.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/09_spectra_EG_3X_source_Co-60.zip)
+- download: [09_spectra_EG_3X_source_Co-60.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/09_spectra_EG_3X_source_Co-60.zip)
 
 # 10_spectra_EG_3X_sources_Co-60_and_Cs-137
 
@@ -123,7 +123,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - Co-60, type: EG 3X, activity: 807.7 kBq, reference date: 1.7. 2015
 - Cs-137, type: EG 3X, activity: 858.9 kBq, reference date: 1.7. 2015
 - data acquisition time: background: ~ 1 hour; Co-60 and Cs-137: ~10 min, ~1 hour
-- download: [10_spectra_EG_3X_sources_Co-60_and_Cs-137.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/10_spectra_EG_3X_sources_Co-60_and_Cs-137.zip)
+- download: [10_spectra_EG_3X_sources_Co-60_and_Cs-137.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/10_spectra_EG_3X_sources_Co-60_and_Cs-137.zip)
 
 # 11_spectra_EG_3X_source_Am-241
 
@@ -131,7 +131,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - Am-241 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
 - Am-241, type: EG 3X, activity: 864.5 kBq, reference date: 1.7. 2015
 - data acquisition time: background: ~ 1 hour; Am-241: ~10 min, ~15 min, ~30 min, ~1 hour
-- download: [11_spectra_EG_3X_source_Am-241.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/11_spectra_EG_3X_source_Am-241.zip)
+- download: [11_spectra_EG_3X_source_Am-241.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/11_spectra_EG_3X_source_Am-241.zip)
 
 # 12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90
 
@@ -139,7 +139,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - RIO-3 (РИО-3) type ice detector with radioactive material (Strontium 90) used in aviation (for example for Mi-8/Mi-17 helicopters), measured in 10 cm distance from the detector
 - information in Russian (Wikipedia) - [Сигнализатор обледенения](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80_%D0%BE%D0%B1%D0%BB%D0%B5%D0%B4%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F), full resolution photos - [Flickr - RIO-3](https://www.flickr.com/search/?user_id=96541566%40N06&sort=date-taken-desc&text=Rio-3&view_all=1)
 - data acquisition time: background: ~ 1 hour; RIO-3: ~10 min, ~20 min
-- download: [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip)
+- download: [12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/12_spectra_RIO-3_ice_detector_Sr-90_and_Y-90.zip)
 
 <img src="Images/RIO3_JH.jpg" alt="RIO-3 (РИО-3) type ice detector" width="500"/>
 *RIO-3 (РИО-3) type ice detector - Photo: Jan Helebrant, license CC-BY-SA*
@@ -150,7 +150,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - granodiorite rock - coarse-grained intrusive igneous rock similar to granite, known for containing higher amounts of natural radionuclides (K, U, Th) and thus having radioactivity above common natural background
 - RadiaCode in a plastic bag placed directly on the stone, measured in the [Sporilov Geopark](https://www.ig.cas.cz/en/outreach/geopark-prague/)
 - data acquisition time: background: ~ 1 hour; granodiorite: ~10 min
-- download: [13_spectra_granodiorite_rock.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/13_spectra_granodiorite_rock.zip)
+- download: [13_spectra_granodiorite_rock.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/13_spectra_granodiorite_rock.zip)
 
 # 14_spectra_thorium-rich_material
 
@@ -160,7 +160,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - ilmenite is known to also contain natural radionuclides like Uranium-238 and Thorium-232
 - sample in 10 cm distance from the detector
 - data acquisition time: background: ~ 1 hour; thorium material: ~10 min, ~1 hour, ~2 hours
-- download: [14_spectra_thorium-rich_material.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/14_spectra_thorium-rich_material.zip)
+- download: [14_spectra_thorium-rich_material.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/14_spectra_thorium-rich_material.zip)
 
 References:
 
@@ -177,7 +177,7 @@ M I Idris et al 2018 IOP Conf. Ser.: Mater. Sci. Eng. 298 012010](https://iopsci
 - Ba-133 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
 - Ba-133, type: EG 3, activity: 82.36 kBq, reference date: 30.12. 2017
 - data acquisition time: background: ~ 1 hour; Ba-133: ~10 min, ~1 hour
-- download: [15_spectra_EG_3_source_Ba-133.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/15_spectra_EG_3_source_Ba-133.zip)
+- download: [15_spectra_EG_3_source_Ba-133.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/15_spectra_EG_3_source_Ba-133.zip)
 
 # 16_spectra_EG_3X_source_Co-57
 
@@ -185,7 +185,7 @@ M I Idris et al 2018 IOP Conf. Ser.: Mater. Sci. Eng. 298 012010](https://iopsci
 - Co-57 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
 - Co-57, type: EG 3X, activity: 495.2 kBq, reference date: 30.12. 2017
 - data acquisition time: background: ~ 1 hour; Co-57: ~10 min, ~1 hour, ~3 hours
-- download: [16_spectra_EG_3X_source_Co-57.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/16_spectra_EG_3X_source_Co-57.zip)
+- download: [16_spectra_EG_3X_source_Co-57.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/16_spectra_EG_3X_source_Co-57.zip)
 
 *Please be patient. The pages are gradually updated, versions in CSV format will be added to the data, we will add spectrum graphs to the page and more ... Also have spectra of Cs-137, Co-60, Am-241 and other to be added and several many other to be measured in future :-)*
 
