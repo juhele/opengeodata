@@ -71,7 +71,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 ## 05_spectra_uraninite-pitchblende
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
-- sample of uraninite UO2 (also known as smolinec, Pechblende, pitchblende)
+- sample of uraninite UO₂ (also known as smolinec, Pechblende, pitchblende)
 - uranium mineral, most important uranium ore, this sample is from Příbrami or Jáchymov
 - data acquisition time: background: ~ 1 hour; uraninite: ~10 min
 - download: [05_spectra_uraninite-pitchblende.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/05_spectra_uraninite-pitchblende.zip)
