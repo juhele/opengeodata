@@ -9,7 +9,6 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
   - [03_spectra_potassium_fertilizer](#03_spectra_potassium_fertilizer)
   - [04_spectra_uranium_glass](#04_spectra_uranium_glass)
   - [05_spectra_uraninite-pitchblende](#05_spectra_uraninite-pitchblende)
-  - [05_spectra_uraninite-pitchblende](#05_spectra_uraninite-pitchblende)
   - [06_spectra_Jachymov_Retizkarna](#06_spectra_jachymov_retizkarna)
   - [07_spectra_tritium_keychain](#07_spectra_tritium_keychain)
   - [08_spectra_EG_3X_source_Cs-137](#08_spectra_eg_3x_source_cs-137)
@@ -58,15 +57,6 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - according to the information from the State Office for Nuclear Safety (SÚJB) currently produced uranium glass in the Czech Republic should not contain more than 1% uranium (article in Czech): [Problematika uranem barveného skla](https://www.sujb.cz/radiacni-ochrana/oznameni-a-informace/problematika-uranem-barveneho-skla)
 - data acquisition time: background: ~ 1 hour; uranium glass: ~10 min
 - download: [04_spectra_uranium_glass.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/04_spectra_uranium_glass.zip)
-
-
-## 05_spectra_uraninite-pitchblende
-
-- background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
-- sample of uraninite UO₂ (also known as smolinec, Pechblende, pitchblende)
-- uranium mineral, most important uranium ore, this sample is from Příbrami or Jáchymov
-- data acquisition time: background: ~ 1 hour; uraninite: ~10 min
-- download: [05_spectra_uraninite-pitchblende.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/05_spectra_uraninite-pitchblende.zip)
 
 
 ## 05_spectra_uraninite-pitchblende
