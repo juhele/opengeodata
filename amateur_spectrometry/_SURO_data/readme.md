@@ -94,7 +94,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
 - Cs-137 radionuclide source (instrument check source) from Czech metrology institute (Czech: Český metrologický institut, ČMI, [product catalogue](https://www.cmi.cz/sites/all/files/public/download/katalog_OI%20Praha_2015_%C4%8Desky.pdf) (Czech only)), in 10 cm distance from the detector
 - Cs-137, type: EG 3X, activity: 858.9 kBq, reference date: 1.7. 2015
-- peak(s): 32 keV (X-rays), 661.7 keV (gamma)
+- peak(s): ~32 keV (X-rays), ~200 keV (backscatter), 661.7 keV (gamma)
 - data acquisition time: background: ~ 1 hour; Cs-137: ~10 min, ~1 hour
 - download: [08_spectra_EG_3X_source_Cs-137.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/08_spectra_EG_3X_source_Cs-137.zip)
 
