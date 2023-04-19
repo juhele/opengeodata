@@ -30,6 +30,8 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: "office": ~ 20 min, ~ 1 hour; "outside": ~40 min, ~50 min
 - download: [01_spectra_natural_background.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/01_spectra_natural_background.zip)
 
+<img src="Images/Graph01_background.png" alt="Natural background spectrum" width="800"/>
+
 ## 02_spectra_radon_bottle
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
