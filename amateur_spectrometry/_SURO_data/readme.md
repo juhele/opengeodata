@@ -40,6 +40,8 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition times: background: ~ 1 hour; radon bottle: ~10 min, ~20 min, ~1 hour
 - download: [02_spectra_radon_bottle.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/02_spectra_radon_bottle.zip)
 
+<img src="Images/Graph02_radon_bottle.png" alt="Radon bottle spectrum" width="800"/>
+
 
 ## 03_spectra_potassium_fertilizer
 
@@ -51,7 +53,7 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: background: ~ 1 hour; potassium fertilizer: ~12 min
 - download: [03_spectra_potassium_fertilizer.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/03_spectra_potassium_fertilizer.zip)
 
-<img src="Images/Graph03_potassium_fertilizer.png" alt="Natural background spectrum" width="800"/>
+<img src="Images/Graph03_potassium_fertilizer.png" alt="Potassium fertilizer spectrum" width="800"/>
 
 
 ## 04_spectra_uranium_glass
