@@ -16,3 +16,9 @@ In this section you will find data shared by community members using the RadiaCo
 [Spectrum 2022-05-14 23-07-12 airplane 10 500 m](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Spectrum_2022-05-14_23-07-12_airplane_10500m.xml)
 
 [Technetium Tc-99m - old man in a bus](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Tc-99m_old_man_in_a_bus.xml)
+
+## Data from Dosemap.org project
+
+- only spectrometric data from RadiaCode-101 device shared here
+- details about the project (in Russian language) here: [Dose Map глобальная карта любительской дозиметрии - О проекте](https://dosemap.org/info/)
+- available data (further details to be added later):
