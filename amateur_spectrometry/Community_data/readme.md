@@ -19,6 +19,6 @@ In this section you will find data shared by community members using the RadiaCo
 
 ## Data from Dosemap.org project
 
-- only spectrometric data from RadiaCode-101 device shared here
+- only spectrometric data from RadiaCode-101 device will be shared here
 - details about the project (in Russian language) here: [Dose Map глобальная карта любительской дозиметрии - О проекте](https://dosemap.org/info/)
 - available data (further details to be added later):
