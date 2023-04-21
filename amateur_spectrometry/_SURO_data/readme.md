@@ -117,6 +117,9 @@ The data files are licensed under [Attribution-ShareAlike 4.0 International (CC 
 - data acquisition time: background: ~ 1 hour; Co-60: ~10 min, ~1 hour
 - download: [09_spectra_EG_3X_source_Co-60.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/09_spectra_EG_3X_source_Co-60.zip)
 
+<img src="Images/Graph09_Co60.png" alt="EG 3X source C0-60 spectrum" width="800"/>
+
+
 # 10_spectra_EG_3X_sources_Co-60_and_Cs-137
 
 - background spectrum "Background - office 1 hour" - measured in SÚRO office, 2nd floor
