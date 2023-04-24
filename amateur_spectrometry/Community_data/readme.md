@@ -41,10 +41,10 @@ In this section you will find data shared by community members using the RadiaCo
 - link to source: [Dosemap.org](https://dosemap.org/info/cs137-nalibokskaya-pushcha/)
 
 
-### Dosemap.org_spectra_03_Cs-137_Belarus_soil
+### Dosemap.org_spectra_03_Cs-137_Russia_Kirovo-Chepetsk_soil
 
 - background spectrum "Background, place of sample measurement" ~ 8 days
 - Cs-137 in soil sample collected near Lake Prosnoe (озеро Просное / Ozero Prosnoye), Kirovo-Chepetsk (58.5436389N, 49.8945833E)
 - data acquisition time: - background: ~ 8 days, soil sample: ~ 3 days
-- download: [Dosemap.org_spectra_03_Cs-137_Belarus_soil.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Dosemap.org_spectra_03_Cs-137_Belarus_soil.zip)
+- download: [Dosemap.org_spectra_03_Cs-137_Russia_Kirovo-Chepetsk_soil.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Dosemap.org_spectra_03_Cs-137_Russia_Kirovo-Chepetsk_soil.zip)
 - link to source: [Dosemap.org](https://dosemap.org/info/cs137-ground-chepetsk/)
