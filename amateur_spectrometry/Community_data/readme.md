@@ -35,7 +35,7 @@ In this section you will find data shared by community members using the RadiaCo
 ### Dosemap.org_spectra_02_Cs-137_Belarus_mushrooms
 
 - background spectrum "Background17d" ~ 17 days
-- Cs-137 in mushrooms collected in the area of Nalibokskaya Pushcha (Naliboki forest), Volozhin, Belarus (check [Wikipedia](https://en.wikipedia.org/wiki/Naliboki_forest) for more information)
+- Cs-137 in mushrooms collected in the area of Nalibokskaya Pushcha ([Naliboki forest](https://en.wikipedia.org/wiki/Naliboki_forest)), Volozhin, Belarus
 - data acquisition time: - background: ~ 17 days, mushrooms: ~13 days
 - download: [Dosemap.org_spectra_02_Cs-137_Belarus_mushrooms.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Dosemap.org_spectra_02_Cs-137_Belarus_mushrooms.zip)
 - link to source: [Dosemap.org](https://dosemap.org/info/cs137-nalibokskaya-pushcha/)
