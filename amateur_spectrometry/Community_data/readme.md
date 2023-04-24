@@ -22,3 +22,11 @@ In this section you will find data shared by community members using the RadiaCo
 - only spectrometric data from RadiaCode-101 device will be shared here
 - details about the project (in Russian language) here: [Dose Map глобальная карта любительской дозиметрии - О проекте](https://dosemap.org/info/)
 - available data (further details to be added later):
+
+### Dosemap.org_spectra_01_Cs-137_OSGI_source
+
+- background spectrum "Combined background" ~ 55 days
+- Cs-137 radionuclide source (instrument check source) OSGI / ОСГИ
+- data acquisition time: - background: ~ 55 days, Cs-137: ~10 min
+- download: [Dosemap.org_spectra_01_Cs-137_OSGI_source.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Dosemap.org_spectra_01_Cs-137_OSGI_source.zip)
+- link to source: [Dosemap.org](https://dosemap.org/info/cs137-osgi/)
