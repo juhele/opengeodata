@@ -30,3 +30,12 @@ In this section you will find data shared by community members using the RadiaCo
 - data acquisition time: - background: ~ 55 days, Cs-137: ~10 min
 - download: [Dosemap.org_spectra_01_Cs-137_OSGI_source.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Dosemap.org_spectra_01_Cs-137_OSGI_source.zip)
 - link to source: [Dosemap.org](https://dosemap.org/info/cs137-osgi/)
+
+
+### Dosemap.org_spectra_01_Cs-137_OSGI_source
+
+- background spectrum "Combined background" ~ 55 days
+- Cs-137 radionuclide source (instrument check source) OSGI / ОСГИ
+- data acquisition time: - background: ~ 55 days, Cs-137: ~10 min
+- download: [Dosemap.org_spectra_02_Cs-137_Belarus_mushrooms.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Dosemap.org_spectra_02_Cs-137_Belarus_mushrooms.zip)
+- link to source: [Dosemap.org](https://dosemap.org/info/cs137-osgi/)
