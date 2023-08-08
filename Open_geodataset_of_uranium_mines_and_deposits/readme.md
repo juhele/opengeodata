@@ -1,6 +1,7 @@
 open dataset of uranium mines and deposits
 
 - news:
+  
 2023-08-03 added many sites in Slovakia, Poland, Russia etc.
   
 2020-03-04 added Africa, Asia and the rest of the world data derived from USGS MRDS
