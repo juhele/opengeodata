@@ -32,11 +32,11 @@ North America, South America, Africa, Asia etc. - [USGS Mineral Resource Data Sy
 - these data taken as a base for countries where no better spatial data are available
 - to be updated later if possible
 
-previews:
+## Previews:
 
-Australia:
+Entire map extent
 
-![Alt text](mines_AUS.jpg?raw=true "Australian mines")
+![entire map extent](uranium_mines_preview01_world.jpg?raw=true "entire map extent")
 Background map © OpenStreetMap contributors
 
 and Czech Republic:
