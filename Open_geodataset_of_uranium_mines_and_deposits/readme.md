@@ -43,6 +43,3 @@ Map detail with labels:
 
 ![map detail with labels](uranium_mines_preview02_detail.jpg?raw=true "map detail with labels")
 Background map © OpenStreetMap contributors
-
-and few ones in Germany.
-In future it is planned to be expanded with data from Germany, France and other countries.
