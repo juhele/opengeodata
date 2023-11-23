@@ -21,21 +21,13 @@ Contains following data:
 - more information:
 
 
-Czech Republic - data from Czech Geological Survey
+Czech Republic - data from Czech Geological Survey: [ČGS - Důlní díla a poddolování](https://mapy.geology.cz/dulni_dila_poddolovani/)
 
-ČGS - Důlní díla a poddolování
-
-https://mapy.geology.cz/dulni_dila_poddolovani/
-
-
-Finland - sites from Geological Survey of Finland document:
-
-http://tupa.gtk.fi/raportti/arkisto/m60_2000_1.pdf
-
+Finland - Geological Survey of Finland / Geologian tutkimuskeskus: [FinU - a database on uranium deposits in Finland](http://tupa.gtk.fi/raportti/arkisto/m60_2000_1.pdf)
 
 France
 
-position source: mimausabdd.irsn.fr
+position source: Programme MIMAUSA – Carte des anciens sites miniers d'uranium mimausabdd.irsn.fr
 
 details: IAEA-TECDOC-1843
 
