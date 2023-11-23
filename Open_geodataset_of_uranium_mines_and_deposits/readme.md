@@ -1,10 +1,10 @@
-#Open dataset of uranium mines and deposits
+# Open dataset of uranium mines and deposits
 
-##Usage:
+## Usage:
 - .geojson files can be displayed directly in the map, it is a GitHub feature, for GIS aplications download the *.gpkg file
 - 
 
-##News:
+## News:
 
 2023-11-23 added some sites in Bolivia, mainly using Mindat.org + a lot of manual work
   
