@@ -34,14 +34,14 @@ North America, South America, Africa, Asia etc. - [USGS Mineral Resource Data Sy
 
 ## Previews:
 
-Entire map extent
+Entire map extent:
 
 ![entire map extent](uranium_mines_preview01_world.jpg?raw=true "entire map extent")
 Background map © OpenStreetMap contributors
 
-and Czech Republic:
+Map detail with labels:
 
-![Alt text](mines_CZE.jpg?raw=true "Czech mines")
+![map detail with labels](uranium_mines_preview02_detail.jpg?raw=true "map detail with labels")
 Background map © OpenStreetMap contributors
 
 and few ones in Germany.
