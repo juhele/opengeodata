@@ -16,26 +16,15 @@ open dataset of uranium mines and deposits
 The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example. All datasets have standard GPS coordinates - e.g. EPSG:4326 Geodetic coordinate system for World - https://epsg.io/4326
 
 
-Contains following data:
-
-- more information:
-
+Based on following data:
 
 Czech Republic - data from Czech Geological Survey: [ČGS - Důlní díla a poddolování](https://mapy.geology.cz/dulni_dila_poddolovani/)
 
 Finland - Geological Survey of Finland / Geologian tutkimuskeskus: [FinU - a database on uranium deposits in Finland](http://tupa.gtk.fi/raportti/arkisto/m60_2000_1.pdf)
 
-France
+France - position:  [Programme MIMAUSA – Carte des anciens sites miniers d'uranium](https://mimausabdd.irsn.fr/), details: IAEA-TECDOC-1843
 
-position source: Programme MIMAUSA – Carte des anciens sites miniers d'uranium mimausabdd.irsn.fr
-
-details: IAEA-TECDOC-1843
-
-
-North America, South America, Africa, Asia etc. - USGS Mineral Resource Data System (MRDS)
-
-https://mrdata.usgs.gov/mrds/
-
+North America, South America, Africa, Asia etc. - [USGS Mineral Resource Data System (MRDS)](https://mrdata.usgs.gov/mrds/)
 - these data taken as a base for countries where no better spatial data are available
 - to be updated later if possible
 
