@@ -2,7 +2,7 @@
 
 ## Usage:
 - .geojson files can be displayed directly in the map, it is a GitHub feature, for GIS aplications download the *.gpkg file
-- 
+- the GeoPackage (*.gpkg) file contains a "built-in" symbology style including symbols and labels
 
 ## News:
 
