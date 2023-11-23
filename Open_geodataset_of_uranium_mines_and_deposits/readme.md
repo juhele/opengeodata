@@ -4,7 +4,7 @@
 - .geojson files can be displayed directly in the map, it is a GitHub feature, for GIS aplications download the *.gpkg file
 - the GeoPackage (*.gpkg) file contains a "built-in" symbology style including symbols and labels
 
-## News:
+## Changelog:
 
 2023-11-23 added some sites in Bolivia, mainly using Mindat.org + a lot of manual work
   
