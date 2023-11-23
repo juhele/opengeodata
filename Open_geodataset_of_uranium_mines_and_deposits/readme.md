@@ -20,7 +20,7 @@
 The dataset is available in CSV format and also in OGC GeoPackage format (geodatabase with vector points) with style included so you can easily load it in your GIS software like QGIS for example. All datasets have standard GPS coordinates - e.g. EPSG:4326 Geodetic coordinate system for World - https://epsg.io/4326
 
 
-Based on following data:
+## Data resources:
 
 Czech Republic - data from Czech Geological Survey: [ČGS - Důlní díla a poddolování](https://mapy.geology.cz/dulni_dila_poddolovani/)
 
