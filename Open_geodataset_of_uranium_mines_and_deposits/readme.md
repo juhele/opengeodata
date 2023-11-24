@@ -8,7 +8,7 @@
 
 2023-11-23 added some sites in Bolivia, mainly using Mindat.org + a lot of manual work
   
-2023-11-22 added many sites in Mongolia, one in Brazil, mainly using Mindat.org + NEA/IAEA "Uranium Resources, Production and Demand 2022" report [available online here](https://www.oecd-nea.org/upload/docs/application/pdf/2023-04/7634_uranium_-_resources_production_and_demand_2022.pdf) a lot of manual work
+2023-11-22 added many sites in Mongolia, one in Brazil, mainly using Mindat.org + NEA/IAEA "Uranium Resources, Production and Demand 2022" report [available online here](https://www.oecd-nea.org/upload/docs/application/pdf/2023-04/7634_uranium_-_resources_production_and_demand_2022.pdf) and lot of manual work
     
 2023-08-03 added many sites in Slovakia, Poland, Russia etc., mainly using Mindat.org + a lot of googling and manual work
   
