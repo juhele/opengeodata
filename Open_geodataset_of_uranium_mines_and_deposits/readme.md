@@ -36,7 +36,7 @@ North America, South America, Africa, Asia etc. - [USGS Mineral Resource Data Sy
 
 Entire map extent:
 
-![entire map extent](uranium_mines_preview01_world.jpg?raw=true "entire map extent")
+![entire map extent](uranium_mines_preview01_world_rev2.jpg?raw=true "entire map extent")
 Background map © OpenStreetMap contributors
 
 Map detail with labels:
