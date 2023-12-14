@@ -32,6 +32,8 @@ North America, South America, Africa, Asia etc. - [USGS Mineral Resource Data Sy
 - these data taken as a base for countries where no better spatial data are available
 - to be updated later if possible
 
+[Mindat.org](https://www.mindat.org/) - world’s leading authority on minerals and their localities, deposits, and mines worldwide
+
 ## Previews:
 
 Entire map extent:
