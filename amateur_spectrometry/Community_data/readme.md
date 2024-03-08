@@ -66,6 +66,7 @@ In this section you will find data shared by community members using the RadiaCo
 
 ### Bossew_spectra_01_K-40
 
+- kindly provided by Peter Bossew
 - background spectrum "background" ~ 12 hours
 - K-40 - food-grade potassium chloride (KCl, or potassium salt)
 - data acquisition time: - background: ~ 12 hours, K-40: ~ 16 hours
