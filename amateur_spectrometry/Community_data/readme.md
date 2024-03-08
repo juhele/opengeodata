@@ -71,3 +71,12 @@ In this section you will find data shared by community members using the RadiaCo
 - K-40 - food-grade potassium chloride (KCl, or potassium salt)
 - data acquisition time: - background: ~ 12 hours, K-40: ~ 16 hours
 - download: [Bossew_spectra_01_K-40.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_01_K-40.zip)
+
+### Bossew_spectra_02_Danube_sediment
+
+- kindly provided by Peter Bossew
+- background spectrum "Background1" ~ 12 hours
+- dried sludge from the Danube river
+- background: ~ 12 hours, Danube sediment: ~ 20 hours
+- data acquisition time: - background: ~ 12 hours, K-40: ~ 16 hours
+- download: [Bossew_spectra_02_Danube_sediment.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_02_Danube_sediment.zip)
