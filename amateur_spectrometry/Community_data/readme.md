@@ -61,3 +61,12 @@ In this section you will find data shared by community members using the RadiaCo
 - data acquisition time: - background: ~ 7.8 days, soil sample: ~ 5.2 days
 - download: [Dosemap.org_spectra_04_Cs-137_Russia_Kirovo-Chepetsk_soil.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Dosemap.org_spectra_04_Cs-137_Russia_Kirovo-Chepetsk_soil.zip)
 - link to source: [Dosemap.org](https://dosemap.org/info/cs137-ground-chepetsk_3/)
+
+## Data from other users
+
+### Bossew_spectra_01_K-40
+
+- background spectrum "background" ~ 12 hours
+- K-40 - food-grade potassium chloride (KCl, or potassium salt)
+- data acquisition time: - background: ~ 12 hours, K-40: ~ 16 hours
+- download: [Bossew_spectra_01_K-40.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_01_K-40.zip)
