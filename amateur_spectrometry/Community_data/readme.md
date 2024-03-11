@@ -83,11 +83,11 @@ In this section you will find data shared by community members using the RadiaCo
 - download: [Bossew_spectra_02_Danube_sediment.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_02_Danube_sediment.zip)
 
 
-### Bossew_spectra_02_Danube_sediment
+### Bossew_spectra_03_Schlackenstein
 
 - kindly provided by Peter Bossew
 - background spectrum "Background1" ~ 12 hours
 - dried sludge from the Danube river
 - background: ~ 12 hours, Danube sediment: ~ 20 hours
 - data acquisition time: - background: ~ 12 hours, Schlackenstein: ~ 14 hours
-- download: [Bossew_spectra_02_Danube_sediment.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_02_Danube_sediment.zip)
+- download: [Bossew_spectra_03_Schlackenstein.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_03_Schlackenstein.zip)
