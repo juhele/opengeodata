@@ -9,6 +9,7 @@ In this section you will find data shared by community members using the RadiaCo
 ## Data from RadiaCode Telegram channel 
 
 - you can join the group (in Russian language) here: [Дозиметр RadiaCode-101](https://t.me/radiacode101)
+- the English RadiaCode channel is here: [Support Radiacode](https://t.me/RadiacodeEng)
 - available data (further details to be added later):
 
 [RadiaCode_data_Mike Busyrev.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/RadiaCode_data_Mike%20Busyrev.zip)
