@@ -33,3 +33,5 @@ OpenStreetMap color, OpenStreetMap grayscale, OpenTopoMap color, OpenTopoMap gra
 
 ### Czech Republic / Česká republika (CZE)
 [Click here / Klikněte zde](https://github.com/juhele/opengeodata/tree/master/GIS_supporting_layers/GIS_layers_2_CZE)
+
+CENIA Historická ortofotomapa (50. léta), ČÚZK Ortofoto ČR (aktuální ortofoto), ČÚZK Ortofoto ČR (aktuální ortofoto) - grayscale version / černobílá varianta, Mapa radonového indexu 1 : 500 000 (GEOČR500) / Radon risk map 1 : 500,000 (GEOCR500)
