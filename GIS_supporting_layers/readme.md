@@ -17,3 +17,12 @@ The use of map layers is subject to the license terms of the respective data pro
 *Varování: QLR soubor pouze usnadňuje načtení vrstvy ze serveru poskytovatele vč. možnosti dalšího nastavení v QGISu (varianty vrstev ve stupní šedi). Nemůžeme garantovat funkčnost - poskytovatel dat může provést změny mapové služby - pokud to zjistíme, pokusíme se to opravit i v našem QLR.*
 
 *Použití mapových vrstev se řídí licenčními podmínkami příslušného poskytovatele dat. Přečtete si prosím licenční podmínky dané mapové vrstvy a respektujte je. Většinou je v mapových výstupech (obrázky, publikace, tištěné mapy) vyžadována citace zdroje v určitém znění.*
+
+## Global scope layers
+
+*Vrstvy globálního rozsahu*
+
+
+## Country-specific layers
+
+*Vrstvy pro specifické země*
