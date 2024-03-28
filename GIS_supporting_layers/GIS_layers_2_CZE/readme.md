@@ -13,21 +13,17 @@
 <img src="background_CZE_CENIA_historic_orthophoto_50s_EPSG3857.jpg" alt="Historická ortofotomapa (50. léta) preview" width="600"/>
 
 ## ČÚZK Ortofoto ČR (aktuální ortofoto)
-- color style changed to grayscale (you can easily do it by yourself in QGIS but for some users might be useful to have this file), EPSG:3857 Pseudo Mercator
+- default color style, EPSG:4326 WGS 84
 - citation in maps: *background map WMS - Ortofoto © Czech Office for Surveying, Mapping and Cadastre (ČÚZK)*
 - citace v mapě česky: *mapový podklad WMS - Ortofoto © Český úřad zeměměřický a katastrální (ČÚZK)*
 - homepage: https://geoportal.cuzk.cz/(S(vpqvbn3bqwdkawmjinb03elg))/Default.aspx?menu=3121&mode=TextMeta&side=wms.verejne&metadataID=CZ-CUZK-WMS-ORTOFOTO-P&metadataXSL=metadata.sluzba
 <img src="background_CZE_CUZK_orthophoto_color_EPSG4326.jpg" alt="ČÚZK Ortofoto ČR preview" width="600"/>
 
-## OpenTopoMap color
-- default color style, EPSG:3857 Pseudo Mercator
-- citation in maps: *Map data: © OpenStreetMap contributors, SRTM | map style: © OpenTopoMap (CC-BY-SA)*
-- homepage: https://www.opentopomap.org/
-<img src="background_global_OpenTopoMap_color_EPSG3857.jpg" alt="OpenTopoMap color preview" width="600"/>
+## ČÚZK Ortofoto ČR (aktuální ortofoto) - grayscale version / černobílá varianta
+- color style changed to grayscale (you can easily do it by yourself in QGIS but for some users might be useful to have this file), EPSG:4326 WGS 84
+- citation in maps: *background map WMS - Ortofoto © Czech Office for Surveying, Mapping and Cadastre (ČÚZK)*
+- citace v mapě česky: *mapový podklad WMS - Ortofoto © Český úřad zeměměřický a katastrální (ČÚZK)*
+- homepage: https://geoportal.cuzk.cz/(S(vpqvbn3bqwdkawmjinb03elg))/Default.aspx?menu=3121&mode=TextMeta&side=wms.verejne&metadataID=CZ-CUZK-WMS-ORTOFOTO-P&metadataXSL=metadata.sluzba
+<img src="background_CZE_CUZK_orthophoto_grayscale_EPSG4326.jpg" alt="ČÚZK Ortofoto ČR preview" width="600"/>
 
-## OpenTopoMap grayscale
-- color style changed to grayscale (you can easily do it by yourself in QGIS but for some users might be useful to have this file), EPSG:3857 Pseudo Mercator
-- citation in maps: *Map data: © OpenStreetMap contributors, SRTM | map style: © OpenTopoMap (CC-BY-SA)*
-- homepage: https://www.opentopomap.org/
-<img src="background_global_OpenTopoMap_grayscale_EPSG3857.jpg" alt="OpenTopoMap color preview" width="600"/>
-
+----
