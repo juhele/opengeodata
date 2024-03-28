@@ -27,9 +27,9 @@
 <img src="background_CZE_CUZK_orthophoto_grayscale_EPSG4326.jpg" alt="ČÚZK Ortofoto ČR preview" width="600"/>
 
 ## Mapa radonového indexu 1 : 500 000 (GEOČR500) / Radon risk map 1 : 500,000 (GEOCR500)
-- color style changed to grayscale (you can easily do it by yourself in QGIS but for some users might be useful to have this file), EPSG:4326 WGS 84
-- citation in maps: *background map WMS - Ortofoto © Czech Office for Surveying, Mapping and Cadastre (ČÚZK)*
-- citace v mapě česky: *mapový podklad WMS - Ortofoto © Český úřad zeměměřický a katastrální (ČÚZK)*
+- transparency set to 50% so you can use it as map overlay, EPSG:4326 WGS 84
+- citation in maps: *Radon risk map 1 : 500,000 (GEOCR500) © Czech Geological Survey*
+- citace v mapě česky: *Mapa radonového indexu 1 : 500 000 (GEOČR500) © Česká geologická služba*
 - homepage: https://micka.geology.cz/record/basic/515179ac-dfdc-4fcf-871b-1e400a010817
 <img src="CZE_CGS_radon_risk_GEOCR500_EPSG4326.jpg" alt="Radon risk map (GEOCR500) preview" width="600"/>
 ----
