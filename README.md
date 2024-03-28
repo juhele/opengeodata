@@ -14,6 +14,8 @@ Datasets currently available (see subfolders above):
 
 - DEMO ground radiation monitoring data from Mob-DOSE detector - data were measured using the Mob-DOSE (also called PDOSE-3) portable device, with native output in PEI format defined by Pico Envirotec, the radiation data are real but the location and time/date parameters were changed
 
+- GIS supporting layers - various sources of geographic data for easy use in GIS - primarily targeted at QGIS
+
 - uranium mines and deposits
 
 - world nuclear power reactors
