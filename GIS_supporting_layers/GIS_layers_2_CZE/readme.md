@@ -1,8 +1,8 @@
-## Country-specific layers
+# Country-specific layers
 
 *Vrstvy pro specifické země*
 
-### Czech Republic / Česká republika (CZE)
+## Czech Republic / Česká republika (CZE)
 
 ## OpenStreetMap color
 - default color style, EPSG:3857 Pseudo Mercator
