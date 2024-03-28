@@ -12,11 +12,12 @@
 - homepage: https://micka.cenia.cz/record/basic/50210752-9d9c-4f47-956b-1951c0a80137
 <img src="background_CZE_CENIA_historic_orthophoto_50s_EPSG3857.jpg" alt="Historická ortofotomapa (50. léta) preview" width="600"/>
 
-## Ortofoto ČR
+## ČÚZK Ortofoto ČR (aktuální ortofoto)
 - color style changed to grayscale (you can easily do it by yourself in QGIS but for some users might be useful to have this file), EPSG:3857 Pseudo Mercator
-- citation in maps: *Map background: © OpenStreetMap contributors (CC-BY-SA)*
-- homepage: https://geoportal.cuzk.cz/(S(vpqvbn3bqwdkawmjinb03elg))/Default.aspx?mode=TextMeta&side=wms.verejne&text=WMS.verejne.uvod&head_tab=sekce-03-gp&menu=311
-<img src="background_global_OpenStreetMap_grayscale_EPSG3857.jpg" alt="OpenStreetMap color preview" width="600"/>
+- citation in maps: *background map WMS - Ortofoto © Czech Office for Surveying, Mapping and Cadastre (ČÚZK)*
+- citace v mapě česky: *mapový podklad WMS - Ortofoto © Český úřad zeměměřický a katastrální (ČÚZK)*
+- homepage: https://geoportal.cuzk.cz/(S(vpqvbn3bqwdkawmjinb03elg))/Default.aspx?menu=3121&mode=TextMeta&side=wms.verejne&metadataID=CZ-CUZK-WMS-ORTOFOTO-P&metadataXSL=metadata.sluzba
+<img src="background_CZE_CUZK_orthophoto_color_EPSG4326.jpg" alt="ČÚZK Ortofoto ČR preview" width="600"/>
 
 ## OpenTopoMap color
 - default color style, EPSG:3857 Pseudo Mercator
