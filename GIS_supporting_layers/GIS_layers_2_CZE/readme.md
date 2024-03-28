@@ -31,5 +31,5 @@
 - citation in maps: *background map WMS - Ortofoto © Czech Office for Surveying, Mapping and Cadastre (ČÚZK)*
 - citace v mapě česky: *mapový podklad WMS - Ortofoto © Český úřad zeměměřický a katastrální (ČÚZK)*
 - homepage: https://micka.geology.cz/record/basic/515179ac-dfdc-4fcf-871b-1e400a010817
-<img src="background_CZE_CUZK_orthophoto_grayscale_EPSG4326.jpg" alt="ČÚZK Ortofoto ČR preview" width="600"/>
+<img src="CZE_CGS_radon_risk_GEOCR500_EPSG4326.jpg" alt="Radon risk map (GEOCR500) preview" width="600"/>
 ----
