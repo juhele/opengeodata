@@ -31,5 +31,5 @@ OpenStreetMap color, OpenStreetMap grayscale, OpenTopoMap color, OpenTopoMap gra
 
 *Vrstvy pro specifické země*
 
-## Czech Republic / Česká republika (CZE)
+### Czech Republic / Česká republika (CZE)
 [Click here / Klikněte zde](https://github.com/juhele/opengeodata/tree/master/GIS_supporting_layers/GIS_layers_2_CZE)
