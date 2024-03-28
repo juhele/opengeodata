@@ -4,7 +4,7 @@
 
 ## Introduction
 
-QGIS Layer Definition file (QLR) is an XML file that contains a pointer to the layer data source in addition to QGIS style information for the layer. A QLR file can also be easily used as a shortcut file for various types of online data sources. The user does not need to configure the connection to the online service, he just drags the QLR file into the QGIS map window and the layer is loaded.
+QGIS Layer Definition file (QLR) is an XML file that contains a pointer to the layer data source in addition to QGIS style information for the layer. A QLR file can also be easily used as a shortcut file for various types of online data sources. The user does not need to configure the connection to the online service, he just drags and drops the QLR file into the QGIS map window and the layer is loaded.
 
 Warning: The QLR file only facilitates the loading of the layer from the provider's server incl. options for further settings in QGIS (variants of grayscale layers). We cannot guarantee functionality - the data provider may make changes to the map service - if we find out, we will try to fix it in our QLR as well.
 
