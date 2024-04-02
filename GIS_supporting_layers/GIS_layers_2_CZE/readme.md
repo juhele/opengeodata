@@ -37,6 +37,8 @@
 ## Radiometrická mapa 1 : 500 000 (GEOČR500) / Radiometric field map 1 : 500,000 (GEOCR500)
 - transparency set to 50% so you can use it as map overlay, EPSG:5514
 - preview image uses OpenStreetMap background, grayscale version
+- rastrová verze, rychleji se načítá, nejdou měnit barvy, nejde jednoduše uložit jako offline soubor
+- raster version, it loads faster, you can't change colors, you can't simply save as offline file
 - citation in maps: *RRadiometric field map 1 : 500,000 (GEOCR500) © Czech Geological Survey*
 - citace v mapě česky: *Radiometrická mapa 1 : 500 000 (GEOČR500) © Česká geologická služba*
 - homepage: [https://micka.geology.cz/record/basic/515179ac-dfdc-4fcf-871b-1e400a010817](https://micka.geology.cz/record/basic/5addde3d-9424-4e84-bb16-38b40a010852)
