@@ -26,7 +26,7 @@
 - homepage: https://geoportal.cuzk.cz/(S(vpqvbn3bqwdkawmjinb03elg))/Default.aspx?menu=3121&mode=TextMeta&side=wms.verejne&metadataID=CZ-CUZK-WMS-ORTOFOTO-P&metadataXSL=metadata.sluzba
 <img src="background_CZE_CUZK_orthophoto_grayscale_EPSG4326.jpg" alt="ČÚZK Ortofoto ČR preview" width="600"/>
 
-## Mapa radonového indexu 1 : 500 000 (GEOČR500) / Radon risk map 1 : 500,000 (GEOCR500)
+## Mapa radonového indexu 1 : 500 000 (GEOČR500) / Radon risk map 1 : 500,000 (GEOCR500) (raster version)
 - transparency set to 50% so you can use it as map overlay, EPSG:4326 WGS 84
 - citation in maps: *Radon risk map 1 : 500,000 (GEOCR500) © Czech Geological Survey*
 - citace v mapě česky: *Mapa radonového indexu 1 : 500 000 (GEOČR500) © Česká geologická služba*
