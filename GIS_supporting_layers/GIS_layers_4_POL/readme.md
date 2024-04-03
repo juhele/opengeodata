@@ -6,6 +6,12 @@
 
 **You can get plenty of data using links from the [poland-gis-datasets GitHub page](https://github.com/sk1me/poland-gis-datasets) and services from [geoportal.gov.pl](https://www.geoportal.gov.pl/en/services/view-services-wms-and-wmts/)**
 
+## Orthophotomap
+- default colors, EPSG:4326 WGS 84
+- provider: Dział Geoportalu
+- homepage: https://www.geoportal.gov.pl/en/services/view-services-wms-and-wmts/
+<img src="POL_terrain_hillshade_EPSG4326.jpg" alt="Digital Terrain Model - Hillshade preview" width="600"/>
+
 ## Digital Terrain Model - Hillshade
 - default colors, EPSG:4326 WGS 84
 - provider: Główny Urząd Geodezji i Kartografii
