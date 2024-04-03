@@ -4,7 +4,7 @@
 
 ## Republic of Poland / Rzeczpospolita Polska (POL)
 
-**You can get plenty of data using links from the [poland-gis-datasets GitHub page](https://github.com/sk1me/poland-gis-datasets)**
+**You can get plenty of data using links from the [poland-gis-datasets GitHub page](https://github.com/sk1me/poland-gis-datasets) and services from [geoportal.gov.pl](https://www.geoportal.gov.pl/en/services/view-services-wms-and-wmts/)**
 
 ## Mapa Geologiczna Polski w skali 1:500 000
 - transparency set to 50% so you can use it as map overlay, EPSG:4326 WGS 84
