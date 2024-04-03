@@ -6,9 +6,9 @@
 
 **You can get plenty of data using links from the [poland-gis-datasets GitHub page](https://github.com/sk1me/poland-gis-datasets) and services from [geoportal.gov.pl](https://www.geoportal.gov.pl/en/services/view-services-wms-and-wmts/)**
 
-## Orthophotomap
+## Orthophotomap - high resolution
 - default colors, EPSG:4326 WGS 84
-- provider: Dział Geoportalu
+- provider: Państwowy zasób geodezyjny i kartograficzny (PZGiK)
 - homepage: https://www.geoportal.gov.pl/en/services/view-services-wms-and-wmts/
 <img src="noimage" alt="noimage preview" width="600"/>
 
