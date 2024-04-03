@@ -39,6 +39,7 @@ CENIA Historická ortofotomapa (50. léta), ČÚZK Ortofoto ČR (aktuální orto
 ### Slovak Republic / Slovenská republika (SVK)
 [Click here / Klikněte zde](https://github.com/juhele/opengeodata/tree/master/GIS_supporting_layers/GIS_layers_3_SVK)
 
+ZBGIS Ortofotomozaika
 
 ### Republic of Poland / Rzeczpospolita Polska (POL)
 [Click here / Klikněte zde](https://github.com/juhele/opengeodata/tree/master/GIS_supporting_layers/GIS_layers_4_POL)
