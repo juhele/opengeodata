@@ -2,7 +2,10 @@
 
 *Vrstvy pro specifické země*
 
-## Czech Republic / Česká republika (CZE)
+## Republic of Poland / Rzeczpospolita Polska (POL)
+
+**You can get plenty of data using links from the [poland-gis-datasets GitHub page]([https://github.com/juhele/opengeodata/tree/master/GIS_supporting_layers/GIS_layers_1_global](https://github.com/sk1me/poland-gis-datasets))**
+
 
 ## CENIA Historická ortofotomapa (50. léta)
 - default color style, EPSG:3857 Pseudo Mercator
