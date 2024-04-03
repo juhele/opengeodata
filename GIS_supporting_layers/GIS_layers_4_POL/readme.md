@@ -9,7 +9,7 @@
 ## Orthophotomap - high resolution
 - default colors, EPSG:4326 WGS 84
 - provider: Państwowy zasób geodezyjny i kartograficzny (PZGiK)
-- homepage: https://www.geoportal.gov.pl/en/services/view-services-wms-and-wmts/
+- homepage: https://www.geoportal.gov.pl/pl/dane/ortofotomapa-orto/
 <img src="noimage" alt="noimage preview" width="600"/>
 
 ## Digital Terrain Model - Hillshade
