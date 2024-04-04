@@ -24,3 +24,11 @@
 - license: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 - homepage: https://www.geoportal.sk/sk/sluzby/mapove-sluzby/wms/wms-zbgis.html
 <img src="SVK_ZBGIS_DMR3_EPSG3857.jpg" alt="ZBGIS Digitálny model reliéfu (DMR3.5) preview" width="600"/>
+
+## ZBGIS Administratívne hranice (vector data)
+- default color style, EPSG:3857 Pseudo Mercator
+- 4 vrstvy: státní hranice SR, kraje, okresy, obce
+- poskytovatel: Geodetický a kartografický ústav Bratislava
+- license: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- homepage: https://www.geoportal.sk/sk/sluzby/mapove-sluzby/wfs/
+<img src="SVK_ZBGIS_DMR3_EPSG3857.jpg" alt="ZBGIS Digitálny model reliéfu (DMR3.5) preview" width="600"/>
