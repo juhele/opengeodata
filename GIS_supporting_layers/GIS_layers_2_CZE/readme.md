@@ -48,7 +48,7 @@
 - preview image uses OpenStreetMap background, grayscale version
 - vektorová verze, pomaleji se načítá, můžete měnit barvy kategorií, vypínat a zapínat zobrazení kategorií, lze uložit jako offline soubor
 - vector version, slower to load, you can change category colors, toggle category display on and off, can be saved as offline file
-- citation in maps: *RRadiometric field map 1 : 500,000 (GEOCR500) © Czech Geological Survey*
+- citation in maps: *Radiometric field map 1 : 500,000 (GEOCR500) © Czech Geological Survey*
 - citace v mapě česky: *Radiometrická mapa 1 : 500 000 (GEOČR500) © Česká geologická služba*
 - homepage: [https://micka.geology.cz/record/basic/515179ac-dfdc-4fcf-871b-1e400a010817](https://micka.geology.cz/record/basic/5addde3d-9424-4e84-bb16-38b40a010852)
 <img src="CZE_CGS_radiometric_field_GEOCR500_vector_EPSG5514.jpg" alt="Radon risk map (GEOCR500) preview" width="600"/>
