@@ -25,3 +25,11 @@
 - citation in maps: *Map data: © OpenStreetMap contributors, SRTM | map style: © OpenTopoMap (CC-BY-SA)*
 - homepage: https://www.opentopomap.org/
 <img src="background_global_OpenTopoMap_grayscale_EPSG3857.jpg" alt="OpenTopoMap color preview" width="600"/>
+
+## ESRI World Imagery
+- default color style, EPSG:3857 Pseudo Mercator
+- citation in maps - see provider website
+- homepage: h[ttps://www.opentopomap.org/](https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9)
+<img src="background_global_ESRI_World_Imagery_color_EPSG3857_1.jpg" alt="ESRI World Imagery preview 1" width="600"/>
+
+<img src="background_global_ESRI_World_Imagery_color_EPSG3857_2.jpg" alt="ESRI World Imagery preview 2" width="600"/>
