@@ -24,7 +24,7 @@ The use of map layers is subject to the license terms of the respective data pro
 
 [Click here / Klikněte zde](https://github.com/juhele/opengeodata/tree/master/GIS_supporting_layers/GIS_layers_1_global)
 
-OpenStreetMap color, OpenStreetMap grayscale, OpenTopoMap color, OpenTopoMap grayscale
+OpenStreetMap color, OpenStreetMap grayscale, OpenTopoMap color, OpenTopoMap grayscale, ESRI World Imagery
 
 
 ## Country-specific layers
