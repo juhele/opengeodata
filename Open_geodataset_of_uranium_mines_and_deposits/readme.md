@@ -6,6 +6,8 @@
 
 ## Changelog:
 
+2024-09-02 fixed some sites in Italy, updated sites in the Czech Republic
+
 2024-03-13 added many sites in Germany, mainly using Mindat.org + a lot of manual work
 
 2023-11-23 added some sites in Bolivia, mainly using Mindat.org + a lot of manual work
