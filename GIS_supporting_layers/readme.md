@@ -41,6 +41,12 @@ CENIA Historická ortofotomapa (50. léta), ČÚZK Ortofoto ČR (aktuální orto
 
 ZBGIS Ortofotomozaika
 
+ZBGIS®/DMR3/Tieňovaný reliéf
+
+ZBGIS Digitálny model reliéfu (DMR3.5)
+
+ZBGIS Administratívne hranice (vector data)
+
 ### Republic of Poland / Rzeczpospolita Polska (POL)
 [Click here / Klikněte zde](https://github.com/juhele/opengeodata/tree/master/GIS_supporting_layers/GIS_layers_4_POL)
 
