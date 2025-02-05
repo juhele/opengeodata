@@ -2,5 +2,8 @@
 
 # European Atlas of Natural Radiation datasets for QGIS etc.
 
-The aim of this website is to facilitate the use of datasets published in the Joint Research Centre (JRC) Data Catalogue in GIS applications - e.g. QGIS or SAGA GIS.
+The aim of this website is to facilitate the use of [European Atlas of Natural Radiation](https://remon.jrc.ec.europa.eu/About/Atlas-of-Natural-Radiation) datasets published in the [Joint Research Centre (JRC) Data Catalogue](https://data.jrc.ec.europa.eu/collection/id-0057) in GIS applications - e.g. QGIS or SAGA GIS.
+
+
+
 
