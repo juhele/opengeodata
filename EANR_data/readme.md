@@ -13,7 +13,7 @@ Data modification includes correcting/fixing the coordinate system/projection de
 Each data package available here contains original and modified data, a description of the data with proper credits, a link to the original source, and a copyright notice.
 
 ## Terrestrial gamma dose - version for Safecast / CzechRad users
-download: [EANR_data_01_Terrestrial_gamma_dose_microSvh.zip 995 kB](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/10_spectra_EG_3X_sources_Co-60_and_Cs-137.zip)
+download: [EANR_data_01_Terrestrial_gamma_dose_microSvh.zip (995 kB)](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/_SURO_data/Spectra_XML/10_spectra_EG_3X_sources_Co-60_and_Cs-137.zip)
 
 citation:
 Tollefsen, Tore; De Cort, Marc; Cinelli, Giorgia; Gruber, Valeria; Bossew, Peter (2016): 07. Terrestrial gamma dose. European Commission, Joint Research Centre (JRC) [Dataset] PID: http://data.europa.eu/89h/jrc-eanr-07_terrestrial-gamma-dose
