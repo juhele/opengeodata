@@ -18,7 +18,8 @@ Download package in ZIP file, unpack to your computer and then just drag and dro
 
 
 ## Terrestrial gamma dose - version for Safecast / CzechRad users
-download: [EANR_data_01_Terrestrial_gamma_dose_microSvh.zip (995 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_01_Terrestrial_gamma_dose_microSvh.zip)
+
+**Download:** [EANR_data_01_Terrestrial_gamma_dose_microSvh.zip (995 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_01_Terrestrial_gamma_dose_microSvh.zip)
 
 **Description (JRC Data Catalogue):**
 *The European Terrestrial Gamma Dose Rate map reports the gamma dose rate that a person may receive from terrestrial radiation.*
