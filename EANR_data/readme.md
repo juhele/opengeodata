@@ -30,6 +30,7 @@ unpack to your computer and then just drag and drop the particular file to your 
 **Description (source: JRC Data Catalogue):**
 *The European Terrestrial Gamma Dose Rate map reports the gamma dose rate that a person may receive from terrestrial radiation.*
 - raster file, 10 km x 10 km grid cells
+- Created date: 2018-12-14; Modified date: 2021-11-24; Issued date: 2016-10-30
 
 **License (source: JRC Data Catalogue):** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0)
 
