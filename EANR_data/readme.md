@@ -10,6 +10,6 @@ Data modification includes correcting/fixing the coordinate system/projection de
 
 - [SAGA GIS Binary Grid File Format](https://gdal.org/en/stable/drivers/raster/sdat.html)
 
-
+Each data package available here contains original and modified data, a description of the data, a link to the original source, and a copyright notice.
 
 
