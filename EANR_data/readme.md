@@ -12,6 +12,11 @@ Data modification includes correcting/fixing the coordinate system/projection de
 
 Each data package available here contains original and modified data, a description of the data with proper credits, a link to the original source, and a copyright notice.
 
+**Use:**
+Download package in ZIP file, unpack to your computer and then just drag and drop the particular file to your app - *.tif or *.sdat file to QGIS, for SAGA GIS use *.sdat or *.sgrd file.
+
+
+
 ## Terrestrial gamma dose - version for Safecast / CzechRad users
 download: [EANR_data_01_Terrestrial_gamma_dose_microSvh.zip (995 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_01_Terrestrial_gamma_dose_microSvh.zip)
 
