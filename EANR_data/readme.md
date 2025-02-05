@@ -23,6 +23,8 @@ unpack to your computer and then just drag and drop the particular file to your 
 
 ## Terrestrial gamma dose - version for Safecast / CzechRad users
 
+**[Preview](_images/EANR_Terrestrial_gamma_dose_microSvh_preview.jpg)**
+
 **Download:** [EANR_data_01_Terrestrial_gamma_dose_microSvh.zip (995 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_01_Terrestrial_gamma_dose_microSvh.zip)
 
 **Description (JRC Data Catalogue):**
