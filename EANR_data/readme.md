@@ -24,7 +24,7 @@ Download package in ZIP file, unpack to your computer and then just drag and dro
 **Description (JRC Data Catalogue):**
 *The European Terrestrial Gamma Dose Rate map reports the gamma dose rate that a person may receive from terrestrial radiation.*
 
-**License (JRC Data Catalogue):** [Creative Commons Attribution 4.0 International (CC BY 4.0)]([https://qgis.org/](https://creativecommons.org/licenses/by/4.0))
+**License (JRC Data Catalogue):** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0)
 
 **Changes:**
 In addition to the above-mentioned changes, this dataset is converted from nanoSv/h to microSv/h and the color style is unified with the style used in the [QGIS Radiation Toolbox plugin](https://opengeolabs.gitlab.io/radiation-toolbox/qgis-radiation-toolbox-plugin/) for Safecast/CzechRad data.
