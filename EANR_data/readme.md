@@ -15,7 +15,7 @@ Each data package available here contains original and modified data, a descript
 **Use:**
 Download package in ZIP file (click the link and then the Download raw file icon):
 
-<img src="_images/download_raw.png" alt="logo of European Commission" width="800"/>
+<img src="_images/download_raw2.png" alt="logo of European Commission" width="800"/>
 
 unpack to your computer and then just drag and drop the particular file to your app - *.tif or *.sdat file to QGIS, for SAGA GIS use *.sdat or *.sgrd file.
 
