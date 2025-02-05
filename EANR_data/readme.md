@@ -21,8 +21,10 @@ Download package in ZIP file, unpack to your computer and then just drag and dro
 download: [EANR_data_01_Terrestrial_gamma_dose_microSvh.zip (995 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_01_Terrestrial_gamma_dose_microSvh.zip)
 
 **Description (JRC Data Catalogue):**
-The European Terrestrial Gamma Dose Rate map reports the gamma dose rate that a person may receive from terrestrial radiation.
+*The European Terrestrial Gamma Dose Rate map reports the gamma dose rate that a person may receive from terrestrial radiation.*
 
+**Changes:**
+In addition to the above-mentioned changes, this dataset is converted from nanoSv/h to microSv/h and the color style is unified with the style used in the [QGIS Radiation Toolbox plugin](https://opengeolabs.gitlab.io/radiation-toolbox/qgis-radiation-toolbox-plugin/) for Safecast/CzechRad data.
 
 citation:
 Tollefsen, Tore; De Cort, Marc; Cinelli, Giorgia; Gruber, Valeria; Bossew, Peter (2016): 07. Terrestrial gamma dose. European Commission, Joint Research Centre (JRC) [Dataset] PID: http://data.europa.eu/89h/jrc-eanr-07_terrestrial-gamma-dose
