@@ -54,7 +54,7 @@ Tollefsen, Tore; De Cort, Marc; Cinelli, Giorgia; Gruber, Valeria; Bossew, Peter
 **License (source: JRC Data Catalogue):** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0)
 
 **Changes:**
-In addition to the above-mentioned changes, this dataset is converted from nanoSv/h to microSv/h and the color style is unified with the style used in the [QGIS Radiation Toolbox plugin](https://opengeolabs.gitlab.io/radiation-toolbox/qgis-radiation-toolbox-plugin/) for Safecast/CzechRad data.
+Just the above-mentioned changes. The color style and clasification is the same as used in the JRC maps.
 
 citation:
 Tollefsen, Tore; De Cort, Marc; Cinelli, Giorgia; Gruber, Valeria; Bossew, Peter (2016): 07. Terrestrial gamma dose. European Commission, Joint Research Centre (JRC) [Dataset] PID: http://data.europa.eu/89h/jrc-eanr-07_terrestrial-gamma-dose
