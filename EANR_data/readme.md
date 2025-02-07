@@ -64,7 +64,7 @@ Tollefsen, Tore; De Cort, Marc; Cinelli, Giorgia; Gruber, Valeria; Bossew, Peter
 
 **[Preview](_images/EANR_Potassium_in_soil_preview.jpg)**
 
-**Download:** [EANR_data_01_Terrestrial_gamma_dose_microSvh.zip (1 025 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_03_Potassium_concentration_in_soil.zip)
+**Download:** [EANR_data_03_Potassium_concentration_in_soil.zip (1 051 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_03_Potassium_concentration_in_soil.zip)
 
 **Description (source: JRC Data Catalogue):**
 *The European potassium concentration in soil map displays the mean of the concentration of potassium oxide (K2O) in soil over 10 km x 10 km grid cells.*
