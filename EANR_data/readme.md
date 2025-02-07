@@ -84,7 +84,7 @@ Tollefsen, Tore; De Cort, Marc; Cinelli, Giorgia; Gruber, Valeria; Bossew, Peter
 
 **[Preview](_images/EANR_Uranium_in_soil_preview.jpg)**
 
-**Download:** [EANR_data_03_Potassium_concentration_in_soil.zip (1 051 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_03_Potassium_concentration_in_soil.zip)
+**Download:** [EANR_data_04_Uranium_concentration_in_soil.zip (1 027 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_04_Uranium_concentration_in_soil.zip)
 
 **Description (source: JRC Data Catalogue):**
 *The European uranium concentration in soil map displays the geometrical means (GM) of the concentration of Uranium in soil over 10 km x 10 km grid cells.*
