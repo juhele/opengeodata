@@ -78,3 +78,23 @@ Just the above-mentioned changes. The color style and clasification is the same 
 
 citation:
 Tollefsen, Tore; De Cort, Marc; Cinelli, Giorgia; Gruber, Valeria; Bossew, Peter (2016): 06. Potassium concentration in soil. European Commission, Joint Research Centre (JRC) [Dataset] PID: http://data.europa.eu/89h/jrc-eanr-06_potassium-concentration-in-soil
+
+
+## Uranium concentration in soil
+
+**[Preview](_images/EANR_Uranium_in_soil_preview.jpg)**
+
+**Download:** [EANR_data_03_Potassium_concentration_in_soil.zip (1 051 kB)](https://github.com/juhele/opengeodata/blob/master/EANR_data/_data/EANR_data_03_Potassium_concentration_in_soil.zip)
+
+**Description (source: JRC Data Catalogue):**
+*The European uranium concentration in soil map displays the geometrical means (GM) of the concentration of Uranium in soil over 10 km x 10 km grid cells.*
+- raster file, 10 km x 10 km grid cells
+- (Source data) Created date: 2018-12-14; Modified date: 2021-11-24; Issued date: 2016-10-30
+
+**License (source: JRC Data Catalogue):** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0)
+
+**Changes:**
+Just the above-mentioned changes. The color style and clasification is the same as used in the JRC maps.
+
+citation:
+Tollefsen, Tore; De Cort, Marc; Cinelli, Giorgia; Gruber, Valeria; Bossew, Peter (2016): 04. Uranium concentration in soil. European Commission, Joint Research Centre (JRC) [Dataset] PID: http://data.europa.eu/89h/jrc-eanr-04_uranium-concentration-in-soil
