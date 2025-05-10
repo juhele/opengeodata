@@ -99,7 +99,7 @@ All files - both input ERS and resulting TXT and CSV are saved in the "output" f
 **Download:** 
 
 **MS Windows - EXE application:**
-[CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip (680.0 KB)](https://github.com/juhele/CzechRad/blob/main/SCRIPTS/CzechRad_script_004_LOG2CSV-converter_Windows_x86_EXE.zip)
+[ERS2CSV-converter_Windows_x86_EXE.zip (679.0 KB)](https://github.com/juhele/opengeodata/blob/master/ERS_-_European_Radiometric_and_Spectrometry_format/Utils/ERS2CSV-converter_Windows_x86_EXE.zip)
 
 
 ## License:
