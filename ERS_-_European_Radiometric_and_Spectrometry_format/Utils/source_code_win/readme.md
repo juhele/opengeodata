@@ -20,4 +20,4 @@ Ensure the C++ standard library supports <filesystem> (C++17 or later).
 
 - run in terminal:
 
-`x86_64-w64-mingw32-g++ -std=c++17 -I ERS2CSV-converter.cpp -o ERS2CSV-converter.exe -static`
+`x86_64-w64-mingw32-g++ -std=c++17 -I fmt/include ERS2CSV-converter.cpp -o ERS2CSV-converter.exe -static`
