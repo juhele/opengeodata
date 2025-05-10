@@ -36,8 +36,8 @@ void processERSFile(const fs::path& inputPath, const fs::path& outputDir) {
     }
 
     std::string outputBaseName = inputPath.stem().string();
-    fs::path csvOutputPath = outputDir / (outputBaseName + ".csv");
-    fs::path txtOutputPath = outputDir / (outputBaseName + "_header.txt");
+    fs::path csvOutputPath = outputDir / (outputBaseName + "_2_data.csv");
+    fs::path txtOutputPath = outputDir / (outputBaseName + "_1_header.txt");
 
     std::ofstream csvFile(csvOutputPath);
     std::ofstream txtFile(txtOutputPath);
@@ -52,6 +52,7 @@ void processERSFile(const fs::path& inputPath, const fs::path& outputDir) {
     std::vector<std::string> headers;
     std::vector<std::string> values;
     bool headerSection = true;
+    bool firstDataLine = true;
 
     while (std::getline(inFile, line)) {
         line = trim(line);
@@ -69,6 +70,10 @@ void processERSFile(const fs::path& inputPath, const fs::path& outputDir) {
 
         // Process data lines starting with "PA"
         if (!headerSection) {
+            if (line.find("PA") != 0) {
+                continue; // Ignore lines after PA that don't start with PA
+            }
+
             std::vector<std::string> tokens = split(line, ';');
             headers.clear();
             values.clear();
@@ -87,12 +92,13 @@ void processERSFile(const fs::path& inputPath, const fs::path& outputDir) {
             }
 
             // Write headers only once (for the first PA line)
-            if (csvFile.tellp() == 0) {
+            if (firstDataLine) {
                 for (size_t i = 0; i < headers.size(); ++i) {
                     csvFile << headers[i];
                     if (i < headers.size() - 1) csvFile << ",";
                 }
                 csvFile << "\n";
+                firstDataLine = false;
             }
 
             // Write values
@@ -118,28 +124,24 @@ int main() {
         fs::create_directory(outputDir);
     }
 
-    // Process all .ERS and .ers files
+    // Process all .ERS and .ers files and collect their paths for moving
+    std::vector<fs::path> ersFiles;
     for (const auto& entry : fs::recursive_directory_iterator(inputDir)) {
         if (entry.is_regular_file()) {
             std::string ext = entry.path().extension().string();
             std::transform(ext.begin(), ext.end(), ext.begin(), ::tolower);
             if (ext == ".ers") {
+                ersFiles.push_back(entry.path());
                 processERSFile(entry.path(), outputDir);
             }
         }
     }
 
-    // Move .LOG files
-    for (const auto& entry : fs::directory_iterator(inputDir)) {
-        if (entry.is_regular_file()) {
-            std::string ext = entry.path().extension().string();
-            std::transform(ext.begin(), ext.end(), ext.begin(), ::tolower);
-            if (ext == ".log") {
-                fs::path dest = outputDir / entry.path().filename();
-                fs::rename(entry.path(), dest);
-                std::cout << "Moved: " << entry.path().filename() << " to " << outputDir << "\n";
-            }
-        }
+    // Move .ERS and .ers files
+    for (const auto& ersPath : ersFiles) {
+        fs::path dest = outputDir / ersPath.filename();
+        fs::rename(ersPath, dest);
+        std::cout << "Moved: " << ersPath.filename() << " to " << outputDir << "\n";
     }
 
     // Delete contents of input folder
@@ -148,5 +150,16 @@ int main() {
     }
 
     std::cout << "Job finished. Input folder cleared.\n";
+    std::cout << "Press Enter to close the window...";
+    std::cin.get();
+
     return 0;
 }
+
+
+// Created with Grok AI, released under MIT No Attribution License
+// Copyright 2025 Jan Helebrant, jan.helebrant@suro.cz, www.suro.cz
+
+// Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
+
+// THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
