@@ -94,7 +94,7 @@ demo_point-0002,2015-04-01,12:12:13,14.960210,38.383610,50,2.307089e+02,3.503777
 demo_point-0003,2015-04-01,12:12:14,14.960380,38.383800,52,2.159979e+02,1.714167e+01,7.676540e+00,2.401170e+03,5.545540e-02
 ```
 
-For each *.ERS or *.ers file in “input” perform this task “convert to CSV” and write results as a new CSV file with the same filename as source file  “_2_data” in the filename. Write the header part of the file - eg, the part before the lines with “PA” string begin, as a TXT file with the same filename as source file + “_1_header” in the filename.
+All files - both input ERS and resulting TXT and CSV are saved in the "output" folder.
 
 **Download:** 
 
