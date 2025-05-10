@@ -21,9 +21,11 @@ Download package in ZIP file (click the link and then the Download raw file icon
 
 Unpack to your computer. In GNU/Linux environment copy the CzechRad or Safecast *.LOG data you wan to process to "input" folder. In GNU/Linux environment run terminal window from the script folder (can be usually done from default file manager) and then just drag and drop the *.sh file in your terminal window and press Enter.
 
-## Script 01 - find and copy all *.LOG files measured in particular year from "input" to "output" folder
+## ERS2CSV-converter
 
-This script scans "input" directory for *.LOG files and copies those containing "2024" inside to "output" folder. Feel free to replace "2024" with other year according to your needs. Under Windows, I recommend using more advanced text editors like [PSPad](https://www.pspad.com/en/), [Notepad++](https://notepad-plus-plus.org/) for script editing and not using default Notepad in Windows - just to be safe. 
+This application scans "input" directory for *.ERS or *.ers files in the “input” folder including subfolders and writes the result in the “output” folder. The files are converted to CSV and TXT files. CSV contains the data part (lines beginning with “PA”), TXT the header. 
+
+For each *.ERS or *.ers file in “input” perform this task “convert to CSV” and write results as a new CSV file with the same filename as source file  “_2_data” in the filename. Write the header part of the file - eg, the part before the lines with “PA” string begin, as a TXT file with the same filename as source file + “_1_header” in the filename.
 
 **Download:** 
 
