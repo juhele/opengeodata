@@ -35,7 +35,8 @@ output: DEMO_ERS2.0_Area1_Italy_v01_without_spectra_1_header.txt, DEMO_ERS2.0_Ar
 
 the header data has the same structure in the ERS and TXT files - example:
 
-`/*
+```
+/*
 /* header data
 /*
 V 2.0
@@ -73,7 +74,8 @@ ISWE1_TOT 400.00
 ISWE2_TOT 2810.00
 /*
 /* data export starts here
-/*`
+/*
+```
 
 
 
