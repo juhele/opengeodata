@@ -23,7 +23,9 @@ Unpack to your computer. In GNU/Linux environment copy the CzechRad or Safecast 
 
 ## ERS2CSV-converter
 
-This application scans "input" directory for *.ERS or *.ers files in the “input” folder including subfolders and writes the result in the “output” folder. The files are converted to CSV and TXT files. CSV contains the data part (lines beginning with “PA”), TXT the header. 
+Simple EXE application running in command line (CLI). No configuration, just put your ERS files in "input" folder and run the EXE. The result will be saved in output folder.
+
+The application scans "input" directory for *.ERS or *.ers files in the “input” folder including subfolders and writes the result in the “output” folder. The files are converted to CSV and TXT files. CSV contains the data part (lines beginning with “PA”), TXT the header. 
 
 For each *.ERS or *.ers file in “input” perform this task “convert to CSV” and write results as a new CSV file with the same filename as source file  “_2_data” in the filename. Write the header part of the file - eg, the part before the lines with “PA” string begin, as a TXT file with the same filename as source file + “_1_header” in the filename.
 
