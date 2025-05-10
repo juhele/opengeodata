@@ -19,7 +19,7 @@ Download package in ZIP file (click the link and then the Download raw file icon
 
 <img src="download_raw.png" alt="Download raw file icon">
 
-Unpack to your computer. Simple EXE application running in command line (CLI). No configuration, just put your files in "input" folder and run the EXE. The result will be saved in output folder.
+Unpack to your computer. The application is just simple EXE running in command line (CLI). No configuration, just put your files in "input" folder and run the EXE. The result will be saved in output folder.
 
 ## ERS2CSV-converter
 
