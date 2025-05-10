@@ -27,6 +27,56 @@ Simple EXE application running in command line (CLI). No configuration, just put
 
 The application scans "input" directory for *.ERS or *.ers files in the “input” folder including subfolders and writes the result in the “output” folder. The files are converted to CSV and TXT files. CSV contains the data part (lines beginning with “PA”), TXT the header. 
 
+**Example:**
+
+input: DEMO_ERS2.0_Area1_Italy_v01_without_spectra.ers
+
+output: DEMO_ERS2.0_Area1_Italy_v01_without_spectra_1_header.txt, DEMO_ERS2.0_Area1_Italy_v01_without_spectra_2_data.csv
+
+the header data has the same structure in the ERS and TXT files - example:
+
+`/*
+/* header data
+/*
+V 2.0
+HCTRY Czech Republic
+HORG SURO
+HTEAM SURO-DEMO
+HSURVEY Demo data - fictional monitoring - Italy, line spacing: 100m, flight altitude 100 m
+HSITE demo monitoring
+/*
+/* measuring equipment
+/*
+IAP IRIS - NaI(Tl)-16L
+ICA Bell HP-412
+IPR Garmin
+IPC WGS84
+IPU deg
+IPP m
+IPG radar altimeter - TRA-3000
+/*
+/* detection limit
+AA_LD 2000 Bq/m2 - for Cs-137: window method
+/*
+/* measuring methods and parameters
+/*
+ISW windows integrals with stripping
+ISWT exp(-mueh*h)
+/* used windows lower and upper energy
+ISWE1_Kalium 1370.00
+ISWE2_Kalium 1570.00
+ISWE1_Uran_2 1660.00
+ISWE2_Uran_2 1860.00
+ISWE1_Thorium 2410.00
+ISWE2_Thorium 2810.00
+ISWE1_TOT 400.00
+ISWE2_TOT 2810.00
+/*
+/* data export starts here
+/*`
+
+
+
 For each *.ERS or *.ers file in “input” perform this task “convert to CSV” and write results as a new CSV file with the same filename as source file  “_2_data” in the filename. Write the header part of the file - eg, the part before the lines with “PA” string begin, as a TXT file with the same filename as source file + “_1_header” in the filename.
 
 **Download:** 
