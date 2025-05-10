@@ -19,7 +19,7 @@ Download package in ZIP file (click the link and then the Download raw file icon
 
 <img src="download_raw.png" alt="Download raw file icon">
 
-Unpack to your computer. In GNU/Linux environment copy the CzechRad or Safecast *.LOG data you wan to process to "input" folder. In GNU/Linux environment run terminal window from the script folder (can be usually done from default file manager) and then just drag and drop the *.sh file in your terminal window and press Enter.
+Unpack to your computer. Simple EXE application running in command line (CLI). No configuration, just put your files in "input" folder and run the EXE. The result will be saved in output folder.
 
 ## ERS2CSV-converter
 
