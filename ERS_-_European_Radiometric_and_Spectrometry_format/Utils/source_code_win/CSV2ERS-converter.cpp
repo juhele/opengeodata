@@ -198,7 +198,7 @@ int main() {
 }
 
 // Created with Grok AI, released under MIT No Attribution License
-// Copyright 2025 Jan Helebrant, czechrad@suro.cz, www.suro.cz
+// Copyright 2025 Jan Helebrant, jan.helebrant@suro.cz, www.suro.cz
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
 // in the Software without restriction, including without limitation the rights
