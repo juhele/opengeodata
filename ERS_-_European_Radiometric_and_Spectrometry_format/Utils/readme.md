@@ -180,7 +180,7 @@ All files - both input TXT and CSV and resulting ERS are saved in the "output" f
 **Download:** 
 
 **MS Windows - EXE application:**
-[ERS2CSV-converter_Windows_x86_EXE.zip (679.0 KB)](https://github.com/juhele/opengeodata/blob/master/ERS_-_European_Radiometric_and_Spectrometry_format/Utils/ERS2CSV-converter_Windows_x86_EXE.zip)
+[CSV2ERS-converter_Windows_x86_EXE.zip (686.0 KB)](https://github.com/juhele/opengeodata/blob/master/ERS_-_European_Radiometric_and_Spectrometry_format/Utils/CSV2ERS-converter_Windows_x86_EXE.zip)
 
 ## License:
 
