@@ -21,3 +21,9 @@ Ensure the C++ standard library supports <filesystem> (C++17 or later).
 - run in terminal:
 
 `x86_64-w64-mingw32-g++ -std=c++17 -I fmt/include ERS2CSV-converter.cpp -o ERS2CSV-converter.exe -static`
+
+## CSV2ERS-converter:
+
+- run in terminal:
+
+`x86_64-w64-mingw32-g++ -std=c++17 -I fmt/include CSV2ERS-converter.cpp -o CSV2ERS-converter.exe -static`
