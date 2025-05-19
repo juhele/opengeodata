@@ -159,7 +159,7 @@ ISWE2_TOT 2810.00
 
 The data lines are converted into standard CSV file so it can be easily loaded in spreadsheet program (MS Excel or LibreOffice Calc) or a GIS software like QGIS.
 
-iput CSV:
+input CSV:
 ```
 PA,CD,CT,PE,PN,PH,AD_K-40,AD_U-238,AD_Th-232,AA_Cs-137,DHSR
 demo_point-0001,2015-04-01,12:12:12,14.960050,38.383420,49,2.512445e+02,9.557773e+01,1.181432e+01,1.219730e+03,5.766440e-02
