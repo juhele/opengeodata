@@ -101,7 +101,7 @@ All files - both input ERS and resulting TXT and CSV are saved in the "output" f
 **MS Windows - EXE application:**
 [ERS2CSV-converter_Windows_x86_EXE.zip (679.0 KB)](https://github.com/juhele/opengeodata/blob/master/ERS_-_European_Radiometric_and_Spectrometry_format/Utils/ERS2CSV-converter_Windows_x86_EXE.zip)
 
-## ERS2CSV-converter
+## CSV2ERS-converter - opposite of ERS2CSV converter
 
 Simple EXE application running in command line (CLI). No configuration, just put your ERS files in "input" folder and run the EXE. The result will be saved in output folder.
 
