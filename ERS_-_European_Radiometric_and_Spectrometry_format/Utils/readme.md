@@ -109,9 +109,9 @@ The application scans "input" directory for *.ERS or *.ers files in the “input
 
 **Example:**
 
-input: DEMO_ERS2.0_Area1_Italy_v01_without_spectra.ers
+input: DEMO_ERS2.0_Area1_Italy_v01_without_spectra_1_header.txt, DEMO_ERS2.0_Area1_Italy_v01_without_spectra_2_data.csv
 
-output: DEMO_ERS2.0_Area1_Italy_v01_without_spectra_1_header.txt, DEMO_ERS2.0_Area1_Italy_v01_without_spectra_2_data.csv
+output: DEMO_ERS2.0_Area1_Italy_v01_without_spectra.ers
 
 the header data has the same structure in the ERS and TXT files - example:
 
@@ -159,19 +159,19 @@ ISWE2_TOT 2810.00
 
 The data lines are converted into standard CSV file so it can be easily loaded in spreadsheet program (MS Excel or LibreOffice Calc) or a GIS software like QGIS.
 
-input ERS:
-```
-PA demo_point-0001;CD 2015-04-01;CT 12:12:12;PE 14.960050;PN 38.383420;PH 49; AD_K-40 2.512445e+02;AD_U-238 9.557773e+01;AD_Th-232 1.181432e+01;AA_Cs-137 1.219730e+03;DHSR 5.766440e-02
-PA demo_point-0002;CD 2015-04-01;CT 12:12:13;PE 14.960210;PN 38.383610;PH 50; AD_K-40 2.307089e+02;AD_U-238 3.503777e+01;AD_Th-232 1.285644e+01;AA_Cs-137 1.929000e+01;DHSR 5.764430e-02
-PA demo_point-0003;CD 2015-04-01;CT 12:12:14;PE 14.960380;PN 38.383800;PH 52; AD_K-40 2.159979e+02;AD_U-238 1.714167e+01;AD_Th-232 7.676540e+00;AA_Cs-137 2.401170e+03;DHSR 5.545540e-02
-```
-
-output CSV:
+iput CSV:
 ```
 PA,CD,CT,PE,PN,PH,AD_K-40,AD_U-238,AD_Th-232,AA_Cs-137,DHSR
 demo_point-0001,2015-04-01,12:12:12,14.960050,38.383420,49,2.512445e+02,9.557773e+01,1.181432e+01,1.219730e+03,5.766440e-02
 demo_point-0002,2015-04-01,12:12:13,14.960210,38.383610,50,2.307089e+02,3.503777e+01,1.285644e+01,1.929000e+01,5.764430e-02
 demo_point-0003,2015-04-01,12:12:14,14.960380,38.383800,52,2.159979e+02,1.714167e+01,7.676540e+00,2.401170e+03,5.545540e-02
+```
+
+output ERS:
+```
+PA demo_point-0001;CD 2015-04-01;CT 12:12:12;PE 14.960050;PN 38.383420;PH 49; AD_K-40 2.512445e+02;AD_U-238 9.557773e+01;AD_Th-232 1.181432e+01;AA_Cs-137 1.219730e+03;DHSR 5.766440e-02
+PA demo_point-0002;CD 2015-04-01;CT 12:12:13;PE 14.960210;PN 38.383610;PH 50; AD_K-40 2.307089e+02;AD_U-238 3.503777e+01;AD_Th-232 1.285644e+01;AA_Cs-137 1.929000e+01;DHSR 5.764430e-02
+PA demo_point-0003;CD 2015-04-01;CT 12:12:14;PE 14.960380;PN 38.383800;PH 52; AD_K-40 2.159979e+02;AD_U-238 1.714167e+01;AD_Th-232 7.676540e+00;AA_Cs-137 2.401170e+03;DHSR 5.545540e-02
 ```
 
 All files - both input ERS and resulting TXT and CSV are saved in the "output" folder.
