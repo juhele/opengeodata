@@ -11,8 +11,8 @@ This color ramp for QGIS was created based on information from the AGC25 Kick-Of
 and particular color codes derived from the image are following:
 ```
 color; RGB color values
-1;51,102,179,255
-2;77,148,255,2
+1;51,102,179
+2;77,148,255
 3;102,255,255
 4;073,255,106
 5;173,255,153
