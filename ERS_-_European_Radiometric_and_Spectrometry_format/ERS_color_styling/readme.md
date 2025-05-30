@@ -2,7 +2,7 @@
 
 ## Color style for AGC25 exercise
 
-**What is currently available?**
+**Universal color ramp for QGIS - vectors and raster layers**
 
 This color ramp for QGIS was created based on information from the AGC25 Kick-Off Meeting:
 
