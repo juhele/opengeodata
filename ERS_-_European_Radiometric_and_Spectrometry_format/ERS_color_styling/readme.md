@@ -45,7 +45,7 @@ provided files:
 - SLD is [Styled Layer Descriptor](https://www.ogc.org/standards/sld/) standard format
 - **how to use the style in QGIS?** - go to Layer Properties / Symbology, then in bottom left corner go to Style / Load style and navigate to the particular QML or SLD file
 
-<img src="img/QGIS_load_layer_style1.png" alt="Layer properties">  <img src="img/QGIS_load_layer_style2.png" alt="Load style dialog">
+<img src="img/QGIS_load_layer_style1.png" alt="Layer properties">        <img src="img/QGIS_load_layer_style2.png" alt="Load style dialog">
 
 ## Color style used in PSI Bericht
 
