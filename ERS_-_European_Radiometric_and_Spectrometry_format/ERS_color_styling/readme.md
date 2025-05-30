@@ -2,7 +2,7 @@
 
 ## Color style for AGC25 exercise
 
-**Universal color ramp for QGIS - vectors and raster layers**
+### Universal color ramp for QGIS - vectors and raster layers
 
 This color ramp for QGIS was created based on information from the AGC25 Kick-Off Meeting:
 
@@ -35,6 +35,10 @@ provided files:
 - then follow [these instructions](https://docs.qgis.org/3.40/en/docs/user_manual/style_library/style_manager.html#importing-items) to import into QGIS  
 - contains definition of the color classes / gradient, can be used for styling both vector and raster layers in QGIS - [for details see this page in QGIS manual](https://docs.qgis.org/3.40/en/docs/user_manual/working_with_vector/vector_properties.html#graduated-renderer)  
 
+### Vector layers (point layers) styles - QGIS QML / SLD
+
+- designed for particular variable, but can be switched to another using Layer properties / Symbology in QGIS
+- prepared styles for DHSR (dose rate, microSv/h)
 
 ## Color style used in PSI Bericht
 
