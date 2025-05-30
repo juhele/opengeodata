@@ -31,6 +31,8 @@ provided files:
 - download package XML file (click the link and then the Download raw file icon):
 
 <img src="img/download_raw.png" alt="Download raw file icon">
+
+- then follow these instructions to import into QGIS
   
   https://docs.qgis.org/3.40/en/docs/user_manual/style_library/style_manager.html#importing-items
   
