@@ -1,3 +1,15 @@
+# ERS color styles
+
+## Color style for AGC25 exercise
+
+**What is currently available?**
+
+2 demo datasets (Italy and Peru)
+![Alt text](img/AGC25_ARM25_color_ramp.png?raw=true "AGC25 clor ramp in QGIS Style manager")
+
+
+## Color style used in PSI Bericht
+
 the PSI Bericht Nr. 18-04 (1) defines this color scale:
 
 ![Alt text](img/tab26.png?raw=true "Color scale - PSI Bericht Nr. 18-04, p65, Table 26")
