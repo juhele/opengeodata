@@ -8,7 +8,22 @@ This color ramp for QGIS was created based on information from the AGC25 Kick-Of
 
 ![Alt text](img/AGC25_ARM25_color_ramp.png?raw=true "AGC25 clor ramp in QGIS Style manager")
 
-
+and particular color codes derived from the image are following:
+```
+color; RGB color values
+1;51,102,179,255
+2;77,148,255,2
+3;102,255,255
+4;073,255,106
+5;173,255,153
+6;230,255,128
+7;255,235,51
+8;255,176,51
+9;255,0,0
+10;204,0,0
+11;204,0,102
+12;153,0,153
+```
 
 ## Color style used in PSI Bericht
 
