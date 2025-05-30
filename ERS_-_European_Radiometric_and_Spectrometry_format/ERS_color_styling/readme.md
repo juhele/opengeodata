@@ -26,7 +26,7 @@ color; RGB color values
 ```
 provided files:
 
-**ERS_color_ramps_QGIS.xml**
+**AGC25_ARM25_color_ramp.xml**
 - preconfigured color ramp in QGIS XML format for easy import - see:
   
   https://docs.qgis.org/3.40/en/docs/user_manual/style_library/style_manager.html#importing-items
