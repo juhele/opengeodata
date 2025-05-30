@@ -24,6 +24,13 @@ color; RGB color values
 11;204,0,102
 12;153,0,153
 ```
+provided files:
+
+**ERS_color_ramps_QGIS.xml**
+- preconfigured color ramp in QGIS XML format for easy import - see:
+  https://docs.qgis.org/3.40/en/docs/user_manual/style_library/style_manager.html#importing-items
+- contains definition of the color classes / gradient, can be used for styling both vector and raster layers in QGIS
+
 
 ## Color style used in PSI Bericht
 
