@@ -39,7 +39,7 @@ provided files:
 
 - designed for particular variable, but can be switched to another using Layer properties / Symbology in QGIS
 - prepared styles for DHSR (dose rate, microSv/h)
-- QGIS layer style file in native QML format - QML file is defined for particular layer, contains information about used data column, value ranges and attached colors
+- QML is [QGIS Style File Format](https://docs.qgis.org/3.40/en/docs/user_manual/appendices/qgis_file_formats.html#qml-the-qgis-style-file-format) - QML file is defined for particular layer, contains information about used data column, value ranges and attached colors
 - SLD is [Styled Layer Descriptor](https://www.ogc.org/standards/sld/) standard format
 
 ## Color style used in PSI Bericht
