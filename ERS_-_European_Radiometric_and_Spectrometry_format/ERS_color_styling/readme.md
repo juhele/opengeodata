@@ -33,7 +33,7 @@ provided files:
 <img src="img/download_raw.png" alt="Download raw file icon">
 
 - then follow [these instructions](https://docs.qgis.org/3.40/en/docs/user_manual/style_library/style_manager.html#importing-items) to import into QGIS  
-- contains definition of the color classes / gradient, can be used for styling both vector and raster layers in QGIS -  [for details see this page in QGIS manual](https://docs.qgis.org/3.40/en/docs/user_manual/style_library/style_manager.html#setting-a-color-ramp) to import into QGIS  
+- contains definition of the color classes / gradient, can be used for styling both vector and raster layers in QGIS - [for details see this page in QGIS manual](https://docs.qgis.org/3.40/en/docs/user_manual/style_library/style_manager.html#setting-a-color-ramp)  
 
 
 ## Color style used in PSI Bericht
