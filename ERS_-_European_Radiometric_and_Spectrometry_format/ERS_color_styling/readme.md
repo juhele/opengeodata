@@ -27,7 +27,10 @@ color; RGB color values
 provided files:
 
 **AGC25_ARM25_color_ramp.xml**
-- preconfigured color ramp in QGIS XML format for easy import - see:
+- preconfigured color ramp in QGIS XML format for easy import
+- download package XML file (click the link and then the Download raw file icon):
+
+<img src="img/download_raw.png" alt="Download raw file icon">
   
   https://docs.qgis.org/3.40/en/docs/user_manual/style_library/style_manager.html#importing-items
   
