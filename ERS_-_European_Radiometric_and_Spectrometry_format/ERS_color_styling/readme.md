@@ -48,7 +48,7 @@ provided files:
 <img src="img/QGIS_load_layer_style1.png" alt="Layer properties"> 
 
 - then in bottom left corner go to Style / Load style and navigate to the particular QML or SLD file
-- 
+
 <img src="img/QGIS_load_layer_style2.png" alt="Load style dialog">
 
 ## Color style used in PSI Bericht
