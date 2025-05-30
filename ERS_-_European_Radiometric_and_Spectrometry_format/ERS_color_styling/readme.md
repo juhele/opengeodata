@@ -43,6 +43,9 @@ provided files:
 - prepared styles for DHSR (dose rate, microSv/h), MMGC_Ratio,
 - QML is [QGIS Style File Format](https://docs.qgis.org/3.40/en/docs/user_manual/appendices/qgis_file_formats.html#qml-the-qgis-style-file-format) - QML file is defined for particular layer, contains information about used data column, value ranges and attached colors
 - SLD is [Styled Layer Descriptor](https://www.ogc.org/standards/sld/) standard format
+- **how to use the style in QGIS?** - go to Layer Properties / Symbology, then in bottom left corner go to Style / Load style and navigate to the particular QML or SLD file
+
+<img src="img/QGIS_load_layer_style1.png" alt="Layer properties">  <img src="img/QGIS_load_layer_style2.png" alt="Load style dialog">
 
 ## Color style used in PSI Bericht
 
