@@ -38,7 +38,7 @@ provided files:
 ### Vector layers (point layers) styles - QGIS QML / SLD
 
 - designed for particular variable, but can be switched to another using Layer properties / Symbology in QGIS
-- prepared styles for DHSR (dose rate, microSv/h)
+- prepared styles for DHSR (dose rate, microSv/h), MMGC_Ratio,
 - QML is [QGIS Style File Format](https://docs.qgis.org/3.40/en/docs/user_manual/appendices/qgis_file_formats.html#qml-the-qgis-style-file-format) - QML file is defined for particular layer, contains information about used data column, value ranges and attached colors
 - SLD is [Styled Layer Descriptor](https://www.ogc.org/standards/sld/) standard format
 
