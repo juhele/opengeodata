@@ -4,8 +4,10 @@
 
 **What is currently available?**
 
-2 demo datasets (Italy and Peru)
+This color ramp for QGIS was created based on information from the AGC25 Kick-Off Meeting:
+
 ![Alt text](img/AGC25_ARM25_color_ramp.png?raw=true "AGC25 clor ramp in QGIS Style manager")
+
 
 
 ## Color style used in PSI Bericht
