@@ -36,6 +36,7 @@ provided files:
 - contains definition of the color classes / gradient, can be used for styling both vector and raster layers in QGIS - [for details see this page in QGIS manual](https://docs.qgis.org/3.40/en/docs/user_manual/working_with_vector/vector_properties.html#graduated-renderer)  
 
 ### Vector layers (point layers) styles - QGIS QML / SLD
+[AGC25_ERS_vector_layer_styles.zip 55.4 KB](https://github.com/juhele/opengeodata/blob/master/ERS_-_European_Radiometric_and_Spectrometry_format/ERS_color_styling/AGC25_ERS_vector_layer_styles.zip)
 
 ![Alt text](img/AGC25_style_QGIS_DHSR_uSvph_points.png?raw=true "AGC25 style for DHSR - Layer Properties dialog in QGIS")
 
@@ -43,6 +44,10 @@ provided files:
 - prepared styles for DHSR (dose rate, microSv/h), MMGC_Ratio,
 - QML is [QGIS Style File Format](https://docs.qgis.org/3.40/en/docs/user_manual/appendices/qgis_file_formats.html#qml-the-qgis-style-file-format) - QML file is defined for particular layer, contains information about used data column, value ranges and attached colors
 - SLD is [Styled Layer Descriptor](https://www.ogc.org/standards/sld/) standard format
+- download package XML file (click the link and then the Download raw file icon):
+
+<img src="img/download_raw.png" alt="Download raw file icon">
+
 - **how to use the style in QGIS?** - go to Layer Properties / Symbology:
 
 <img src="img/QGIS_load_layer_style1.png" alt="Layer properties"> 
