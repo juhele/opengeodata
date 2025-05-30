@@ -41,7 +41,7 @@ provided files:
 ![Alt text](img/AGC25_style_QGIS_DHSR_uSvph_points.png?raw=true "AGC25 style for DHSR - Layer Properties dialog in QGIS")
 
 - designed for particular variable, but can be switched to another using Layer properties / Symbology in QGIS
-- prepared styles for DHSR (dose rate, microSv/h), MMGC_Ratio,
+- prepared styles for DHSR (dose rate, microSv/h), MMGC_Ratio, AD_K-40, AD_U-238, AD_Th-232, AD_Cs-137, AA_Cs-137
 - QML is [QGIS Style File Format](https://docs.qgis.org/3.40/en/docs/user_manual/appendices/qgis_file_formats.html#qml-the-qgis-style-file-format) - QML file is defined for particular layer, contains information about used data column, value ranges and attached colors
 - SLD is [Styled Layer Descriptor](https://www.ogc.org/standards/sld/) standard format
 - download package [AGC25_ERS_vector_layer_styles.zip 55.4 KB](https://github.com/juhele/opengeodata/blob/master/ERS_-_European_Radiometric_and_Spectrometry_format/ERS_color_styling/AGC25_ERS_vector_layer_styles.zip) (click the link and then the Download raw file icon):
