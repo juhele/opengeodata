@@ -6,7 +6,7 @@
 
 This color ramp for QGIS was created based on information from the AGC25 Kick-Off Meeting:
 
-![Alt text](img/AGC25_ARM25_color_ramp.png?raw=true "AGC25 clor ramp in QGIS Style manager")
+![Alt text](img/AGC25_ARM25_color_ramp.png?raw=true "AGC25 color ramp in QGIS Style manager")
 
 and particular color codes derived from the image are following:
 ```
@@ -36,6 +36,8 @@ provided files:
 - contains definition of the color classes / gradient, can be used for styling both vector and raster layers in QGIS - [for details see this page in QGIS manual](https://docs.qgis.org/3.40/en/docs/user_manual/working_with_vector/vector_properties.html#graduated-renderer)  
 
 ### Vector layers (point layers) styles - QGIS QML / SLD
+
+![Alt text](img/AGC25_style_QGIS_DHSR_uSvph_points.png?raw=true "AGC25 style for DHSR - Layer Properties dialog in QGIS")
 
 - designed for particular variable, but can be switched to another using Layer properties / Symbology in QGIS
 - prepared styles for DHSR (dose rate, microSv/h), MMGC_Ratio,
