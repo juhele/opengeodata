@@ -118,3 +118,16 @@ data acquisition time:
 - uranium glass: ~ 40 min
 - uraninite mineral (UO2): ~ 37 min
 - download: [Bossew_spectra_05_Uranium_glass_and_uraninite.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_05_Uranium_glass_and_uraninite.zip)
+
+### Bossew_spectra_06_Brazil-Pocos_de_Caldas
+
+description: 
+- background spectrum "Background-W-2" ~ 5 days
+- caldasite sample - an uraniferous zirconium ore, a mixture of Zircon (ZrSiO4) and Baddeleyite (ZrO2), with an average zirconium content higher than 60% ZrO2- and uranium content of 0.3 % U3O8
+- samples from Morro do Ferro (Poços de Caldas, Brazil) uranium deposit
+
+data acquisition time:
+- background: ~ 5 days
+- caldasite: ~ 77 minutes
+- Morro do Ferro samples: ~ 42 minutes
+- download: [Bossew_spectra_06_Brazil-Pocos_de_Caldas.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_06_Brazil-Pocos_de_Caldas.zip)
