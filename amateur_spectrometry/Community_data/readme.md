@@ -97,12 +97,13 @@ In this section you will find data shared by community members using the RadiaCo
 
 description: 
 - background spectrum "Background-W-2" ~ 5 days
-- samples - monazite (Ce,La,Th)PO4 (see [Wikipedia article](https://en.wikipedia.org/wiki/Monazite)) from Guarapari, Brazil and Kerala, India
+- samples - monazite (Ce,La,Th)PO4 (see [Wikipedia article](https://en.wikipedia.org/wiki/Monazite)) from Guarapari, Brazil; Kerala, India and Sri Lanka
 
 data acquisition time:
 - background: ~ 5 days
 - monazite (Ce,La,Th)PO4 from Guarapari, Brazil ~ 10 minutes measurement 
-- monazite (Ce,La,Th)PO4 from India Kerala, India ~ 15 minutes measurement 
+- monazite (Ce,La,Th)PO4 from Kerala, India ~ 15 minutes measurement
+- monazite (Ce,La,Th)PO4 from Sri Lanka ~ 66 minutes measurement 
 - download: [Bossew_spectra_04_Monazite.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_04_Monazite.zip)
 
 ### Bossew_spectra_05_Uranium_glass_and_uraninite
