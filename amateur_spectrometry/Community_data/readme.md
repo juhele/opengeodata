@@ -108,7 +108,7 @@ data acquisition time:
 
 ### Bossew_spectra_05_Uranium_glass_and_uraninite
 
-ddescription: 
+description: 
 - background spectrum "Background-W-2" ~ 5 days
 - uranium glass
 - uraninite mineral (UO2)
