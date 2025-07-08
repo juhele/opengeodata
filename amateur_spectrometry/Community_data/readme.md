@@ -92,3 +92,18 @@ In this section you will find data shared by community members using the RadiaCo
 - background: ~ 12 hours, Danube sediment: ~ 20 hours
 - data acquisition time: - background: ~ 12 hours, Schlackenstein: ~ 14 hours
 - download: [Bossew_spectra_03_Schlackenstein.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_03_Schlackenstein.zip)
+
+### Bossew_spectra_04_Monazite
+
+description: 
+- background spectrum "Background-W-2" ~ 5 days
+- samples - monazite (Ce,La,Th)PO4 (see [Wikipedia article](https://en.wikipedia.org/wiki/Monazite))) from Guarapari, Brazil and Kerala, India
+
+data acquisition time:
+- background: ~ 5 days
+- monazite (Ce,La,Th)PO4 from Guarapari, Brazil ~ 10 minutes measurement 
+- monazite (Ce,La,Th)PO4 from India Kerala, India ~ 15 minutes measurement 
+- Copper slag material "Mansfelder Kupferschlacke" containing natural radionuclides (more in German -  - Ra-226, Th-232, K-40; classified as technologically enhanced naturally occurring radioactive materials (TENORM)
+- background: ~ 12 hours, Danube sediment: ~ 20 hours
+- data acquisition time: - background: ~ 12 hours, Schlackenstein: ~ 14 hours
+- download: [Bossew_spectra_03_Schlackenstein.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_03_Schlackenstein.zip)
