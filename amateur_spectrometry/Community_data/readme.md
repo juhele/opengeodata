@@ -104,3 +104,16 @@ data acquisition time:
 - monazite (Ce,La,Th)PO4 from Guarapari, Brazil ~ 10 minutes measurement 
 - monazite (Ce,La,Th)PO4 from India Kerala, India ~ 15 minutes measurement 
 - download: [Bossew_spectra_04_Monazite.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_04_Monazite.zip)
+
+### Bossew_spectra_05_Uranium_glass_and_uraninite
+
+ddescription: 
+- background spectrum "Background-W-2" ~ 5 days
+- uranium glass
+- uraninite mineral (UO2)
+
+data acquisition time:
+- background: ~ 5 days
+- uranium glass: ~ 40 min
+- uraninite mineral (UO2): ~ 37 min
+- download: [Bossew_spectra_05_Uranium_glass_and_uraninite.zip](https://github.com/juhele/opengeodata/blob/master/amateur_spectrometry/Community_data/Bossew_spectra_05_Uranium_glass_and_uraninite.zip)
