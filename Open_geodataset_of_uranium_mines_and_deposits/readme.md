@@ -6,6 +6,8 @@
 
 ## Changelog:
 
+2025-10-20 updated sites in the Czech Republic
+
 2024-09-02 fixed some sites in Italy, updated sites in the Czech Republic
 
 2024-03-13 added many sites in Germany, mainly using Mindat.org + a lot of manual work
