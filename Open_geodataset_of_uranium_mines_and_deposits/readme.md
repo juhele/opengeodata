@@ -6,6 +6,8 @@
 
 ## Changelog:
 
+2025-10-30 updated sites in Romania and Czech Republic
+
 2025-10-20 updated sites in the Czech Republic
 
 2024-09-02 fixed some sites in Italy, updated sites in the Czech Republic
