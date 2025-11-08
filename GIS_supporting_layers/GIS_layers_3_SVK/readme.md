@@ -36,3 +36,12 @@
 <img src="SVK_ZBGIS_adm_boundaries0_country_vector_EPSG5514_preview1.jpg" alt="ZBGIS Administratívne hranice preview" width="600"/>
 - náhled s podkladem OpenStreetMap
 <img src="SVK_ZBGIS_adm_boundaries0_country_vector_EPSG5514_preview2.jpg" alt="ZBGIS Administratívne hranice" width="600"/>
+
+
+## SGÚDŠ (Štátny geologický ústav Dionýza Štúra) - Dávkový príkon gama žiarenia vo vzduchu
+- default color style, EPSG:5514; S-JTSK / Krovak East North - SJTSK
+- poskytovatel: SGÚDŠ - Štátny geologický ústav Dionýza Štúra, Bratislava
+- license: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+- homepage: https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer/11
+- náhled s podkladem OpenStreetMap
+<img src="SVK_ZBGIS_adm_boundaries0_country_vector_EPSG5514_preview2.jpg" alt="ZBGIS Administratívne hranice" width="600"/>
