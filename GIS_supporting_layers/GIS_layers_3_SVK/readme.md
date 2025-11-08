@@ -44,4 +44,4 @@
 - license: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 - homepage: https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer/11
 - náhled s podkladem OpenStreetMap
-<img src="SVK_ZBGIS_adm_boundaries0_country_vector_EPSG5514_preview2.jpg" alt="ZBGIS Administratívne hranice" width="600"/>
+<img src="SVK_SGUDS_radioactivity_1_gamma_doserate.jpg" alt="SVK_SGUDS_radioactivity_1_gamma_doserate" width="600"/>
