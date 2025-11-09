@@ -41,7 +41,7 @@
 ## SGÚDŠ (Štátny geologický ústav Dionýza Štúra) - Dávkový príkon gama žiarenia vo vzduchu
 - default color style, EPSG:5514; S-JTSK / Krovak East North - SJTSK
 - transparency set to 50%
-- probably in nanoGrays per hour - nGy/h
+- ani metdadata ani legenda neuvádí jednotky, ale pravděpodobně to budou nanoGray/hod - nGy/h
 - poskytovatel: SGÚDŠ - Štátny geologický ústav Dionýza Štúra, Bratislava
 - license: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
 - homepage: https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer/11
