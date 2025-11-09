@@ -4,7 +4,7 @@
     <customproperties>
       <Option/>
     </customproperties>
-    <layer-tree-layer id="D_vkov__pr_kon_gama__iarenia_vo_vzduchu__nGy_h__19281fed_3151_425b_b61c_3d62f73a4ab6" providerKey="arcgismapserver" checked="Qt::Checked" legend_split_behavior="0" patch_size="-1,-1" expanded="1" source=" layer='11' url='https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer'" legend_exp="" name="Dávkový príkon gama žiarenia vo vzduchu (nGy/h)">
+    <layer-tree-layer id="Celkov__pr_rodn__r_dioaktivita_9fd5da41_ea64_43b1_bf88_010ab000a8ad" providerKey="arcgismapserver" checked="Qt::Checked" legend_split_behavior="0" patch_size="-1,-1" expanded="1" source=" layer='10' url='https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer'" legend_exp="" name="Celková prírodná rádioaktivita, eUt [ur]">
       <customproperties>
         <Option/>
       </customproperties>
@@ -24,10 +24,10 @@
         <xmax>22.61982492638747644</xmax>
         <ymax>49.7159689938069036</ymax>
       </wgs84extent>
-      <id>D_vkov__pr_kon_gama__iarenia_vo_vzduchu__nGy_h__19281fed_3151_425b_b61c_3d62f73a4ab6</id>
-      <datasource> layer='11' url='https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer'</datasource>
-      <timestamp>2025-11-09T09:17:07</timestamp>
-      <layername>Dávkový príkon gama žiarenia vo vzduchu (nGy/h)</layername>
+      <id>Celkov__pr_rodn__r_dioaktivita_9fd5da41_ea64_43b1_bf88_010ab000a8ad</id>
+      <datasource> layer='10' url='https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer'</datasource>
+      <timestamp>2025-11-09T09:18:44</timestamp>
+      <layername>Celková prírodná rádioaktivita, eUt [ur]</layername>
       <srs>
         <spatialrefsys nativeFormat="Wkt">
           <wkt>PROJCRS["S-JTSK / Krovak East North",BASEGEOGCRS["S-JTSK",DATUM["System of the Unified Trigonometrical Cadastral Network",ELLIPSOID["Bessel 1841",6377397.155,299.1528128,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4156]],CONVERSION["Krovak East North (Greenwich)",METHOD["Krovak (North Orientated)",ID["EPSG",1041]],PARAMETER["Latitude of projection centre",49.5,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8811]],PARAMETER["Longitude of origin",24.8333333333333,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8833]],PARAMETER["Co-latitude of cone axis",30.2881397527778,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",1036]],PARAMETER["Latitude of pseudo standard parallel",78.5,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8818]],PARAMETER["Scale factor on pseudo standard parallel",0.9999,SCALEUNIT["unity",1],ID["EPSG",8819]],PARAMETER["False easting",0,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["easting (X)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["northing (Y)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["GIS."],AREA["Czechia; Slovakia."],BBOX[47.73,12.09,51.06,22.56]],ID["EPSG",5514]]</wkt>
@@ -42,11 +42,11 @@
         </spatialrefsys>
       </srs>
       <resourceMetadata>
-        <identifier>https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer/11</identifier>
+        <identifier>https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer/10</identifier>
         <parentidentifier>https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer</parentidentifier>
         <language></language>
         <type>dataset</type>
-        <title>Dávkový príkon gama žiarenia vo vzduchu</title>
+        <title>Celková prírodná rádioaktivita</title>
         <abstract></abstract>
         <keywords vocabulary="keywords">
           <keyword>geology</keyword>
@@ -63,7 +63,7 @@
           <role>author</role>
         </contact>
         <links>
-          <link description="" size="" url="https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer/11" mimeType="" name="Source" type="WWW:LINK" format=""/>
+          <link description="" size="" url="https://ags.geology.sk/arcgis/rest/services/GeofyzikalneMapy/PrirodnaRadioaktivita_2022/MapServer/10" mimeType="" name="Source" type="WWW:LINK" format=""/>
         </links>
         <dates/>
         <fees></fees>
@@ -127,7 +127,7 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <layer id="{9a0d8ec7-befe-4a26-9d2b-24faffd47dcd}" locked="0" pass="0" class="SimpleLine" enabled="1">
+            <layer id="{a847008f-aa4e-48e3-889a-b1628ee09e21}" locked="0" pass="0" class="SimpleLine" enabled="1">
               <Option type="Map">
                 <Option value="0" type="QString" name="align_dash_pattern"/>
                 <Option value="square" type="QString" name="capstyle"/>
@@ -139,7 +139,7 @@
                 <Option value="MM" type="QString" name="dash_pattern_offset_unit"/>
                 <Option value="0" type="QString" name="draw_inside_polygon"/>
                 <Option value="bevel" type="QString" name="joinstyle"/>
-                <Option value="232,113,141,255,rgb:0.9098039,0.4431373,0.5529412,1" type="QString" name="line_color"/>
+                <Option value="190,207,80,255,rgb:0.745098,0.8117647,0.3137255,1" type="QString" name="line_color"/>
                 <Option value="solid" type="QString" name="line_style"/>
                 <Option value="0.6" type="QString" name="line_width"/>
                 <Option value="MM" type="QString" name="line_width_unit"/>
@@ -176,10 +176,10 @@
                 <Option value="collection" type="QString" name="type"/>
               </Option>
             </data_defined_properties>
-            <layer id="{731dbefc-1f6d-40ba-8a15-109b84991312}" locked="0" pass="0" class="SimpleFill" enabled="1">
+            <layer id="{996ece74-1710-4bf2-9c59-682d208e1213}" locked="0" pass="0" class="SimpleFill" enabled="1">
               <Option type="Map">
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="border_width_map_unit_scale"/>
-                <Option value="232,113,141,255,rgb:0.9098039,0.4431373,0.5529412,1" type="QString" name="color"/>
+                <Option value="190,207,80,255,rgb:0.745098,0.8117647,0.3137255,1" type="QString" name="color"/>
                 <Option value="bevel" type="QString" name="joinstyle"/>
                 <Option value="0,0" type="QString" name="offset"/>
                 <Option value="3x:0,0,0,0,0,0" type="QString" name="offset_map_unit_scale"/>
