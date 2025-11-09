@@ -38,7 +38,7 @@
 <img src="SVK_ZBGIS_adm_boundaries0_country_vector_EPSG5514_preview2.jpg" alt="ZBGIS Administratívne hranice" width="600"/>
 
 
-## SGÚDŠ (Štátny geologický ústav Dionýza Štúra) - Dávkový príkon gama žiarenia vo vzduchu
+## SGÚDŠ (Štátny geologický ústav Dionýza Štúra) - Dávkový príkon gama žiarenia vo vzduchu, nGy/h
 - default color style, EPSG:5514; S-JTSK / Krovak East North - SJTSK
 - transparency set to 50%
 - ani metdadata ani legenda neuvádí jednotky, ale podle obrázku ze stejného zdroje jde o nanoGray/hod - nGy/h
