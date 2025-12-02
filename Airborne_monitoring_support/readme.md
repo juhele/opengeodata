@@ -5,3 +5,8 @@
 Tyto datové vrstvy vznikly v rámci řešení výzkumného projektu "[Posílení a rozvoj nástrojů, schopností a dovedností pro zajištění efektivního řízení odezvy na radiační havárii ve všech fázích včetně zohlednění požadavků Národního radiačního havarijního plánu ČR (VC20232025007)](https://starfos.tacr.cz/projekty/VC20232025007)" řešeného v Programu bezpečnostního výzkumu pro potřeby státu 2022-2027 (SecPro) jehož poskytovatelem je Ministerstvo vnitra České Republiky.
 
 AAa
+
+
+*Disclaimer:*
+*Obsah tohoto repozitáře je poskytován "TAK JAK JE" a veškeré výslovné nebo předpokládané záruky, včetně, ale bez omezení na - předpokládané záruky obchodovatelnosti a vhodnosti pro specifické účely se odmítají. Autor nebo přispěvatelé nebudou v žádném případě odpovídat za jakékoliv přímé, nepřímé, náhodné, speciální, exemplární, nebo následné škody; ztrátu uplatnění, dat, nebo zisku) způsobené jakkoliv a na základě jakékoli teorie o
+odpovědnosti, ať už smluvní odpovědnosti, přesně vymezené odpovědnosti, nebo občanskoprávní odpovědnosti (včetně zanedbání nebo jinak), vzniklé jakýmkoli způsobem, souvisejícím s používáním těchto datových vrstev.*
