@@ -8,7 +8,7 @@ Vrstvy jsou k dispozici ve standardních formátech, ale primárně jsou určeny
 
 ## Vrstva českých a slovenských letišť
 
-<img src="Images/AIS_CZ_airports_preview.jpg" alt="SURO and MVČR logo" width="800"/>
+<img src="Images/Airports_CZ-SK_preview.jpg" alt="SURO and MVČR logo" width="800"/>
 
 - bodová vrstva letišť vč. vloženého stylu zobrazení bodů i popisků
 - doplňková data v atributové tabulce
