@@ -4,6 +4,11 @@
 
 Tyto datové vrstvy vznikly v rámci řešení výzkumného projektu "[Posílení a rozvoj nástrojů, schopností a dovedností pro zajištění efektivního řízení odezvy na radiační havárii ve všech fázích včetně zohlednění požadavků Národního radiačního havarijního plánu ČR (VC20232025007)](https://starfos.tacr.cz/projekty/VC20232025007)" řešeného v Programu bezpečnostního výzkumu pro potřeby státu 2022-2027 (SecPro) jehož poskytovatelem je Ministerstvo vnitra České Republiky.
 
+## Podpůrné GIS vrstvy pro letecký radiační monitoring
+
+Data pochází z databáze vnitrostátních i neveřejných letišť, které se nacházejí v České a Slovenské republice zveřejněné na webu [SkyFly](https://www.skyfly.cz/databaze-letist.php?kraje=&zeme=&povrch=&stranka=11)
+
+
 ----na obsahu se pracuje----
 
 
