@@ -8,7 +8,7 @@ Vrstvy jsou k dispozici ve standardních formátech, ale primárně jsou určeny
 
 ## Vrstva českých a slovenských letišť
 
-<img src="Images/Airports_CZ-SK_preview.jpg" alt="SURO and MVČR logo" width="800"/>
+<img src="Images/Airports_CZ-SK_preview.jpg" alt="SURO and MVČR logo" width="600"/>
 
 *(background map © OpenStreetMap contributors)*
 
