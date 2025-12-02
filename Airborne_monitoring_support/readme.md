@@ -20,6 +20,8 @@ Vrstvy jsou k dispozici ve standardních formátech, ale primárně jsou určeny
 Data pochází z databáze vnitrostátních i neveřejných letišť, které se nacházejí v České a Slovenské republice zveřejněné na webu [SkyFly](https://www.skyfly.cz/databaze-letist.php?kraje=&zeme=&povrch=&stranka=11)
 
 
+Datové vrstvy vychází z informací z [VFR příručky ČR](https://aim.rlp.cz/vfrmanual/), vydané Leteckou informační službou ŘLP ČR, s.p. 
+
 ----na obsahu se pracuje----
 
 
