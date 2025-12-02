@@ -15,6 +15,7 @@ Vrstvy jsou k dispozici ve standardních formátech, ale primárně jsou určeny
 - bodová vrstva letišť vč. vloženého stylu zobrazení bodů i popisků
 - polygonová vrstva kruhů o poloměru 5,5 km kolem bodů letišť - zóny ATZ (Aerodrome traffic zone), CTR (Control Zone) s ohledem na použití [UAV](https://ans.cz/services/UASoperaions/operationofdronesinthevicinityofaerodromes)
 - doplňková data v atributové tabulce
+- souřadnicový systém vrstvy [WGS 84 / UTM zone 33N - EPSG:32633](https://epsg.io/32633), klasické GPS souřadnice jsou k dispozici v atributové tabulce 
 - formát OGC Geopackage, ke stažení zde: [Airports_CZ-SK.zip (615 kb)](https://github.com/juhele/opengeodata/blob/master/Airborne_monitoring_support/Data/Airports_CZ-SK.zip)
 
 Data pochází z databáze vnitrostátních i neveřejných letišť, které se nacházejí v České a Slovenské republice zveřejněné na webu [SkyFly](https://www.skyfly.cz/databaze-letist.php?kraje=&zeme=&povrch=&stranka=11)
