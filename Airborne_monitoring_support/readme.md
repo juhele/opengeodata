@@ -13,6 +13,7 @@ Vrstvy jsou k dispozici ve standardních formátech, ale primárně jsou určeny
 *(background map © OpenStreetMap contributors)*
 
 - bodová vrstva letišť vč. vloženého stylu zobrazení bodů i popisků
+- polygonová vrstva kruhů o poloměru 5,5 km kolem bodů letišť - zóny ATZ (Aerodrome traffic zone), CTR (Control Zone) s ohledem na použití [UAV](https://ans.cz/services/UASoperaions/operationofdronesinthevicinityofaerodromes)
 - doplňková data v atributové tabulce
 - formát OGC Geopackage
 
