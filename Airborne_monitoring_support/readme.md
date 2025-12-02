@@ -22,6 +22,7 @@ Data pochází z databáze vnitrostátních i neveřejných letišť, které se 
 ## Vrstva prostorů (TRA, TSA) v ČR
 
 -
+- typy prostorů: Prohibited Area (Zakázaný prostor, No-fly zone / bezletová zóna), Restricted Area (Omezený prostor), Dangerous Area (Nebezpečný prostor), TRA - Temporary Reserved Area (Dočasně vymezený (rezervovaný) prostor)
 -
 
 Datové vrstvy vychází z informací z [VFR příručky ČR](https://aim.rlp.cz/vfrmanual/), konkrétně dokumentů [ENR 5.1-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-1.pdf) a [ENR 5.2-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-2.pdf), vydané Leteckou informační službou ŘLP ČR, s.p., snahou bylo sjednotit vzhled s online aplikací [AisView](https://aisview.rlp.cz). 
