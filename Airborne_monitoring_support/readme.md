@@ -30,11 +30,29 @@ Datové vrstvy vychází z informací z [VFR příručky ČR](https://aim.rlp.cz
 
 ----na obsahu se pracuje----
 
+## Tematické online mapy ČR
 
-## Podkladové online mapy
+[k dispozici zde](opengeodata/GIS_supporting_layers/) - například:
+- Radiometrická mapa 1 : 500 000 (GEOČR500)(rastr)
+- Radiometrická mapa 1 : 500 000 (GEOČR500)(vektor) - tato vrstva lze uložit pro offline použití
+- Mapa radonového indexu 1 : 500 000 (GEOČR500)(rastr)
 
-[k dispozici zde](GIS_supporting_layers)
-- typy prosto
+K dispozici ve formě souborů *.QLR (QGIS Layer Definition file), což je soubor XML, který kromě informací o stylu QGIS pro vrstvu obsahuje ukazatel na zdroj dat vrstvy. QLR soubor lze snadno použít i jako zástupce pro různé typy online datových zdrojů. Uživatel nemusí konfigurovat připojení k online službě, pouze přetáhne QLR soubor do mapového okna QGISu a vrstva se načte.
+
+Varování: QLR soubor pouze usnadňuje načtení vrstvy ze serveru poskytovatele vč. možnosti dalšího nastavení v QGISu (varianty vrstev ve stupní šedi). Nemůžeme garantovat funkčnost - poskytovatel dat může provést změny mapové služby - pokud to zjistíme, pokusíme se to opravit i v našem QLR.
+
+## Podkladové online mapy ČR
+
+[k dispozici zde](opengeodata/GIS_supporting_layers/) - například:
+- CENIA Historická ortofotomapa (50. léta)
+- ČÚZK Ortofoto ČR (aktuální ortofoto)
+- ČÚZK Ortofoto ČR (aktuální ortofoto) - grayscale version / černobílá varianta
+
+K dispozici ve formě souborů *.QLR (QGIS Layer Definition file), což je soubor XML, který kromě informací o stylu QGIS pro vrstvu obsahuje ukazatel na zdroj dat vrstvy. QLR soubor lze snadno použít i jako zástupce pro různé typy online datových zdrojů. Uživatel nemusí konfigurovat připojení k online službě, pouze přetáhne QLR soubor do mapového okna QGISu a vrstva se načte.
+
+Varování: QLR soubor pouze usnadňuje načtení vrstvy ze serveru poskytovatele vč. možnosti dalšího nastavení v QGISu (varianty vrstev ve stupní šedi). Nemůžeme garantovat funkčnost - poskytovatel dat může provést změny mapové služby - pokud to zjistíme, pokusíme se to opravit i v našem QLR.
+
+
 
 *Disclaimer:*
 *Obsah tohoto repozitáře je poskytován "TAK JAK JE" a veškeré výslovné nebo předpokládané záruky, včetně, ale bez omezení na - předpokládané záruky obchodovatelnosti a vhodnosti pro specifické účely se odmítají. Autor nebo přispěvatelé nebudou v žádném případě odpovídat za jakékoliv přímé, nepřímé, náhodné, speciální, exemplární, nebo následné škody; ztrátu uplatnění, dat, nebo zisku) způsobené jakkoliv a na základě jakékoli teorie o
