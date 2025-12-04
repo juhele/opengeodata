@@ -8,7 +8,7 @@ Vrstvy jsou k dispozici ve standardních formátech, ale primárně jsou určeny
 
 Návod na stažení - klikněte na příslušný odkaz a poté klikněte na ikonu Download raw file:
 
-<img src="_images/download_raw.png" alt="Download raw file icon">
+<img src="Images/download_raw.png" alt="Download raw file icon">
 
 Před načtením do QGISu stažený ZIP archiv nejdřív rozbalte do PC.
 
