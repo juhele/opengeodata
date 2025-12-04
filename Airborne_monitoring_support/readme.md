@@ -29,7 +29,7 @@ Data pochází z databáze vnitrostátních i neveřejných letišť, které se 
 - typy prostorů: Prohibited Area (Zakázaný prostor, No-fly zone / bezletová zóna), Restricted Area (Omezený prostor), Dangerous Area (Nebezpečný prostor) - vysvětlené např. na Wikipedii na stránce [Vzdušný prostor](https://cs.wikipedia.org/wiki/Vzdu%C5%A1n%C3%BD_prostor)
 - polygonová vrstva, doplňková data v atributové tabulce
 - souřadnicový systém vrstvy [WGS 84 / UTM zone 33N - EPSG:32633](https://epsg.io/32633), klasické GPS souřadnice jsou k dispozici v atributové tabulce 
-- formát OGC Geopackage, ke stažení zde: [Airports_CZ-SK.zip (615 kb)](https://github.com/juhele/opengeodata/blob/master/Airborne_monitoring_support/Data/Airports_CZ-SK.zip)
+- formát OGC Geopackage, ke stažení zde: [AIP_CZ_ENR_5-1_UTM33N.zip (489 kb)](https://github.com/juhele/opengeodata/blob/master/Airborne_monitoring_support/Data/AIP_CZ_ENR_5-1_UTM33N.zip)
 
 Datová vrstva vychází z informací z [VFR příručky ČR](https://aim.rlp.cz/vfrmanual/), konkrétně dokumentu [ENR 5.1-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-1.pdf), vydaného Leteckou informační službou ŘLP ČR, s.p., snahou bylo sjednotit vzhled s online aplikací [AisView](https://aisview.rlp.cz) pro větší komfort uživatelů. 
 
