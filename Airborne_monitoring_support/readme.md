@@ -73,6 +73,7 @@ K dispozici ve formě souborů *.QLR (QGIS Layer Definition file), což je soubo
 Varování: QLR soubor pouze usnadňuje načtení vrstvy ze serveru poskytovatele vč. možnosti dalšího nastavení v QGISu (varianty vrstev ve stupní šedi). Nemůžeme garantovat funkčnost - poskytovatel dat může provést změny mapové služby - pokud to zjistíme, pokusíme se to opravit i v našem QLR.
 
 
+*AIP =  letecká informační příručka (anglicky aeronautical information publication)
 
 *Disclaimer:*
 *Obsah tohoto repozitáře je poskytován "TAK JAK JE" a veškeré výslovné nebo předpokládané záruky, včetně, ale bez omezení na - předpokládané záruky obchodovatelnosti a vhodnosti pro specifické účely se odmítají. Autor nebo přispěvatelé nebudou v žádném případě odpovídat za jakékoliv přímé, nepřímé, náhodné, speciální, exemplární, nebo následné škody; ztrátu uplatnění, dat, nebo zisku) způsobené jakkoliv a na základě jakékoli teorie o
