@@ -20,13 +20,22 @@ Vrstvy jsou k dispozici ve standardních formátech, ale primárně jsou určeny
 
 Data pochází z databáze vnitrostátních i neveřejných letišť, které se nacházejí v České a Slovenské republice zveřejněné na webu [SkyFly](https://www.skyfly.cz/databaze-letist.php?kraje=&zeme=&povrch=&stranka=11)
 
-## Vrstva prostorů (TRA, TSA) v ČR
+## ENR 5.1 - Vrstva prostorů v ČR - zakázané, omezené a nebezpečné prostory
 
 -
-- typy prostorů: Prohibited Area (Zakázaný prostor, No-fly zone / bezletová zóna), Restricted Area (Omezený prostor), Dangerous Area (Nebezpečný prostor), TRA - Temporary Reserved Area (Dočasně vymezený (rezervovaný) prostor), TSA - Temporary Segregated Area (Dočasně vyhrazený prostor) - vysvětlené např. na Wikipedii na stránce [Vzdušný prostor](https://cs.wikipedia.org/wiki/Vzdu%C5%A1n%C3%BD_prostor)
+- typy prostorů: Prohibited Area (Zakázaný prostor, No-fly zone / bezletová zóna), Restricted Area (Omezený prostor), Dangerous Area (Nebezpečný prostor) - vysvětlené např. na Wikipedii na stránce [Vzdušný prostor](https://cs.wikipedia.org/wiki/Vzdu%C5%A1n%C3%BD_prostor)
 -
 
-Datové vrstvy vychází z informací z [VFR příručky ČR](https://aim.rlp.cz/vfrmanual/), konkrétně dokumentů [ENR 5.1-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-1.pdf) a [ENR 5.2-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-2.pdf), vydané Leteckou informační službou ŘLP ČR, s.p., snahou bylo sjednotit vzhled s online aplikací [AisView](https://aisview.rlp.cz). 
+Datová vrstva vychází z informací z [VFR příručky ČR](https://aim.rlp.cz/vfrmanual/), konkrétně dokumentu [ENR 5.1-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-1.pdf), vydaného Leteckou informační službou ŘLP ČR, s.p., snahou bylo sjednotit vzhled s online aplikací [AisView](https://aisview.rlp.cz). 
+
+
+## ENR 5.2 - Vrstva prostorů v ČR - TRA, TSA
+
+-
+- typy prostorů: TRA - Temporary Reserved Area (Dočasně vymezený (rezervovaný) prostor), TSA - Temporary Segregated Area (Dočasně vyhrazený prostor) - vysvětlené např. na Wikipedii na stránce [Vzdušný prostor](https://cs.wikipedia.org/wiki/Vzdu%C5%A1n%C3%BD_prostor)
+-
+
+Datová vrstva vychází z informací z [VFR příručky ČR](https://aim.rlp.cz/vfrmanual/), konkrétně dokumentů [ENR 5.1-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-1.pdf) a [ENR 5.2-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-2.pdf), vydané Leteckou informační službou ŘLP ČR, s.p., snahou bylo sjednotit vzhled s online aplikací [AisView](https://aisview.rlp.cz). 
 
 ----na obsahu se pracuje----
 
