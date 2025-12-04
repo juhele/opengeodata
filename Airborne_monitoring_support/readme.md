@@ -6,6 +6,12 @@ Tyto datové vrstvy vznikly v rámci řešení výzkumného projektu "[Posílen�
 
 Vrstvy jsou k dispozici ve standardních formátech, ale primárně jsou určeny pro použití v bezplatně dostupném open-source programu [QGIS](https://qgis.org/), doporučena je verze 3.40 a vyšší.
 
+Návod na stažení - klikněte na příslušný odkaz a poté klikněte na ikonu Download raw file:
+
+<img src="_images/download_raw.png" alt="Download raw file icon">
+
+Před načtením do QGISu stažený ZIP archiv nejdřív rozbalte do PC.
+
 ## Vrstva českých a slovenských letišť
 
 <img src="Images/Airports_CZ-SK_preview.jpg" alt="SURO and MVČR logo" width="600"/>
