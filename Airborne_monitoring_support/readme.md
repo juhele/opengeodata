@@ -57,11 +57,15 @@ Datová vrstva vychází z informací z [VFR příručky ČR](https://aim.rlp.cz
 - Radiometrická mapa 1 : 500 000 (GEOČR500)(vektor) - tato vrstva lze uložit pro offline použití
 - Mapa radonového indexu 1 : 500 000 (GEOČR500)(rastr)
 
-**vrstva lokalit radioaktivních surovin** (těžba, zpracování, průzkum) - [k dispozici zde](https://github.com/juhele/opengeodata/tree/master/Open_geodataset_of_uranium_mines_and_deposits)
-
 K dispozici ve formě souborů *.QLR (QGIS Layer Definition file), což je soubor XML, který kromě informací o stylu QGIS pro vrstvu obsahuje ukazatel na zdroj dat vrstvy. QLR soubor lze snadno použít i jako zástupce pro různé typy online datových zdrojů. Uživatel nemusí konfigurovat připojení k online službě, pouze přetáhne QLR soubor do mapového okna QGISu a vrstva se načte.
 
 Varování: QLR soubor pouze usnadňuje načtení vrstvy ze serveru poskytovatele vč. možnosti dalšího nastavení v QGISu (varianty vrstev ve stupní šedi). Nemůžeme garantovat funkčnost - poskytovatel dat může provést změny mapové služby - pokud to zjistíme, pokusíme se to opravit i v našem QLR.
+
+
+## Celosvětová vrstva "radioaktivních" lokalit
+
+- vrstva lokalit radioaktivních surovin (těžba, zpracování, průzkum) - [k dispozici zde](https://github.com/juhele/opengeodata/tree/master/Open_geodataset_of_uranium_mines_and_deposits)
+- použitelná offline, formát OGC Geopackage
 
 ## Podkladové online mapy ČR
 
