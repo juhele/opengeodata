@@ -35,7 +35,7 @@ Datová vrstva vychází z informací z [VFR příručky ČR](https://aim.rlp.cz
 - typy prostorů: TRA - Temporary Reserved Area (Dočasně vymezený (rezervovaný) prostor), TSA - Temporary Segregated Area (Dočasně vyhrazený prostor) - vysvětlené např. na Wikipedii na stránce [Vzdušný prostor](https://cs.wikipedia.org/wiki/Vzdu%C5%A1n%C3%BD_prostor)
 -
 
-Datová vrstva vychází z informací z [VFR příručky ČR](https://aim.rlp.cz/vfrmanual/), konkrétně dokumentů [ENR 5.1-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-1.pdf) a [ENR 5.2-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-2.pdf), vydané Leteckou informační službou ŘLP ČR, s.p., snahou bylo sjednotit vzhled s online aplikací [AisView](https://aisview.rlp.cz). 
+Datová vrstva vychází z informací z [VFR příručky ČR](https://aim.rlp.cz/vfrmanual/), konkrétně dokumentů [ENR 5.1-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-1.pdf)(verze 29 DEC 22) a [ENR 5.2-1](https://aim.rlp.cz/ais_data/aip/data/valid/e5-2.pdf), vydané Leteckou informační službou ŘLP ČR, s.p., snahou bylo sjednotit vzhled s online aplikací [AisView](https://aisview.rlp.cz). 
 
 ----na obsahu se pracuje----
 
