@@ -63,7 +63,7 @@ Varování: QLR soubor pouze usnadňuje načtení vrstvy ze serveru poskytovatel
 
 ## Vrstva hranic vojenských újezdů
 
-<img src="Images/AIP_CZ_ENR_5-1_UTM33N_preview.jpg" alt="Náhled ENR 5.1 - Vrstva prostorů v ČR - zakázané, omezené a nebezpečné prostory" width="600"/>
+<img src="Images/ADM_CZ_vojenske_ujezdy_preview.jpg" alt="Náhled vrstvy hranic vojenských újezdů" width="600"/>
 
 Vojenským újezdem se podle zákona č. 222/1999 Sb. rozumí správní jednotka, vojenským výcvikovým prostorem pak armáda označuje vlastní cvičiště nacházející se na území této správní jednotky, tj. vojenského újezdu. Název vojenského újezdu se může lišit od názvu vojenského výcvikového prostoru. Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
 - vrstva obsahuje hranice 4 Zachované vojenské újezdy
@@ -73,8 +73,8 @@ Vojenským újezdem se podle zákona č. 222/1999 Sb. rozumí správní jednotka
 *Hradiště* s vojenským výcvikovým prostorem Hradiště či Doupov, východně od Karlových Varů.
 Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
 - zdrojem dat hranic je Registr územní identifikace, adres a nemovitostí (RÚIAN) jehož správcem je [Český úřad zeměměřický a katastrální (ČÚZK)](https://cuzk.gov.cz/ruian)
-- vrstva lokalit radioaktivních surovin (těžba, zpracování, průzkum) - [k dispozici zde](https://github.com/juhele/opengeodata/tree/master/Open_geodataset_of_uranium_mines_and_deposits)
-- použitelná offline, formát OGC Geopackage
+- použitelná offline
+- formát OGC Geopackage a Esri Shapefile, ke stažení zde: - [ADM_CZ_vojenske_ujezdy.zip (625 KB)](https://github.com/juhele/opengeodata/blob/master/Airborne_monitoring_support/Data/ADM_CZ_vojenske_ujezdy.zip)
 
 ## Celosvětová vrstva "radioaktivních" lokalit
 
