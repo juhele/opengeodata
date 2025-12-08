@@ -83,7 +83,8 @@ Vojenským újezdem se podle zákona č. 222/1999 Sb. rozumí správní jednotka
 
 Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
 - zdrojem dat hranic je Registr územní identifikace, adres a nemovitostí (RÚIAN) jehož správcem je [Český úřad zeměměřický a katastrální (ČÚZK)](https://cuzk.gov.cz/ruian)
-- použitelná offline
+- použitelná offline, data: RÚIAN - ČÚZK, [2022]
+- licence [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 - formát OGC Geopackage a Esri Shapefile, ke stažení zde: - [ADM_CZ_vojenske_ujezdy.zip (625 KB)](https://github.com/juhele/opengeodata/blob/master/Airborne_monitoring_support/Data/ADM_CZ_vojenske_ujezdy.zip)
 
 ## Podkladové online mapy ČR
