@@ -50,6 +50,11 @@ Datová vrstva vychází z informací z [VFR příručky ČR](https://aim.rlp.cz
 
 ----na obsahu se pracuje----
 
+## Celosvětová vrstva "radioaktivních" lokalit
+
+- vrstva lokalit radioaktivních surovin (těžba, zpracování, průzkum) - [k dispozici zde](https://github.com/juhele/opengeodata/tree/master/Open_geodataset_of_uranium_mines_and_deposits)
+- použitelná offline, formát OGC Geopackage
+
 ## Tematické online mapy ČR
 
 [k dispozici zde](opengeodata/GIS_supporting_layers/) - například:
@@ -80,11 +85,6 @@ Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
 - zdrojem dat hranic je Registr územní identifikace, adres a nemovitostí (RÚIAN) jehož správcem je [Český úřad zeměměřický a katastrální (ČÚZK)](https://cuzk.gov.cz/ruian)
 - použitelná offline
 - formát OGC Geopackage a Esri Shapefile, ke stažení zde: - [ADM_CZ_vojenske_ujezdy.zip (625 KB)](https://github.com/juhele/opengeodata/blob/master/Airborne_monitoring_support/Data/ADM_CZ_vojenske_ujezdy.zip)
-
-## Celosvětová vrstva "radioaktivních" lokalit
-
-- vrstva lokalit radioaktivních surovin (těžba, zpracování, průzkum) - [k dispozici zde](https://github.com/juhele/opengeodata/tree/master/Open_geodataset_of_uranium_mines_and_deposits)
-- použitelná offline, formát OGC Geopackage
 
 ## Podkladové online mapy ČR
 
