@@ -75,7 +75,7 @@ Vojenským újezdem se podle zákona č. 222/1999 Sb. rozumí správní jednotka
   
 *Březina* s vojenským výcvikovým prostorem Dědice či Vyškov, severně od Vyškova.
 
-*Boletice* s vojenským výcvikovým prostorem Boletice leží západně od Českého Krumlova.
+*Boletice* s vojenským výcvikovým prostorem Boletice, západně od Českého Krumlova.
 
 *Libavá* s vojenským výcvikovým prostorem Libavá či Město Libavá, severovýchodně od Olomouce.
 
