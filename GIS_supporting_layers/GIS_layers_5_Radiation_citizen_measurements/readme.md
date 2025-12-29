@@ -24,3 +24,11 @@
 - legend image is loading from this GitHub
 - homepage: https://raysid.com/map/
 <img src="Raysid.com_dose_rate_microSvh_layer_EPSG3857.jpg" alt="Raysid.com Map preview" width="600"/>
+
+## Dosemap.org Map
+- default color style, EPSG:3857 Pseudo Mercator
+- raster layer - you cannot change colors or query values from QGIS
+- dose rate, microSv/h
+- legend image is loading from this GitHub
+- homepage: https://dosemap.org/
+<img src="Dosemap.org_dose_rate_microSvh_layer_EPSG3857.jpg" alt="Dosemap.org map preview" width="600"/>
