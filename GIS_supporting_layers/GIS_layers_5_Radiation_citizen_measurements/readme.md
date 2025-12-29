@@ -2,9 +2,9 @@
 
 *Vrstvy občanských měření hodnot radiace (radioaktivity) - globální rozsah*
 
-## OpenStreetMap color
+## Safecast Tile Map (https://map.safecast.org/)
 - default color style, EPSG:3857 Pseudo Mercator
-- citation in maps: *Map background: © OpenStreetMap contributors (CC-BY-SA)*
-- homepage: www.openstreetmap.org/
-<img src="background_global_OpenStreetMap_color_EPSG3857.jpg" alt="OpenStreetMap color preview" width="600"/>
+- legend image is loading from this GitHub
+- homepage: https://map.safecast.org/
+<img src="Safecast.org_dose_rate_microSvh_layer_EPSG3857.jpg" alt="Safecast Tile Map preview" width="600"/>
 
