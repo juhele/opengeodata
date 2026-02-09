@@ -91,8 +91,10 @@ Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
 
 <img src="Images/AOPK_chranena_uzemi_NP-CHKO_preview.jpg" alt="Náhled vrstvy hranic chráněných území" width="600"/>
 
-Vojenským újezdem se podle zákona č. 222/1999 Sb. rozumí správní jednotka, vojenským výcvikovým prostorem pak armáda označuje vlastní cvičiště nacházející se na území této správní jednotky, tj. vojenského újezdu. Název vojenského újezdu se může lišit od názvu vojenského výcvikového prostoru. Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
-- vrstva obsahuje hranice 4 Zachované vojenské újezdy:
+Hranice vyhlášených velkoplošných zvláště chráněných území (národní parky, chráněné krajinné oblasti) a jejich ochranných pásem; vrstva obsahuje složené prvky (Multipart Features); © AOPK ČR, 2024
+Klíčová slova:
+národní park chráněná krajinná oblast chráněné území velkoplošné zvláště chráněné území VZCHÚ ochranné pásmo OP NP CHKO územní ochrana
+Datum poslední aktualizace: 13.06.2025
 - 
 - zdrojem dat hranic je Registr územní identifikace, adres a nemovitostí (RÚIAN) jehož správcem je [Český úřad zeměměřický a katastrální (ČÚZK)](https://cuzk.gov.cz/ruian)
 - použitelná offline, data: RÚIAN - ČÚZK, [2022]
