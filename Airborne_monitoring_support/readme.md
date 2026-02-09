@@ -91,14 +91,12 @@ Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
 
 <img src="Images/AOPK_chranena_uzemi_NP-CHKO_preview.jpg" alt="Náhled vrstvy hranic chráněných území" width="600"/>
 
-Hranice vyhlášených velkoplošných zvláště chráněných území (národní parky, chráněné krajinné oblasti) a jejich ochranných pásem; vrstva obsahuje složené prvky (Multipart Features); © AOPK ČR, 2024
-Klíčová slova:
-národní park chráněná krajinná oblast chráněné území velkoplošné zvláště chráněné území VZCHÚ ochranné pásmo OP NP CHKO územní ochrana
-Datum poslední aktualizace: 13.06.2025
-- 
-- zdrojem dat hranic je Registr územní identifikace, adres a nemovitostí (RÚIAN) jehož správcem je [Český úřad zeměměřický a katastrální (ČÚZK)](https://cuzk.gov.cz/ruian)
-- použitelná offline, data: RÚIAN - ČÚZK, [2022]
-- licence [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+- hranice vyhlášených velkoplošných zvláště chráněných území (národní parky, chráněné krajinné oblasti) a jejich ochranných pásem; vrstva obsahuje složené prvky (Multipart Features); © AOPK ČR, 2024
+- klíčová slova: národní park chráněná krajinná oblast chráněné území velkoplošné zvláště chráněné území VZCHÚ ochranné pásmo OP NP CHKO územní ochrana
+- datum poslední aktualizace: 13.06.2025
+- zdrojem dat je [Agentura ochrany přírody a krajiny České republiky](https://aopk.gov.cz/), pro uvedení původu použijte označení: (c) AOPK ČR
+- použitelná offline
+- licence [Creative Commons Uveďte původ 4.0 Mezinárodní (CC BY)](https://creativecommons.org/licenses/by/4.0/deed.cs)
 - formát OGC Geopackage a Esri Shapefile, ke stažení zde: - [AOPK_chranena_uzemi_NP-CHKO.zip (3.9 MB)](https://github.com/juhele/opengeodata/blob/master/Airborne_monitoring_support/Data/AOPK_chranena_uzemi_NP-CHKO.zip)
 
 ## Podkladové online mapy ČR
