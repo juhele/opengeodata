@@ -87,6 +87,18 @@ Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
 - licence [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
 - formát OGC Geopackage a Esri Shapefile, ke stažení zde: - [ADM_CZ_vojenske_ujezdy.zip (625 KB)](https://github.com/juhele/opengeodata/blob/master/Airborne_monitoring_support/Data/ADM_CZ_vojenske_ujezdy.zip)
 
+## Vrstva hranic vyhlášených velkoplošných zvláště chráněných území (národní parky, chráněné krajinné oblasti) a jejich ochranných pásem
+
+<img src="Images/AOPK_chranena_uzemi_NP-CHKO_preview.jpg" alt="Náhled vrstvy hranic chráněných území" width="600"/>
+
+Vojenským újezdem se podle zákona č. 222/1999 Sb. rozumí správní jednotka, vojenským výcvikovým prostorem pak armáda označuje vlastní cvičiště nacházející se na území této správní jednotky, tj. vojenského újezdu. Název vojenského újezdu se může lišit od názvu vojenského výcvikového prostoru. Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
+- vrstva obsahuje hranice 4 Zachované vojenské újezdy:
+- 
+- zdrojem dat hranic je Registr územní identifikace, adres a nemovitostí (RÚIAN) jehož správcem je [Český úřad zeměměřický a katastrální (ČÚZK)](https://cuzk.gov.cz/ruian)
+- použitelná offline, data: RÚIAN - ČÚZK, [2022]
+- licence [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode.cs)
+- formát OGC Geopackage a Esri Shapefile, ke stažení zde: - [AOPK_chranena_uzemi_NP-CHKO.zip (3.9 MB)](https://github.com/juhele/opengeodata/blob/master/Airborne_monitoring_support/Data/AOPK_chranena_uzemi_NP-CHKO.zip)
+
 ## Podkladové online mapy ČR
 
 [k dispozici zde](opengeodata/GIS_supporting_layers/) - například:
