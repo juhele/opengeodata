@@ -92,7 +92,7 @@ Zdroj: [Wikipedia](https://cs.wikipedia.org/wiki/Vojensk%C3%BD_%C3%BAjezd)
 <img src="Images/AOPK_chranena_uzemi_NP-CHKO_preview.jpg" alt="Náhled vrstvy hranic chráněných území" width="600"/>
 
 - hranice vyhlášených velkoplošných zvláště chráněných území (národní parky, chráněné krajinné oblasti) a jejich ochranných pásem; vrstva obsahuje složené prvky (Multipart Features); © AOPK ČR, 2024
-- klíčová slova: národní park chráněná krajinná oblast chráněné území velkoplošné zvláště chráněné území VZCHÚ ochranné pásmo OP NP CHKO územní ochrana
+- klíčová slova: národní park, chráněná krajinná oblast, chráněné území, velkoplošné zvláště chráněné území, VZCHÚ, ochranné pásmo, OP, NP, CHKO, územní ochrana
 - datum poslední aktualizace: 13.06.2025
 - zdrojem dat je [Agentura ochrany přírody a krajiny České republiky](https://aopk.gov.cz/), pro uvedení původu použijte označení: (c) AOPK ČR
 - použitelná offline
