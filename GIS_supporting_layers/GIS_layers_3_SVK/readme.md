@@ -31,7 +31,7 @@
 - upraven styl kvůli průhlednosti a sjednocení s českým RÚIAN
 - poskytovatel: Geodetický a kartografický ústav Bratislava
 - license: CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
-- homepage: https://www.geoportal.sk/sk/sluzby/mapove-sluzby/wfs/
+- homepage: [https://www.geoportal.sk/sk/sluzby/mapove-sluzby/wfs/](https://www.gku.sk/gku/produkty-sluzby/zbgis/wms.html#wfs)
 - náhled bez mapového podkladu:
 <img src="SVK_ZBGIS_adm_boundaries0_country_vector_EPSG5514_preview1.jpg" alt="ZBGIS Administratívne hranice preview" width="600"/>
 - náhled s podkladem OpenStreetMap
