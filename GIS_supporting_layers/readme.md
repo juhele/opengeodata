@@ -30,8 +30,7 @@ OpenStreetMap color, OpenStreetMap grayscale, OpenTopoMap color, OpenTopoMap gra
 ### Citizen radiation (radioactivity) measurement layers
 [Click here / Klikněte zde](https://github.com/juhele/opengeodata/tree/master/GIS_supporting_layers/GIS_layers_5_Radiation_citizen_measurements)
 
-OpenStreetMap color, OpenStreetMap grayscale, OpenTopoMap color, OpenTopoMap grayscale, ESRI World Imagery
-
+Safecast Tile Map, Žhavá Místa (English: Hot Places) Map, Raysid.com Map, Dosemap.org Map
 
 ## Country-specific layers
 
